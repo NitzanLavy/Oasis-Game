@@ -1,0 +1,3 @@
+C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/CMakeFiles/Oasis.dir
+C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

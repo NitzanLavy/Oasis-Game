@@ -1,0 +1,7002 @@
+init
+joinClan -1 0
+joinClan -1 0
+joinClan -1 0
+getScoreboard: -1
+completeChallange 10001 6
+completeChallange 10001 7
+addClan 1957
+addClan 1010
+getBestPlayer 10001
+uniteClans 0 1000
+completeChallange 10001 50
+addPlayer 3856 58
+getBestPlayer 10001
+addPlayer 4334 70
+completeChallange 3856 36
+completeChallange 10001 42
+addClan 637
+uniteClans 1000 1000
+uniteClans 100 -12
+completeChallange 3856 72
+getScoreboard: 1957
+uniteClans 10000 10001
+getScoreboard: 1957
+joinClan 3856 1010
+uniteClans 10000 10001
+joinClan -1 0
+completeChallange 10001 46
+uniteClans 10000 10001
+addPlayer 8673 64
+uniteClans 0 1000
+completeChallange 8673 19
+addClan 1947
+getBestPlayer 637
+getBestPlayer 10001
+addPlayer 5118 56
+getScoreboard: 1010
+completeChallange 8673 39
+completeChallange 4334 44
+joinClan -1 0
+getBestPlayer 1010
+completeChallange 3856 36
+uniteClans 10000 10001
+joinClan 8673 637
+getBestPlayer 10001
+addPlayer 9415 21
+joinClan 5118 1957
+joinClan 5118 1010
+addPlayer 2773 4
+getScoreboard: 1010
+getScoreboard: 1947
+uniteClans 100 -12
+getBestPlayer 0
+getBestPlayer -2
+joinClan 8673 1947
+addPlayer 1524 6
+getBestPlayer 10001
+getBestPlayer 1010
+addPlayer 7110 24
+addClan 508
+addClan 1964
+completeChallange 10001 59
+addPlayer 2852 -1
+joinClan 7110 1010
+getScoreboard 0
+joinClan -1 0
+addClan 86
+joinClan 8673 86
+addPlayer 6354 0
+uniteClans 100 -12
+getScoreboard: 1010
+joinClan -1 0
+uniteClans 100 -12
+addClan 395
+completeChallange -1 -7
+addPlayer 1128 37
+getBestPlayer 0
+getBestPlayer 10001
+joinClan 9415 1957
+joinClan -1 0
+joinClan 1524 1010
+uniteClans 637 508
+addPlayer 2390 77
+joinClan 8673 1947
+addPlayer 2691 25
+completeChallange -1 -3
+addPlayer 55 15
+completeChallange 1524 27
+addClan 1762
+getScoreboard: 1964
+completeChallange 10001 9
+uniteClans 100 -12
+getBestPlayer 1947
+joinClan 7110 1762
+addClan 1609
+completeChallange 9415 61
+uniteClans 1000 1000
+completeChallange 1128 10
+getScoreboard: 1609
+addClan 1297
+addClan 1586
+addClan 1956
+uniteClans 1010 1609
+uniteClans 10000 10001
+completeChallange 10001 53
+joinClan -1 0
+getBestPlayer 0
+addPlayer 9671 56
+addClan 310
+addPlayer 8849 79
+getBestPlayer 10001
+addClan 1456
+getScoreboard: 1957
+joinClan 1128 395
+joinClan 2691 1586
+joinClan -1 0
+joinClan 2691 1010
+completeChallange 55 6
+addPlayer 2294 28
+addClan 1055
+joinClan 5118 1010
+uniteClans 10000 10001
+addPlayer 3135 28
+uniteClans 10000 10001
+addClan 1624
+addClan 493
+addClan 1670
+getScoreboard 0
+getBestPlayer 1957
+addPlayer 9160 0
+addClan 1140
+addClan 1696
+addPlayer 7768 37
+completeChallange 8849 47
+addClan 1034
+addPlayer 6275 52
+uniteClans 10000 10001
+getScoreboard: -2
+getScoreboard: 1956
+completeChallange 9671 68
+addPlayer 7185 -1
+uniteClans 10000 10001
+completeChallange 8849 4
+uniteClans 10000 10001
+joinClan 2294 1762
+joinClan 1128 1956
+addClan 1703
+addClan 1266
+getScoreboard 0
+joinClan 8849 1456
+getScoreboard: -1
+addClan 1913
+getScoreboard: 1696
+uniteClans 1000 1000
+completeChallange 10001 38
+addClan 725
+addPlayer 1233 9
+addPlayer 9078 0
+getScoreboard 0
+joinClan 5118 637
+getBestPlayer 1266
+joinClan 8673 1947
+joinClan 8849 1913
+addPlayer 2597 72
+addPlayer 290 61
+completeChallange 2294 60
+joinClan 1233 1956
+addClan 1032
+getBestPlayer 1297
+getBestPlayer 0
+addPlayer 1615 53
+joinClan -1 0
+joinClan -1 0
+uniteClans 725 1140
+addClan 512
+getBestPlayer 10001
+addPlayer 4286 20
+addPlayer 606 52
+joinClan 1524 395
+completeChallange 8673 67
+getScoreboard: 1964
+getBestPlayer 10001
+addPlayer 4642 18
+addPlayer 2166 71
+getBestPlayer 10001
+joinClan 8673 1010
+addPlayer 6117 34
+joinClan 55 1956
+joinClan 3856 1957
+addPlayer 5862 69
+getScoreboard: 1586
+addClan 221
+addClan 1165
+addClan 1337
+getBestPlayer 0
+addPlayer 4572 61
+uniteClans 100 -12
+addPlayer 1566 67
+getBestPlayer 10001
+addPlayer 5313 9
+uniteClans 10000 10001
+getScoreboard: 1762
+addPlayer 8404 -6
+addPlayer 363 31
+completeChallange 2597 9
+getBestPlayer 10001
+addClan 935
+addClan 1501
+joinClan -1 0
+uniteClans 10000 10001
+completeChallange 363 57
+getBestPlayer 10001
+getBestPlayer 935
+getScoreboard: 1010
+getBestPlayer 1501
+addClan 1587
+completeChallange 10001 60
+addPlayer 2530 0
+joinClan 4334 1696
+addPlayer 5642 18
+joinClan -1 0
+getScoreboard: 86
+addClan 83
+addPlayer 3084 31
+uniteClans 10000 10001
+addClan 1977
+addPlayer 2480 69
+uniteClans 10000 10001
+getScoreboard: 1586
+addClan 1937
+addPlayer 478 -6
+addPlayer 479 2
+getBestPlayer 1964
+uniteClans 100 -12
+uniteClans 100 -12
+addClan 1776
+addClan 1726
+addPlayer 9395 36
+completeChallange 10001 13
+completeChallange 9078 60
+completeChallange 10001 61
+addClan 1653
+uniteClans 10000 10001
+uniteClans 100 -12
+getScoreboard: 1266
+addClan 1507
+getScoreboard: 1624
+getBestPlayer 1726
+addClan 163
+joinClan 3135 1964
+completeChallange 9671 2
+getScoreboard: -2
+joinClan 8673 83
+joinClan 7110 1653
+getScoreboard: 395
+getBestPlayer 0
+uniteClans 1010 83
+addClan 1055
+getScoreboard 0
+getBestPlayer 1624
+uniteClans 10000 10001
+joinClan 9078 1696
+joinClan 6117 1937
+joinClan 290 1586
+uniteClans 10000 10001
+completeChallange 2480 27
+joinClan -1 0
+uniteClans 100 -12
+addClan 1036
+addClan 368
+joinClan 8849 1337
+addPlayer 6832 66
+joinClan 1615 1937
+getBestPlayer 493
+joinClan 6832 1165
+completeChallange 10001 38
+getBestPlayer 0
+uniteClans 0 1000
+addClan 1620
+getBestPlayer 1964
+completeChallange 4334 80
+addClan 1702
+joinClan 2166 1620
+getScoreboard: 1937
+uniteClans 10000 10001
+completeChallange 2294 9
+getBestPlayer 1913
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 6446 32
+uniteClans 1776 368
+completeChallange 10001 37
+uniteClans 100 -12
+getBestPlayer 1703
+addPlayer 3728 76
+getScoreboard 0
+getBestPlayer 0
+getBestPlayer 1010
+addPlayer 7531 30
+getScoreboard: 512
+completeChallange 4572 79
+addClan 1827
+getBestPlayer 10001
+addPlayer 4096 11
+joinClan 7531 1010
+addPlayer 8646 5
+addPlayer 3077 73
+uniteClans 10000 10001
+completeChallange 5313 71
+completeChallange -1 -3
+uniteClans 10000 10001
+uniteClans 1000 1000
+completeChallange 2294 57
+addClan 1606
+uniteClans 1266 1624
+uniteClans 163 1957
+getScoreboard: 1653
+joinClan -1 0
+getScoreboard: -1
+getScoreboard 0
+getBestPlayer 10001
+addPlayer 1674 10
+addClan 888
+getScoreboard 0
+getScoreboard: 1165
+joinClan 9160 1702
+getBestPlayer 0
+completeChallange 6117 75
+uniteClans 10000 10001
+joinClan 5313 221
+uniteClans 1000 1000
+uniteClans 0 1000
+addPlayer 7279 46
+completeChallange 10001 35
+getScoreboard: 1703
+completeChallange 3728 60
+uniteClans 1456 1726
+addPlayer 4997 57
+getBestPlayer 0
+addPlayer 327 80
+joinClan 6354 1977
+getBestPlayer 10001
+addClan 1364
+completeChallange 8849 77
+addPlayer 8307 -2
+uniteClans 10000 10001
+addClan 603
+uniteClans 10000 10001
+getScoreboard: -1
+addClan 622
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 1000 1000
+getScoreboard: 1055
+addClan 590
+joinClan -1 0
+getScoreboard 0
+addPlayer 9303 66
+addPlayer 7425 48
+joinClan 479 1165
+getScoreboard: 512
+getBestPlayer 10001
+getScoreboard: 395
+getScoreboard: 622
+joinClan 7279 1964
+uniteClans 1000 1000
+addPlayer 4409 13
+getBestPlayer 1653
+getBestPlayer 10001
+getBestPlayer 10001
+getBestPlayer 493
+uniteClans 10000 10001
+joinClan 6446 310
+addPlayer 8890 45
+addClan 194
+joinClan 7110 1587
+addClan 848
+getScoreboard 0
+addClan 110
+addPlayer 662 41
+getScoreboard: 1501
+uniteClans 100 -12
+getScoreboard 0
+addPlayer 3999 -4
+completeChallange 5118 19
+joinClan 4096 1010
+addPlayer 2630 60
+joinClan 1524 1937
+joinClan 1566 622
+completeChallange 1524 47
+addPlayer 4651 42
+completeChallange 2691 69
+addPlayer 9087 59
+getScoreboard: 1010
+addPlayer 4947 1
+completeChallange 10001 75
+uniteClans 1606 1586
+joinClan 2294 1034
+uniteClans 0 1000
+getBestPlayer 0
+uniteClans 0 1000
+uniteClans 10000 10001
+getBestPlayer 10001
+uniteClans 1702 86
+joinClan 4947 848
+addPlayer 6065 6
+addClan 575
+joinClan 2630 493
+joinClan -1 0
+addClan 944
+addClan 1349
+completeChallange 7425 29
+joinClan 2390 1977
+joinClan 5642 1036
+getScoreboard: 310
+addClan 726
+getBestPlayer 10001
+addClan 123
+uniteClans 10000 10001
+addClan 500
+addClan 858
+addClan 1577
+addClan 903
+completeChallange 3728 6
+uniteClans 1036 1507
+completeChallange 9303 22
+joinClan -1 0
+addPlayer 3862 56
+addClan 1974
+addPlayer 1126 63
+getScoreboard: -1
+getScoreboard: 1762
+completeChallange -1 -1
+uniteClans 10000 10001
+addPlayer 6145 -1
+joinClan 2691 725
+addClan 1966
+joinClan -1 0
+uniteClans 10000 10001
+addClan 452
+uniteClans 10000 10001
+addPlayer 6259 45
+getScoreboard: 888
+getScoreboard: 1577
+completeChallange 10001 38
+joinClan 6259 575
+addPlayer 902 1
+addClan 1677
+uniteClans 0 1000
+addPlayer 5282 6
+getScoreboard: 1297
+joinClan 6065 1501
+completeChallange 2630 74
+uniteClans 10000 10001
+completeChallange 8849 65
+uniteClans 100 -12
+getScoreboard: 603
+addClan 1099
+addClan 1681
+getBestPlayer 10001
+addPlayer 4029 8
+addClan 1113
+uniteClans 1297 944
+getScoreboard: 310
+completeChallange 4997 13
+completeChallange 10001 69
+getScoreboard: 1055
+addClan 1968
+completeChallange 55 34
+uniteClans 0 1000
+getBestPlayer 0
+uniteClans 10000 10001
+completeChallange 902 31
+getScoreboard: 1957
+joinClan -1 0
+addClan 190
+getBestPlayer 0
+getScoreboard: 1501
+getBestPlayer 1456
+getScoreboard: 1677
+joinClan 6117 726
+uniteClans 10000 10001
+joinClan 9303 1968
+getBestPlayer 10001
+getScoreboard: 1762
+getScoreboard: 1036
+uniteClans 10000 10001
+joinClan -1 0
+addClan 59
+joinClan 6117 1349
+getBestPlayer 10001
+addClan 1268
+addPlayer 5604 78
+completeChallange -1 0
+completeChallange -1 -1
+uniteClans 0 1000
+uniteClans 10000 10001
+addPlayer 117 25
+joinClan 7425 888
+addClan 332
+joinClan 6354 332
+uniteClans 1577 1827
+completeChallange 902 53
+completeChallange 10001 54
+addPlayer 8940 61
+uniteClans 100 -12
+addPlayer 8505 28
+addPlayer 8836 -2
+addPlayer 291 77
+uniteClans 10000 10001
+getBestPlayer 1956
+addClan 280
+uniteClans 1937 1036
+addPlayer 4080 2
+addClan 1262
+getScoreboard 0
+addPlayer 4391 0
+completeChallange 3084 37
+joinClan 9078 1262
+addPlayer 8717 15
+addPlayer 2954 44
+joinClan 6354 1266
+uniteClans 59 1762
+addPlayer 3468 44
+addPlayer 2537 8
+uniteClans 100 -12
+addPlayer 9484 29
+addClan 1264
+uniteClans 194 1968
+addPlayer 1679 62
+addClan 242
+completeChallange 6446 44
+addPlayer 3975 49
+addPlayer 6920 14
+joinClan -1 0
+addPlayer 8070 79
+uniteClans 100 -12
+uniteClans 100 -12
+addClan 1144
+completeChallange -1 -7
+getBestPlayer 1264
+joinClan 8849 1165
+completeChallange 6354 40
+joinClan 6065 1113
+getScoreboard: 888
+addClan 1210
+getScoreboard: 1337
+addPlayer 629 30
+uniteClans 100 -12
+completeChallange -1 -8
+uniteClans 10000 10001
+getScoreboard: -1
+addPlayer 6040 27
+addClan 1587
+getScoreboard: 1266
+addClan 1873
+uniteClans 110 1349
+joinClan 6117 1264
+addClan 1540
+uniteClans 10000 10001
+addPlayer 7157 17
+joinClan -1 0
+getScoreboard 0
+addClan 777
+addPlayer 8928 24
+completeChallange 10001 74
+addClan 1825
+completeChallange 6446 48
+addPlayer 1764 70
+joinClan 7157 1913
+joinClan 3856 1966
+joinClan -1 0
+uniteClans 500 310
+getScoreboard: 725
+addClan 689
+addPlayer 3033 27
+getScoreboard: 1762
+getScoreboard: 1587
+addClan 1391
+addClan 425
+completeChallange 6920 64
+joinClan 327 1266
+getBestPlayer 1264
+addPlayer 7481 72
+addPlayer 8860 36
+uniteClans 0 1000
+addClan 179
+completeChallange 9087 42
+joinClan 4334 1540
+getBestPlayer 10001
+joinClan 9160 1034
+getBestPlayer 10001
+addPlayer 3498 -3
+addClan 384
+joinClan 6117 1702
+uniteClans 10000 10001
+addClan 181
+uniteClans 100 -12
+getScoreboard: 590
+completeChallange 2597 74
+uniteClans 100 -12
+completeChallange 8717 77
+uniteClans 1000 1000
+addPlayer 4577 47
+uniteClans 10000 10001
+addPlayer 9523 53
+getScoreboard: 1966
+getScoreboard: 1968
+joinClan 2537 622
+uniteClans 10000 10001
+completeChallange 7531 24
+getBestPlayer 0
+addPlayer 3537 21
+joinClan 1126 368
+addPlayer 178 14
+addClan 1482
+getScoreboard: 1032
+uniteClans 100 -12
+addClan 583
+addClan 213
+getBestPlayer 0
+completeChallange 10001 1
+getBestPlayer 0
+getBestPlayer 1620
+getBestPlayer 575
+addPlayer 7013 11
+addPlayer 3979 -4
+addClan 157
+getScoreboard: 1266
+uniteClans 1262 512
+completeChallange 10001 62
+uniteClans 1762 310
+getBestPlayer 493
+addPlayer 1095 61
+getBestPlayer 1055
+joinClan 4572 1937
+getScoreboard 0
+uniteClans 1974 725
+getScoreboard: 583
+getScoreboard: 1696
+addPlayer 5564 3
+addPlayer 7418 75
+joinClan -1 0
+addClan 347
+getScoreboard: 1032
+getBestPlayer 10001
+getScoreboard: -1
+addClan 1019
+getScoreboard: 1587
+addClan 1044
+getScoreboard: 689
+addPlayer 5542 13
+getScoreboard: 1266
+addClan 1284
+getScoreboard 0
+getBestPlayer 0
+uniteClans 1957 110
+completeChallange 3975 37
+addPlayer 508 58
+completeChallange 3084 76
+getScoreboard: 603
+getBestPlayer 1266
+joinClan 662 1681
+addClan 1438
+addClan 344
+addClan 1841
+getScoreboard: 452
+uniteClans 1587 1841
+getScoreboard: 221
+getBestPlayer 10001
+getScoreboard: -1
+completeChallange 10001 56
+addClan 598
+joinClan 1679 1587
+addPlayer 4772 1
+addPlayer 2326 72
+getScoreboard 0
+addPlayer 3253 71
+uniteClans 1913 1019
+addClan 527
+addPlayer 3339 45
+joinClan -1 0
+joinClan 6065 1032
+addClan 1574
+completeChallange 6920 55
+completeChallange 117 55
+addPlayer 8728 64
+getBestPlayer 1482
+joinClan -1 0
+getBestPlayer 1501
+uniteClans 10000 10001
+addPlayer 3023 32
+joinClan 4651 1587
+joinClan -1 0
+joinClan 8890 425
+addClan 1690
+joinClan 9523 1210
+getScoreboard: 1337
+getScoreboard: 590
+getBestPlayer 10001
+getScoreboard 0
+getScoreboard: 1937
+joinClan -1 0
+addClan 942
+completeChallange 4334 31
+uniteClans 10000 10001
+addPlayer 6620 12
+getBestPlayer 10001
+uniteClans 100 -12
+addPlayer 926 58
+addPlayer 2146 63
+addClan 1597
+completeChallange 117 48
+addPlayer 6154 51
+joinClan -1 0
+completeChallange 8849 72
+uniteClans 1000 1000
+joinClan 1679 1574
+completeChallange 479 40
+getScoreboard: 1010
+getBestPlayer 0
+completeChallange 926 62
+addPlayer 5605 -3
+addPlayer 970 75
+addClan 737
+completeChallange 5282 56
+addClan 1765
+getScoreboard: 1574
+uniteClans 10000 10001
+addPlayer 5078 32
+addClan 1136
+joinClan -1 0
+getScoreboard 0
+addClan 55
+uniteClans 452 1597
+getBestPlayer 0
+addPlayer 7234 30
+addPlayer 3722 44
+getBestPlayer 10001
+addPlayer 5537 16
+addPlayer 7995 14
+joinClan 9087 1957
+getScoreboard: 190
+getBestPlayer 10001
+joinClan 8646 1266
+joinClan -1 0
+completeChallange 2390 65
+joinClan 5282 1977
+uniteClans 10000 10001
+getBestPlayer 10001
+addClan 1226
+getScoreboard: 603
+addClan 1563
+getScoreboard 0
+getScoreboard: 942
+uniteClans 1000 1000
+addClan 888
+joinClan -1 0
+uniteClans 123 1501
+completeChallange 7157 50
+joinClan 117 384
+addClan 1026
+completeChallange 10001 20
+joinClan 8646 942
+addPlayer 2353 55
+completeChallange 5642 73
+getScoreboard 0
+uniteClans 944 1501
+addClan 623
+joinClan 4772 1577
+joinClan 2146 493
+addPlayer 8230 74
+completeChallange 6259 1
+joinClan 5282 858
+joinClan 3537 1964
+addClan 135
+uniteClans 10000 10001
+addClan 127
+getScoreboard: 347
+joinClan 4572 310
+joinClan 8717 1563
+getBestPlayer 10001
+joinClan 1615 1620
+uniteClans 10000 10001
+addPlayer 7286 79
+uniteClans 1000 1000
+completeChallange 3077 33
+getBestPlayer 1670
+uniteClans 0 1000
+addPlayer 3873 77
+addPlayer 9384 31
+uniteClans 10000 10001
+completeChallange 4651 57
+getBestPlayer 848
+getBestPlayer 1456
+addPlayer 1576 36
+addClan 1503
+joinClan 291 583
+uniteClans 100 -12
+addClan 917
+uniteClans 10000 10001
+joinClan -1 0
+addPlayer 1601 -7
+completeChallange 7425 77
+addClan 1020
+getScoreboard 0
+addClan 1020
+getScoreboard: 622
+completeChallange 10001 53
+joinClan 4391 1364
+getScoreboard 0
+completeChallange 8070 47
+getScoreboard: 1690
+getScoreboard: 1136
+joinClan 7157 1268
+uniteClans 10000 10001
+addClan 401
+addClan 510
+getScoreboard: 1873
+addClan 732
+joinClan 4334 1165
+completeChallange 2597 25
+getScoreboard 0
+addClan 1120
+completeChallange 7768 17
+completeChallange 4334 20
+getScoreboard: -1
+addPlayer 4790 78
+completeChallange 5604 1
+getBestPlayer 181
+completeChallange 3468 40
+uniteClans 10000 10001
+getScoreboard 0
+getScoreboard: 1702
+getBestPlayer -1
+joinClan -1 0
+joinClan 8849 368
+addPlayer 5443 70
+getBestPlayer 0
+completeChallange 5862 79
+addClan 1221
+addClan 1369
+uniteClans 100 -12
+addPlayer 706 11
+getBestPlayer 10001
+getScoreboard: 1020
+addClan 1066
+completeChallange 2166 77
+addPlayer 3853 24
+joinClan 7234 1066
+joinClan 9160 1702
+getBestPlayer 0
+joinClan 3975 1284
+joinClan 9384 1226
+addPlayer 2242 24
+addPlayer 3630 -7
+addPlayer 5412 42
+uniteClans 10000 10001
+addPlayer 5192 13
+getBestPlayer 10001
+getBestPlayer 10001
+joinClan 7013 1947
+addPlayer 2803 -7
+joinClan 1764 179
+joinClan 2242 598
+completeChallange 10001 52
+completeChallange 5118 25
+joinClan 6920 1136
+uniteClans 0 1000
+joinClan 3853 1966
+addPlayer 578 34
+getScoreboard 0
+joinClan 4577 190
+getBestPlayer 10001
+uniteClans 1000 1000
+getBestPlayer 0
+getBestPlayer 10001
+getScoreboard: 1937
+addPlayer 5945 23
+uniteClans 10000 10001
+addClan 639
+uniteClans 10000 10001
+getBestPlayer 10001
+getBestPlayer 1677
+uniteClans 10000 10001
+completeChallange 10001 23
+uniteClans 1964 575
+addPlayer 710 8
+uniteClans 10000 10001
+getBestPlayer 10001
+joinClan 2294 213
+joinClan -1 0
+getBestPlayer 639
+getBestPlayer 0
+addClan 357
+addClan 1651
+joinClan -1 0
+joinClan -1 0
+completeChallange 3468 69
+completeChallange 5537 42
+getBestPlayer 0
+getBestPlayer 1210
+getScoreboard: 944
+addClan 1251
+getScoreboard: 493
+joinClan 9671 1586
+getBestPlayer 0
+addPlayer 9801 8
+addPlayer 7991 63
+completeChallange 4947 30
+joinClan 5282 1964
+addClan 887
+completeChallange 10001 66
+addClan 1909
+addClan 506
+uniteClans 10000 10001
+addPlayer 8962 26
+uniteClans 10000 10001
+addClan 597
+getBestPlayer 0
+addClan 724
+getScoreboard: 1937
+getBestPlayer 10001
+getBestPlayer 10001
+getScoreboard: 1577
+getBestPlayer 0
+joinClan -1 0
+joinClan 6275 935
+getScoreboard: 493
+addPlayer 6468 67
+addPlayer 8186 20
+uniteClans 1113 1369
+getBestPlayer 0
+addClan 750
+addPlayer 4131 23
+addClan 1679
+getScoreboard: 190
+addPlayer 650 -5
+addPlayer 269 33
+getScoreboard: 1503
+joinClan 4391 493
+joinClan -1 0
+addClan 1591
+getScoreboard 0
+completeChallange 5282 72
+joinClan 7995 917
+completeChallange 6920 57
+getScoreboard: 732
+getBestPlayer 750
+getScoreboard: 597
+addClan 1721
+getBestPlayer 1438
+completeChallange 3468 47
+addPlayer 7825 7
+getBestPlayer 1574
+addPlayer 4121 25
+getScoreboard: 1966
+addClan 556
+getBestPlayer 777
+getBestPlayer 0
+getBestPlayer 1226
+uniteClans 100 -12
+joinClan 8673 942
+completeChallange 4286 1
+completeChallange 5862 15
+joinClan 8890 221
+addPlayer 8563 11
+getBestPlayer 10001
+uniteClans 10000 10001
+uniteClans 10000 10001
+joinClan 8962 1964
+uniteClans 10000 10001
+getBestPlayer 425
+uniteClans 10000 10001
+joinClan -1 0
+addPlayer 3114 24
+completeChallange 10001 25
+joinClan 9078 1251
+joinClan 6468 1503
+getScoreboard 0
+completeChallange 6259 30
+addClan 614
+getBestPlayer 0
+joinClan 6259 777
+joinClan -1 0
+getScoreboard: 1226
+addPlayer 2861 70
+addClan 1388
+completeChallange 4572 59
+completeChallange 5862 59
+joinClan 8717 1120
+addClan 669
+uniteClans 100 -12
+completeChallange -1 -1
+completeChallange 10001 4
+addPlayer 5971 39
+addPlayer 791 44
+getScoreboard: 1136
+addClan 1575
+getScoreboard: 1044
+joinClan -1 0
+getBestPlayer 1586
+addClan 1513
+addPlayer 5153 42
+uniteClans 1000 1000
+getScoreboard: -2
+completeChallange 7286 33
+getScoreboard: 903
+joinClan 7768 395
+uniteClans 100 -12
+addPlayer 7541 15
+getScoreboard: 55
+addPlayer 5715 80
+joinClan -1 0
+joinClan 269 1956
+joinClan 9087 1937
+getBestPlayer 10001
+getScoreboard: 190
+addPlayer 4161 47
+addPlayer 9004 -7
+getScoreboard: 556
+addClan 996
+getScoreboard 0
+uniteClans 10000 10001
+getScoreboard: 242
+uniteClans 100 -12
+addPlayer 4426 -5
+addPlayer 768 21
+addPlayer 662 25
+uniteClans 100 -12
+addClan 1304
+completeChallange 710 74
+getBestPlayer 0
+completeChallange 10001 46
+addClan 1548
+addClan 324
+getScoreboard: 242
+joinClan 363 1947
+getBestPlayer 597
+joinClan 5715 1066
+uniteClans 100 -12
+getScoreboard 0
+uniteClans 493 622
+completeChallange 1674 37
+joinClan 1679 1034
+joinClan 1095 493
+getScoreboard 0
+getScoreboard 0
+joinClan 2390 942
+uniteClans 0 1000
+joinClan 710 1947
+getScoreboard 0
+getScoreboard 0
+addPlayer 5402 16
+getBestPlayer 10001
+completeChallange 10001 15
+completeChallange 4772 12
+getBestPlayer 0
+addClan 1727
+joinClan -1 0
+getScoreboard 0
+completeChallange 2861 66
+getBestPlayer 1586
+uniteClans 1503 395
+uniteClans 0 1000
+completeChallange 7286 27
+joinClan 9523 1251
+joinClan 4790 1226
+getBestPlayer 0
+completeChallange 6920 25
+getBestPlayer 1913
+addClan 103
+getScoreboard: 1956
+addClan 629
+joinClan 629 1337
+getScoreboard 0
+getBestPlayer 10001
+addClan 1229
+uniteClans 100 -12
+completeChallange 3728 38
+addPlayer 3452 80
+completeChallange 10001 1
+joinClan -1 0
+addPlayer 9317 31
+joinClan -1 0
+getBestPlayer 368
+addPlayer 9223 57
+addClan 680
+joinClan 7279 493
+addClan 863
+joinClan 4286 452
+joinClan -1 0
+joinClan 5971 597
+addPlayer 9741 64
+addPlayer 9715 16
+addClan 950
+getBestPlayer 1651
+completeChallange 8186 21
+addClan 191
+getBestPlayer 10001
+getScoreboard: 401
+addPlayer 8987 -5
+addClan 1486
+addClan 879
+addPlayer 4068 49
+completeChallange 10001 29
+uniteClans 996 942
+addPlayer 9888 21
+uniteClans 100 -12
+addPlayer 3727 74
+getScoreboard: 221
+addPlayer 2705 29
+uniteClans 10000 10001
+uniteClans 10000 10001
+addPlayer 7596 78
+joinClan 662 1221
+uniteClans 100 -12
+joinClan -1 0
+getScoreboard: 1702
+uniteClans 10000 10001
+addClan 476
+completeChallange 10001 28
+getBestPlayer 10001
+completeChallange 8070 58
+completeChallange -1 -3
+uniteClans 935 944
+completeChallange 5971 38
+getBestPlayer 10001
+uniteClans 10000 10001
+completeChallange 6354 30
+completeChallange 8186 18
+addClan 330
+uniteClans 506 221
+joinClan -1 0
+getScoreboard: 725
+getScoreboard: 190
+addClan 1075
+addClan 1536
+addPlayer 9075 79
+addPlayer 8261 75
+uniteClans 10000 10001
+uniteClans 100 -12
+getScoreboard: 1721
+addPlayer 4659 5
+addClan 1949
+addPlayer 9069 35
+uniteClans 401 1032
+completeChallange 10001 72
+addPlayer 9879 20
+getBestPlayer 1651
+joinClan -1 0
+joinClan 9069 476
+joinClan 5118 1304
+getBestPlayer 0
+joinClan -1 0
+getScoreboard 0
+addClan 1402
+getScoreboard: 603
+joinClan 4651 368
+completeChallange 10001 16
+addPlayer 5148 64
+getScoreboard: -2
+addPlayer 8280 11
+uniteClans 1540 1957
+addClan 1874
+uniteClans 100 -12
+addPlayer 4076 -2
+uniteClans 0 1000
+getBestPlayer 191
+completeChallange 1674 68
+addClan 297
+getScoreboard: 384
+addPlayer 1625 19
+getScoreboard 0
+uniteClans 357 1304
+addPlayer 9800 62
+getBestPlayer 10001
+addClan 1236
+uniteClans 1000 1000
+uniteClans 10000 10001
+uniteClans 1000 1000
+joinClan 5604 614
+addPlayer 875 -1
+completeChallange 2480 5
+uniteClans 100 -12
+addClan 211
+getScoreboard: 135
+joinClan -1 0
+joinClan 8940 1727
+addClan 844
+uniteClans 10000 10001
+completeChallange -1 -2
+addClan 1433
+addClan 529
+addClan 1953
+addPlayer 969 13
+getScoreboard: 190
+addPlayer 6129 20
+completeChallange 1615 51
+uniteClans 1337 330
+getScoreboard: 669
+joinClan 9317 1825
+addClan 591
+addPlayer 4425 69
+addClan 1966
+getBestPlayer 10001
+getBestPlayer 0
+completeChallange 10001 7
+addPlayer 5108 69
+getBestPlayer 10001
+uniteClans 100 -12
+joinClan 970 1721
+completeChallange 2390 77
+getBestPlayer 1433
+getBestPlayer 1681
+getBestPlayer 0
+getScoreboard 0
+addPlayer 4809 11
+completeChallange 291 66
+addClan 395
+addClan 1989
+joinClan 1615 1210
+getScoreboard: 157
+uniteClans 848 1391
+getScoreboard: 1620
+getScoreboard: 614
+addClan 1151
+completeChallange 479 57
+completeChallange 8505 37
+addClan 1200
+addClan 686
+getBestPlayer 10001
+addPlayer 2305 71
+uniteClans 1563 221
+getBestPlayer 10001
+getScoreboard: 637
+completeChallange 7596 18
+addPlayer 2820 24
+getBestPlayer 10001
+addPlayer 2407 0
+joinClan 9078 384
+addPlayer 5696 9
+joinClan 8646 950
+getScoreboard: 1964
+addPlayer 1097 57
+uniteClans 1221 1482
+addClan 455
+joinClan 8717 297
+uniteClans 10000 10001
+getScoreboard: 1513
+uniteClans 10000 10001
+joinClan -1 0
+completeChallange 10001 4
+getScoreboard: 344
+addPlayer 7270 -8
+uniteClans 887 452
+getBestPlayer 10001
+uniteClans 455 401
+addPlayer 3275 9
+getScoreboard: 950
+completeChallange 902 40
+uniteClans 10000 10001
+uniteClans 858 1964
+getScoreboard: 1034
+joinClan 6129 1165
+getBestPlayer 732
+completeChallange 2305 57
+getScoreboard: -1
+joinClan -1 0
+joinClan 7013 1679
+joinClan 4659 1696
+getScoreboard: 737
+addClan 1622
+joinClan 2530 1010
+getScoreboard: 1536
+getBestPlayer 10001
+getScoreboard: 1034
+getBestPlayer 10001
+completeChallange -1 -3
+addPlayer 6842 32
+getBestPlayer 476
+uniteClans 1966 1690
+uniteClans 629 512
+completeChallange -1 -2
+uniteClans 221 724
+addPlayer 8159 9
+completeChallange 10001 80
+getBestPlayer 527
+addPlayer 1380 58
+completeChallange 5402 21
+uniteClans 1000 1000
+uniteClans 100 -12
+uniteClans 100 -12
+addClan 1882
+completeChallange 7481 44
+uniteClans 10000 10001
+completeChallange 327 41
+completeChallange 10001 43
+completeChallange 6259 9
+addClan 1515
+getBestPlayer 0
+completeChallange 8563 24
+completeChallange 10001 3
+completeChallange 3452 7
+addClan 1628
+completeChallange 363 40
+getBestPlayer 0
+addClan 902
+addPlayer 246 72
+addClan 1395
+addClan 1615
+addPlayer 5415 70
+getScoreboard: 1055
+completeChallange -1 -1
+completeChallange 8159 32
+joinClan 1679 1144
+addPlayer 5927 48
+addClan 1659
+addClan 1129
+addPlayer 4690 63
+addPlayer 8792 19
+addClan 843
+uniteClans 1515 1129
+joinClan -1 0
+joinClan 1097 1577
+getScoreboard: 1229
+addClan 1114
+uniteClans 100 -12
+uniteClans 100 -12
+addClan 1453
+uniteClans 10000 10001
+completeChallange 10001 35
+addClan 1955
+addPlayer 2903 12
+completeChallange -1 -6
+joinClan 1625 55
+getScoreboard: 1120
+getBestPlayer 0
+addClan 603
+addClan 667
+addClan 1301
+joinClan -1 0
+joinClan -1 0
+uniteClans 10000 10001
+getBestPlayer 1670
+getBestPlayer 10001
+addPlayer 8136 17
+completeChallange 4029 2
+addPlayer 2925 8
+addClan 666
+uniteClans 10000 10001
+addPlayer 2667 61
+addPlayer 6044 51
+uniteClans 1000 1000
+completeChallange 10001 75
+joinClan 606 191
+addClan 1555
+uniteClans 603 103
+addClan 1432
+addClan 213
+uniteClans 10000 10001
+getBestPlayer 0
+getScoreboard 0
+completeChallange 2166 69
+addClan 405
+getScoreboard 0
+addClan 1659
+uniteClans 10000 10001
+joinClan -1 0
+joinClan -1 0
+getBestPlayer 242
+getScoreboard: 55
+addClan 283
+getScoreboard 0
+joinClan 7825 1628
+getBestPlayer 10001
+getScoreboard: 1433
+getBestPlayer 10001
+addPlayer 9914 15
+joinClan 7286 1702
+addPlayer 837 16
+completeChallange 2326 23
+getBestPlayer 529
+addPlayer 8335 70
+addPlayer 8554 28
+getBestPlayer 344
+getBestPlayer 10001
+uniteClans 1264 1874
+getScoreboard: 55
+addPlayer 8411 -6
+getBestPlayer 1555
+joinClan 2390 1765
+addPlayer 9082 10
+addClan 1345
+addClan 1652
+uniteClans 10000 10001
+getScoreboard: 1075
+completeChallange -1 -7
+getBestPlayer 0
+completeChallange 2861 33
+uniteClans 135 689
+addClan 1521
+joinClan 9160 1587
+addClan 1637
+uniteClans 10000 10001
+getBestPlayer 10001
+completeChallange -1 -7
+addPlayer 8825 56
+addClan 911
+uniteClans 0 1000
+getBestPlayer 844
+completeChallange 3537 11
+getScoreboard: 848
+getScoreboard 0
+uniteClans 10000 10001
+addPlayer 5670 67
+uniteClans 0 1000
+getBestPlayer 0
+addClan 407
+completeChallange 4286 25
+addClan 671
+getBestPlayer 1200
+getBestPlayer 1659
+getBestPlayer 1548
+getScoreboard: 1438
+addClan 1321
+getBestPlayer 10001
+uniteClans 1000 1000
+getScoreboard: 405
+uniteClans 10000 10001
+joinClan 8335 1637
+uniteClans 1000 1000
+addPlayer 9459 30
+completeChallange 10001 45
+completeChallange 3275 33
+completeChallange 1126 57
+addClan 1295
+joinClan 5927 1284
+getBestPlayer 0
+uniteClans 157 1966
+joinClan -1 0
+completeChallange 10001 47
+addPlayer 3943 61
+addPlayer 4516 21
+addClan 1332
+uniteClans 1000 1000
+addPlayer 5587 79
+addClan 1241
+uniteClans 1000 1000
+addClan 1848
+completeChallange 1566 48
+joinClan 4161 1402
+addClan 455
+addClan 1662
+addClan 901
+joinClan -1 0
+getBestPlayer 1099
+uniteClans 10000 10001
+addClan 1861
+addPlayer 5130 13
+addClan 1549
+getBestPlayer 10001
+uniteClans 10000 10001
+getScoreboard 0
+getBestPlayer 0
+uniteClans 10000 10001
+getBestPlayer 901
+uniteClans 1549 1651
+addClan 498
+addClan 719
+addPlayer 5410 79
+addPlayer 610 18
+getBestPlayer 10001
+completeChallange 10001 7
+getBestPlayer 10001
+addPlayer 5012 20
+joinClan 5542 1964
+uniteClans 1438 181
+joinClan 7825 529
+uniteClans 686 1402
+getScoreboard: 1577
+addClan 43
+addClan 1868
+addClan 1895
+joinClan 926 1955
+addClan 1967
+joinClan -1 0
+getScoreboard: 1765
+getScoreboard: 344
+addClan 1942
+completeChallange 508 29
+completeChallange 8928 61
+addPlayer 8144 40
+getScoreboard 0
+getBestPlayer 10001
+completeChallange 10001 7
+getBestPlayer 1895
+joinClan 4286 1628
+completeChallange 7286 14
+completeChallange 363 3
+addClan 1231
+addClan 862
+getBestPlayer 0
+joinClan 8261 1321
+joinClan 9395 1345
+addClan 739
+uniteClans 10000 10001
+joinClan -1 0
+joinClan -1 0
+joinClan 363 590
+addPlayer 2650 64
+uniteClans 1000 1000
+completeChallange 9069 76
+getScoreboard: 1882
+addPlayer 9504 43
+joinClan -1 0
+getBestPlayer 10001
+getScoreboard: 1066
+getBestPlayer 10001
+uniteClans 100 -12
+addPlayer 5500 11
+joinClan -1 0
+addClan 1213
+addPlayer 9572 32
+addClan 1150
+addPlayer 9971 11
+getBestPlayer 719
+getScoreboard 0
+addClan 1007
+addPlayer 9113 14
+completeChallange 7991 57
+getBestPlayer 0
+addClan 1353
+addPlayer 3455 70
+addClan 969
+getScoreboard: 666
+uniteClans 127 1010
+getScoreboard: 680
+getBestPlayer 10001
+addPlayer 354 76
+completeChallange 6044 19
+addClan 1322
+getScoreboard: 179
+addPlayer 1243 25
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 10000 10001
+joinClan 4080 1955
+completeChallange 10001 77
+addClan 23
+uniteClans 10000 10001
+addClan 806
+completeChallange 8144 39
+completeChallange -1 -5
+addClan 260
+getScoreboard: 1895
+getBestPlayer 10001
+getBestPlayer 1151
+completeChallange 768 70
+getScoreboard 0
+getBestPlayer 0
+joinClan 9741 1702
+addClan 1578
+addClan 88
+getBestPlayer 10001
+getBestPlayer 10001
+addPlayer 3220 39
+addClan 917
+getBestPlayer 0
+completeChallange 2530 1
+addClan 1702
+uniteClans 1662 260
+uniteClans 100 -12
+completeChallange 10001 49
+addPlayer 6499 38
+addPlayer 5744 67
+getScoreboard: 211
+completeChallange 10001 74
+completeChallange 10001 50
+getBestPlayer 0
+getBestPlayer 10001
+addClan 143
+addPlayer 1771 74
+getBestPlayer 10001
+getBestPlayer 10001
+getBestPlayer 0
+uniteClans 10000 10001
+joinClan -1 0
+completeChallange 7110 46
+addPlayer 5196 13
+addClan 505
+uniteClans 10000 10001
+uniteClans 100 -12
+joinClan -1 0
+addPlayer 8755 64
+getScoreboard: 1947
+addClan 108
+addPlayer 6116 17
+completeChallange 5130 68
+uniteClans 100 -12
+getBestPlayer 10001
+uniteClans 10000 10001
+addClan 811
+uniteClans 260 1587
+uniteClans 10000 10001
+addPlayer 636 74
+uniteClans 0 1000
+completeChallange 10001 6
+completeChallange 7425 74
+addPlayer 3653 10
+addPlayer 769 20
+getBestPlayer 637
+getScoreboard: 1241
+uniteClans 10000 10001
+completeChallange 8849 39
+joinClan -1 0
+uniteClans 1000 1000
+addClan 1285
+getScoreboard: 1055
+uniteClans 669 1210
+completeChallange 10001 72
+getScoreboard 0
+joinClan 3077 1486
+joinClan 2925 1765
+uniteClans 1000 1000
+joinClan 4651 942
+joinClan 2705 1321
+completeChallange 5862 34
+getScoreboard: 1949
+addPlayer 3781 48
+uniteClans 0 1000
+getBestPlayer 10001
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 911 806
+getBestPlayer 10001
+addPlayer 8583 70
+uniteClans 10000 10001
+uniteClans 1873 556
+addPlayer 657 75
+getBestPlayer 1337
+completeChallange 5443 3
+addClan 477
+addClan 1606
+addPlayer 9220 45
+getScoreboard 0
+addClan 186
+completeChallange -1 -4
+addClan 1761
+joinClan 1625 1345
+joinClan 3033 1075
+getScoreboard 0
+uniteClans 10000 10001
+uniteClans 10000 10001
+getBestPlayer 10001
+getBestPlayer 1304
+completeChallange 178 77
+getBestPlayer 10001
+addPlayer 2849 1
+getBestPlayer 10001
+uniteClans 0 1000
+getBestPlayer 1264
+addClan 690
+completeChallange 9069 29
+addPlayer 9533 21
+uniteClans 10000 10001
+addClan 1018
+addClan 1449
+addPlayer 4339 60
+completeChallange -1 -3
+getBestPlayer 0
+addPlayer 9762 53
+joinClan -1 0
+addPlayer 9351 14
+addClan 1971
+addPlayer 6142 38
+addPlayer 6470 14
+uniteClans 0 1000
+getScoreboard: 1587
+addClan 676
+getScoreboard 0
+joinClan 5670 1942
+addPlayer 4562 58
+getScoreboard: 1055
+getScoreboard: 1659
+getBestPlayer 10001
+completeChallange 8144 69
+addClan 19
+getScoreboard: 777
+addClan 635
+addClan 994
+joinClan 246 1210
+getScoreboard: 1977
+getScoreboard: 512
+addClan 112
+joinClan 5282 1825
+joinClan 5862 635
+addClan 1505
+addPlayer 1292 12
+completeChallange 10001 47
+getScoreboard 0
+joinClan 9800 135
+joinClan 6044 1825
+getBestPlayer 0
+uniteClans 100 -12
+completeChallange 1126 20
+addClan 30
+completeChallange 2861 54
+addPlayer 4636 -3
+uniteClans 100 -12
+getScoreboard 0
+uniteClans 10000 10001
+uniteClans 100 -12
+addClan 602
+addClan 8
+getBestPlayer 10001
+addPlayer 2501 7
+getScoreboard: 1868
+uniteClans 0 1000
+completeChallange -1 -2
+completeChallange 10001 53
+getScoreboard: 1848
+completeChallange 10001 3
+addPlayer 1302 62
+getBestPlayer 1702
+addClan 1883
+uniteClans 10000 10001
+completeChallange 10001 19
+uniteClans 100 -12
+addPlayer 1035 19
+getScoreboard 0
+addClan 360
+uniteClans 1136 1653
+completeChallange 4409 16
+uniteClans 10000 10001
+uniteClans 0 1000
+uniteClans 10000 10001
+uniteClans 100 -12
+getBestPlayer 1505
+addPlayer 7115 80
+addClan 583
+addPlayer 8894 14
+addPlayer 5681 4
+addClan 508
+getScoreboard 0
+uniteClans 667 1055
+getScoreboard: 639
+joinClan 606 1251
+addClan 261
+uniteClans 135 1702
+addPlayer 709 39
+joinClan 2650 1575
+completeChallange 10001 72
+completeChallange 2630 79
+addClan 376
+addClan 1490
+joinClan -1 0
+getBestPlayer 10001
+getScoreboard: 1586
+completeChallange 636 18
+joinClan 2407 811
+getBestPlayer 1113
+getScoreboard: 806
+addClan 780
+addPlayer 9533 79
+uniteClans 10000 10001
+completeChallange 10001 47
+completeChallange 4286 60
+getScoreboard: 1304
+getScoreboard: 935
+uniteClans 10000 10001
+completeChallange 10001 66
+getBestPlayer 8
+uniteClans 901 512
+uniteClans 732 1587
+getBestPlayer 10001
+joinClan -1 0
+addClan -1
+addClan 222
+getBestPlayer 10001
+addClan 1500
+uniteClans 1453 191
+getBestPlayer 1955
+addPlayer 4962 3
+getScoreboard 0
+addPlayer 556 33
+completeChallange 3033 77
+addPlayer 4958 72
+getScoreboard: 1536
+addPlayer 9594 56
+getBestPlayer 10001
+uniteClans 10000 10001
+addPlayer 2163 46
+uniteClans 10000 10001
+joinClan 8505 1210
+getScoreboard: 1549
+getBestPlayer 0
+addClan 399
+addClan 1218
+addPlayer 3102 19
+getScoreboard: 1266
+addClan 1239
+addPlayer 8520 13
+getScoreboard: 1536
+addClan 1055
+addPlayer 1471 23
+joinClan 9395 360
+completeChallange 10001 55
+joinClan 8962 1505
+completeChallange 5153 64
+getScoreboard: 1353
+uniteClans 1000 1000
+addPlayer 5207 -5
+completeChallange 3853 11
+getBestPlayer 583
+joinClan -1 0
+uniteClans 100 -12
+addPlayer 8313 57
+getScoreboard: 1332
+getScoreboard: 405
+addPlayer 5966 51
+addPlayer 9036 34
+getScoreboard: 8
+uniteClans 0 1000
+addPlayer 8734 78
+uniteClans 0 1000
+completeChallange -1 -6
+getScoreboard: 935
+joinClan 970 1353
+completeChallange 4334 50
+getScoreboard: 1895
+addClan 651
+joinClan 3023 1677
+getScoreboard: 112
+getScoreboard 0
+addPlayer 2075 73
+getBestPlayer 1615
+joinClan 5681 55
+getBestPlayer 10001
+addClan 1382
+addPlayer 1958 21
+joinClan 9523 512
+joinClan 9801 1264
+getScoreboard: 1020
+getBestPlayer 10001
+joinClan 3943 994
+uniteClans 10000 10001
+completeChallange 4029 79
+getScoreboard: 360
+completeChallange 10001 38
+completeChallange 290 60
+completeChallange 2242 19
+completeChallange 354 33
+completeChallange 3135 9
+addClan 704
+joinClan 3853 1587
+completeChallange 5971 13
+addPlayer 1290 61
+uniteClans 10000 10001
+joinClan 636 213
+completeChallange 10001 51
+completeChallange 1126 12
+completeChallange 10001 72
+addPlayer 7425 52
+addPlayer 8885 73
+addClan 1262
+uniteClans 0 1000
+getBestPlayer 211
+joinClan 9384 1913
+getScoreboard 0
+getBestPlayer 1868
+addClan 1429
+getBestPlayer 1947
+addPlayer 8178 74
+joinClan 1097 310
+uniteClans 1957 1429
+joinClan 7531 1251
+addPlayer 8826 4
+addClan 1167
+joinClan 3653 190
+completeChallange 6499 45
+getBestPlayer 1285
+getBestPlayer 1113
+addPlayer 6577 21
+addClan 206
+getScoreboard: 719
+addClan 89
+addPlayer 6447 72
+addClan 761
+uniteClans 10000 10001
+addClan 1289
+getScoreboard 0
+addPlayer 3160 9
+getBestPlayer 1382
+joinClan 8280 1433
+addClan 976
+addClan 882
+addPlayer 4955 72
+getBestPlayer 407
+uniteClans 1637 1266
+addClan 1884
+getBestPlayer 10001
+addClan 692
+getBestPlayer 1210
+addPlayer 9734 45
+getScoreboard: 1113
+joinClan 7110 30
+completeChallange -1 -4
+joinClan 7418 1151
+completeChallange 3452 68
+completeChallange -1 -6
+getBestPlayer 10001
+uniteClans 477 598
+joinClan -1 0
+completeChallange 5012 72
+getBestPlayer 10001
+uniteClans 10000 10001
+getBestPlayer 10001
+addPlayer 3311 75
+addPlayer 4539 46
+addPlayer 8901 65
+completeChallange 8825 55
+getScoreboard: 476
+addClan 1849
+getScoreboard: 1513
+getBestPlayer 10001
+joinClan -1 0
+joinClan 3077 1432
+addPlayer 3576 21
+getBestPlayer 1165
+addPlayer 208 17
+addClan 648
+uniteClans 10000 10001
+getScoreboard: 1895
+completeChallange 7418 56
+uniteClans 10000 10001
+getBestPlayer 0
+getScoreboard: 1849
+addClan 1746
+completeChallange 8890 17
+getBestPlayer 1746
+addPlayer 3684 2
+getScoreboard: 639
+joinClan 969 680
+completeChallange 5415 21
+getScoreboard 0
+getBestPlayer 1727
+getBestPlayer 0
+addClan 832
+getScoreboard 0
+joinClan 8335 602
+addClan 746
+uniteClans 1000 1000
+joinClan 5927 1955
+getScoreboard: 1659
+addClan 125
+addPlayer 4419 25
+completeChallange -1 -2
+getScoreboard 0
+getScoreboard: 690
+getScoreboard: 1026
+getScoreboard 0
+completeChallange 3033 46
+getScoreboard 0
+uniteClans 1221 1151
+joinClan 7481 719
+getBestPlayer 10001
+uniteClans 0 1000
+addPlayer 7315 13
+addClan 145
+uniteClans 10000 10001
+joinClan -1 0
+addPlayer 1006 6
+addClan 1544
+addPlayer 9670 72
+joinClan 5927 556
+joinClan 1097 1536
+getBestPlayer 10001
+addPlayer 2140 31
+addClan 447
+getScoreboard: 529
+joinClan 709 242
+getBestPlayer 10001
+getBestPlayer 1114
+addClan 1212
+getBestPlayer 0
+getScoreboard 0
+getBestPlayer 10001
+addPlayer 3974 2
+addPlayer 5474 25
+addPlayer 7055 27
+addPlayer 621 50
+joinClan 4809 1679
+getBestPlayer 1765
+addClan 1701
+addPlayer 5368 60
+addPlayer 3352 78
+addPlayer 549 56
+getScoreboard: 879
+getScoreboard: 1075
+getScoreboard: 297
+completeChallange 10001 7
+addPlayer 5229 75
+joinClan 6354 597
+completeChallange 4809 14
+joinClan 7425 862
+addClan 308
+joinClan 4690 125
+completeChallange 4577 61
+uniteClans 1218 347
+uniteClans 10000 10001
+getBestPlayer 0
+completeChallange 9317 16
+addClan 1499
+getBestPlayer 0
+addClan 580
+uniteClans 1099 719
+getScoreboard: 1977
+uniteClans 0 1000
+completeChallange 4339 57
+addPlayer 9949 41
+addPlayer 1608 11
+joinClan -1 0
+addPlayer 9499 8
+getBestPlayer 10001
+addClan 1709
+getScoreboard: 211
+uniteClans 100 -12
+joinClan 9160 88
+completeChallange 8520 65
+completeChallange 9160 40
+completeChallange 10001 12
+addPlayer 7586 69
+getBestPlayer 1967
+getBestPlayer 498
+completeChallange 508 30
+uniteClans 0 1000
+joinClan 6129 1622
+getBestPlayer 10001
+addPlayer 4080 37
+addClan 1074
+addPlayer 2612 -7
+completeChallange 5282 22
+completeChallange 9801 65
+addPlayer 8480 0
+joinClan 9082 324
+uniteClans 1000 1000
+getScoreboard: 190
+joinClan 606 179
+getScoreboard: 213
+completeChallange 10001 68
+getBestPlayer 0
+addClan 404
+addClan 674
+joinClan 8734 324
+joinClan 3873 969
+getBestPlayer 902
+getScoreboard 0
+uniteClans 0 1000
+getScoreboard 0
+joinClan -1 0
+addPlayer 5382 67
+joinClan 2630 739
+getScoreboard: 1144
+addPlayer 2225 52
+getScoreboard: 1606
+addPlayer 7983 10
+completeChallange 2480 3
+uniteClans 221 1575
+completeChallange 1608 27
+addPlayer 8852 16
+getBestPlayer 1606
+addPlayer 1486 48
+completeChallange 10001 66
+getScoreboard: 1956
+addPlayer 2321 31
+getScoreboard: 597
+getBestPlayer 10001
+getBestPlayer 10001
+joinClan 837 404
+uniteClans 1136 680
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 6734 12
+completeChallange 2075 4
+completeChallange -1 0
+uniteClans 100 -12
+getBestPlayer 844
+addClan 918
+getScoreboard: 261
+completeChallange 6499 23
+getBestPlayer 10001
+joinClan 246 1574
+getScoreboard: 1284
+joinClan -1 0
+getScoreboard: 1825
+completeChallange 4409 63
+joinClan -1 0
+joinClan 4161 844
+addPlayer 972 59
+getBestPlayer 737
+addClan 1114
+uniteClans 10000 10001
+addClan 988
+uniteClans 10000 10001
+uniteClans 0 1000
+addClan 541
+addPlayer 6293 35
+joinClan 7234 583
+addPlayer 3828 44
+addClan 1403
+getBestPlayer 10001
+getScoreboard: 1947
+getBestPlayer 1264
+uniteClans 746 1167
+addClan 1754
+getScoreboard: 1628
+getBestPlayer 179
+completeChallange 3352 59
+addClan 1295
+uniteClans 10000 10001
+addClan 1914
+completeChallange 6275 52
+uniteClans 100 -12
+addPlayer 9364 37
+getBestPlayer 0
+getScoreboard: 811
+getBestPlayer 157
+addPlayer 48 20
+addPlayer 5202 62
+completeChallange 4391 28
+getBestPlayer 10001
+joinClan -1 0
+addClan 387
+addPlayer 7275 48
+addClan 1116
+getScoreboard: 935
+addPlayer 9497 71
+completeChallange 6129 7
+completeChallange 10001 5
+addClan 1212
+uniteClans 10000 10001
+getScoreboard 0
+addPlayer 9258 59
+uniteClans 10000 10001
+addClan 1988
+addClan 496
+joinClan -1 0
+getBestPlayer 0
+getBestPlayer 1114
+addClan 1404
+addClan 935
+uniteClans 452 30
+addPlayer 6821 3
+addClan 1109
+joinClan 7315 597
+uniteClans 1000 1000
+addClan 1280
+getBestPlayer 10001
+addPlayer 7822 79
+uniteClans 1000 1000
+addPlayer 8079 6
+joinClan 8755 1499
+getBestPlayer 0
+joinClan 9533 1150
+completeChallange 5945 35
+addClan 996
+addPlayer 9610 10
+getScoreboard: 1825
+completeChallange 1576 7
+completeChallange 710 21
+completeChallange 10001 70
+addClan 1368
+addClan 184
+getScoreboard: 1210
+getBestPlayer 10001
+addPlayer 3163 5
+joinClan 9499 1020
+getBestPlayer 10001
+addClan 1759
+addPlayer 3454 54
+uniteClans 0 1000
+getBestPlayer 0
+uniteClans 0 1000
+uniteClans 1000 1000
+getScoreboard: 43
+addClan 386
+getBestPlayer 10001
+addPlayer 4478 78
+addClan 1717
+uniteClans 666 222
+addClan 428
+getBestPlayer 0
+addClan 1075
+completeChallange -1 -7
+uniteClans 100 -12
+joinClan -1 0
+addPlayer 6284 66
+getScoreboard: 1321
+getScoreboard: 902
+addPlayer 4723 31
+getScoreboard 0
+completeChallange 6284 71
+addClan 1664
+joinClan 5971 1937
+getScoreboard: 395
+completeChallange 9258 65
+completeChallange 5130 39
+addClan 1839
+joinClan 3311 1402
+uniteClans 100 -12
+getBestPlayer 0
+completeChallange 10001 73
+addClan 1478
+joinClan 5382 1884
+joinClan -1 0
+joinClan 5862 1382
+getScoreboard 0
+getScoreboard: 1964
+getBestPlayer 0
+getBestPlayer 10001
+addPlayer 3027 60
+completeChallange 4659 51
+joinClan -1 0
+addPlayer 9974 10
+completeChallange 10001 78
+completeChallange 10001 41
+getBestPlayer 10001
+uniteClans 512 726
+getScoreboard: 1849
+joinClan -1 0
+addClan 925
+uniteClans 0 1000
+addClan 1104
+addClan 82
+getScoreboard: 704
+uniteClans 0 1000
+getBestPlayer 401
+joinClan -1 0
+joinClan 9087 1251
+joinClan 4690 671
+joinClan 9594 376
+completeChallange 4096 43
+joinClan 9317 387
+getBestPlayer 10001
+completeChallange 4419 31
+addClan 1962
+addClan 528
+addClan 921
+getBestPlayer 10001
+getBestPlayer 10001
+addClan 592
+addPlayer 7936 -3
+getBestPlayer 10001
+addClan 447
+getBestPlayer 0
+joinClan 5108 1727
+uniteClans 10000 10001
+completeChallange 10001 72
+uniteClans 10000 10001
+uniteClans 100 -12
+completeChallange 4121 12
+getScoreboard: 1432
+completeChallange 629 41
+addPlayer 6450 73
+addClan 451
+joinClan -1 0
+addClan 1862
+addClan 1485
+addClan 413
+addClan 1183
+getScoreboard 0
+getScoreboard: 1104
+joinClan 5537 602
+getBestPlayer 10001
+getScoreboard: 1456
+joinClan -1 0
+joinClan 7234 1622
+addClan 1349
+uniteClans 100 -12
+completeChallange 969 10
+getScoreboard: 425
+joinClan -1 0
+getBestPlayer 10001
+completeChallange 3873 55
+getBestPlayer 10001
+getScoreboard 0
+getScoreboard: 88
+completeChallange 6040 55
+getBestPlayer 0
+getScoreboard: 103
+getScoreboard: 1241
+uniteClans 0 1000
+completeChallange 9351 68
+addClan 1097
+joinClan 5500 103
+addPlayer 1608 60
+addPlayer 8730 75
+addPlayer 6979 69
+getBestPlayer 1151
+addPlayer 5776 63
+addClan 985
+getBestPlayer 0
+joinClan -1 0
+getBestPlayer 1679
+uniteClans 0 1000
+addPlayer 172 73
+joinClan 2242 1403
+completeChallange 3253 64
+addClan 751
+getBestPlayer 10001
+getScoreboard: 213
+completeChallange 10001 69
+uniteClans 100 -12
+addPlayer 3704 31
+addClan 454
+joinClan 4029 280
+addPlayer 9498 78
+uniteClans 1395 407
+joinClan -1 0
+getBestPlayer 10001
+uniteClans 10000 10001
+addClan 1581
+completeChallange 5564 63
+addClan 508
+addClan 1146
+joinClan -1 0
+joinClan 8079 1949
+addClan 1653
+completeChallange -1 -5
+uniteClans 811 950
+getBestPlayer 719
+getScoreboard: 1536
+getBestPlayer 637
+getBestPlayer 0
+joinClan -1 0
+joinClan 606 19
+addPlayer 9327 32
+getBestPlayer 0
+addPlayer 6882 40
+uniteClans 10000 10001
+addPlayer 2532 35
+joinClan -1 0
+completeChallange 902 56
+uniteClans 1007 1075
+getScoreboard: 529
+completeChallange 178 56
+uniteClans 100 -12
+completeChallange 709 13
+joinClan 4809 1231
+uniteClans 100 -12
+getBestPlayer 1955
+joinClan 5564 1113
+addPlayer 2160 9
+completeChallange 4391 62
+getScoreboard: 882
+joinClan 8583 1345
+completeChallange 10001 29
+addPlayer 8910 67
+addClan 1455
+completeChallange 9879 47
+completeChallange 8335 13
+getBestPlayer 1044
+addPlayer 7213 67
+completeChallange 9801 15
+getBestPlayer 1262
+uniteClans 591 1620
+addPlayer 3163 59
+uniteClans 10000 10001
+completeChallange 2160 45
+completeChallange -1 -7
+joinClan -1 0
+completeChallange 3728 40
+getScoreboard: 671
+getBestPlayer 10001
+addPlayer 14 62
+completeChallange 10001 17
+addPlayer 2466 22
+addClan 253
+addPlayer 330 47
+getBestPlayer 10001
+getScoreboard: 1679
+addClan 1798
+joinClan -1 0
+uniteClans 10000 10001
+completeChallange 10001 57
+getScoreboard: 1949
+uniteClans 10000 10001
+joinClan 7983 1909
+completeChallange 8554 57
+uniteClans 10000 10001
+addClan 1567
+uniteClans 100 -12
+completeChallange 10001 60
+addClan 202
+completeChallange -1 -3
+joinClan 9087 1746
+getBestPlayer 10001
+completeChallange 8792 56
+uniteClans 1000 1000
+addPlayer 7290 26
+joinClan -1 0
+addPlayer 8208 62
+addClan 908
+addPlayer 8981 75
+joinClan 3084 1628
+getBestPlayer 451
+uniteClans 0 1000
+addPlayer 6171 44
+getScoreboard: 1947
+getScoreboard: 882
+getScoreboard: 222
+getScoreboard: 496
+addClan 418
+completeChallange 3027 59
+completeChallange -1 -6
+completeChallange 4286 30
+addPlayer 5643 14
+uniteClans 1000 1000
+joinClan -1 0
+addClan 850
+addPlayer 3199 18
+uniteClans 0 1000
+addClan 1274
+uniteClans 1977 1839
+uniteClans 10000 10001
+addPlayer 3169 41
+joinClan 5443 725
+getBestPlayer 1825
+joinClan 4286 1988
+getScoreboard: 1721
+addClan 598
+getScoreboard 0
+addClan 90
+getBestPlayer -1
+joinClan 8313 780
+getScoreboard: 623
+addPlayer 3153 21
+addPlayer 793 27
+addPlayer 7810 0
+completeChallange 1243 24
+getScoreboard: 1868
+addClan 1457
+addClan 1223
+completeChallange 5862 41
+getScoreboard: 918
+getScoreboard: 1251
+uniteClans 1000 1000
+addPlayer 8098 17
+getBestPlayer 10001
+completeChallange 7110 13
+getScoreboard: 1709
+completeChallange 549 66
+addClan 336
+getBestPlayer 10001
+joinClan 3684 602
+addClan 1752
+joinClan 3468 1109
+addPlayer 5661 55
+getBestPlayer 308
+joinClan 9914 1555
+uniteClans 10000 10001
+getScoreboard: 635
+getScoreboard: 528
+joinClan 9220 1280
+uniteClans 100 -12
+addClan 1634
+completeChallange 10001 8
+getScoreboard: 191
+completeChallange 7275 71
+uniteClans 0 1000
+uniteClans 1018 280
+joinClan 1524 1210
+addClan 739
+getScoreboard: 592
+getScoreboard: 1266
+getScoreboard 0
+getScoreboard: 1364
+addClan 1040
+getScoreboard: 1349
+addClan 79
+joinClan 3169 1104
+addClan 711
+getBestPlayer 1433
+addClan 1395
+getScoreboard: 418
+joinClan -1 0
+addClan 723
+uniteClans 428 704
+addClan 77
+getScoreboard: 221
+uniteClans 1146 863
+getScoreboard 0
+joinClan -1 0
+completeChallange 10001 25
+getBestPlayer 1010
+joinClan 5012 843
+joinClan 4029 1129
+uniteClans 100 -12
+getBestPlayer 10001
+addClan 685
+getBestPlayer 1404
+getScoreboard: 82
+completeChallange 791 26
+uniteClans 10000 10001
+getBestPlayer 0
+addPlayer 9813 51
+addClan 1025
+completeChallange 8563 64
+joinClan 4121 692
+addPlayer 7600 31
+getScoreboard: 1574
+getBestPlayer 10001
+completeChallange -1 -1
+getBestPlayer 1136
+completeChallange 10001 4
+addPlayer 9021 8
+uniteClans 1000 1000
+completeChallange 2075 32
+getScoreboard: 280
+addPlayer 2512 23
+addPlayer 5040 61
+completeChallange 1615 26
+addClan 1914
+getBestPlayer 505
+joinClan 1625 1953
+completeChallange -1 -3
+addClan 1534
+completeChallange -1 -7
+addClan 1131
+addPlayer 9440 0
+completeChallange 9523 58
+addClan 701
+uniteClans 1000 1000
+getBestPlayer 0
+addPlayer 9997 45
+getScoreboard: 253
+addClan 1295
+joinClan -1 0
+completeChallange 1958 53
+uniteClans 1000 1000
+getBestPlayer 10001
+uniteClans 100 -12
+addClan 464
+getBestPlayer 1136
+addClan 753
+completeChallange 10001 77
+addClan 691
+completeChallange 9087 1
+addClan 1328
+joinClan 4161 1521
+addClan 874
+completeChallange 10001 34
+uniteClans 10000 10001
+uniteClans 310 1634
+getScoreboard: 917
+completeChallange 10001 20
+addPlayer 5313 1
+joinClan 972 1962
+addPlayer 5485 58
+addClan 946
+addPlayer 6562 48
+getScoreboard 0
+completeChallange 636 7
+uniteClans 583 527
+addClan 257
+uniteClans 10000 10001
+addClan 584
+addPlayer 2766 62
+joinClan -1 0
+getScoreboard: 157
+completeChallange 5474 55
+addClan 144
+completeChallange 10001 16
+addPlayer 7416 70
+completeChallange 10001 7
+joinClan -1 0
+joinClan 9974 512
+getScoreboard: 1652
+getBestPlayer 0
+uniteClans 10000 10001
+uniteClans 100 -12
+getBestPlayer 10001
+joinClan 5382 1947
+addClan 1589
+addPlayer 5296 68
+completeChallange 7768 37
+completeChallange 621 16
+getScoreboard: 493
+uniteClans 10000 10001
+uniteClans 0 1000
+getBestPlayer 0
+uniteClans 1681 1104
+joinClan 9971 1862
+getScoreboard: 1862
+uniteClans 10000 10001
+joinClan -1 0
+uniteClans 648 1486
+addPlayer 4305 67
+addPlayer 180 63
+completeChallange 9594 49
+addClan 824
+completeChallange 2530 69
+addPlayer 3724 57
+completeChallange 9997 26
+getBestPlayer 597
+uniteClans 1000 1000
+completeChallange 4161 22
+addPlayer 3040 43
+getScoreboard: 1677
+uniteClans 10000 10001
+addClan 70
+addClan 1673
+getScoreboard 0
+joinClan 769 454
+getScoreboard: 1953
+uniteClans 701 1229
+getScoreboard 0
+getBestPlayer 10001
+completeChallange 7596 26
+uniteClans 1433 1883
+completeChallange 8261 71
+completeChallange 10001 27
+addPlayer 2831 16
+addPlayer 4046 1
+getScoreboard: -2
+addClan 1517
+joinClan 2390 1034
+addPlayer 7400 42
+uniteClans 100 -12
+joinClan 8825 746
+uniteClans 100 -12
+uniteClans 10000 10001
+addClan 66
+uniteClans 10000 10001
+addClan 566
+getScoreboard: 777
+addPlayer 3265 1
+getScoreboard: 882
+getScoreboard: 1947
+completeChallange 5715 58
+uniteClans 0 1000
+uniteClans 10000 10001
+joinClan 3781 1964
+addClan 90
+getBestPlayer 10001
+completeChallange 4997 37
+completeChallange 2390 60
+joinClan -1 0
+addPlayer 1095 -4
+joinClan 2160 452
+completeChallange 10001 20
+addClan 1464
+getScoreboard 0
+uniteClans 0 1000
+getBestPlayer 10001
+addPlayer 4683 51
+joinClan 8894 1709
+addClan 918
+getScoreboard: 1659
+getScoreboard: 512
+joinClan -1 0
+getScoreboard 0
+addPlayer 4830 32
+addClan 1666
+getScoreboard: 1956
+addClan 503
+uniteClans 0 1000
+getBestPlayer 0
+getBestPlayer 10001
+addClan 297
+getBestPlayer 1280
+getBestPlayer 0
+joinClan 4830 811
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 1000 1000
+getScoreboard: 23
+uniteClans 1000 1000
+completeChallange 5012 5
+getScoreboard: 976
+addPlayer 4976 63
+uniteClans 1000 1000
+joinClan -1 0
+getBestPlayer 10001
+addPlayer 3229 -4
+addClan 1045
+getBestPlayer 10001
+getScoreboard 0
+addPlayer 6794 74
+completeChallange 8734 70
+getBestPlayer 1165
+addPlayer 5304 -7
+completeChallange 5130 49
+addPlayer 5919 37
+getScoreboard: 179
+completeChallange 7055 17
+addPlayer 3812 16
+addPlayer 2927 66
+joinClan -1 0
+completeChallange 10001 45
+getScoreboard: 1328
+uniteClans 100 -12
+getBestPlayer 10001
+joinClan -1 0
+getBestPlayer 10001
+uniteClans 100 -12
+completeChallange 10001 19
+getBestPlayer 10001
+addPlayer 9394 11
+uniteClans 10000 10001
+uniteClans 746 1213
+uniteClans 10000 10001
+completeChallange 1486 80
+joinClan 9971 1862
+completeChallange 10001 29
+joinClan 9415 1200
+getScoreboard: 1490
+uniteClans 100 -12
+completeChallange 769 74
+addPlayer 610 70
+addClan 1299
+joinClan 5196 1382
+addClan 348
+getScoreboard: 347
+addClan 1295
+getScoreboard: 1040
+getBestPlayer 10001
+completeChallange 10001 2
+joinClan 9741 1289
+joinClan 6154 1382
+getBestPlayer 10001
+addPlayer 5372 76
+completeChallange 657 14
+getScoreboard: 1349
+joinClan 6832 376
+getBestPlayer 10001
+getBestPlayer 10001
+getBestPlayer 0
+getScoreboard: 719
+joinClan -1 0
+getScoreboard: 639
+uniteClans 10000 10001
+completeChallange 10001 32
+uniteClans 10000 10001
+uniteClans 10000 10001
+uniteClans 10000 10001
+addPlayer 2320 72
+completeChallange 8728 17
+addClan 1064
+uniteClans 1000 1000
+addClan 1438
+completeChallange 2242 24
+getBestPlayer 10001
+completeChallange 6562 80
+uniteClans 925 1914
+getScoreboard: 512
+joinClan 5078 1183
+joinClan 9997 508
+addClan 665
+completeChallange 10001 33
+getScoreboard 0
+addClan 699
+addPlayer 7043 52
+completeChallange 5661 67
+addClan 1663
+completeChallange 10001 28
+uniteClans 1486 723
+getScoreboard 0
+addClan 504
+getBestPlayer 10001
+addPlayer 4777 64
+addPlayer 2758 58
+getBestPlayer 701
+getBestPlayer 0
+joinClan 4339 82
+joinClan 4830 1717
+completeChallange 10001 42
+getBestPlayer 0
+addClan 969
+completeChallange 5485 65
+uniteClans 1000 1000
+getScoreboard: 1534
+completeChallange 2225 31
+uniteClans 360 1513
+completeChallange -1 0
+getScoreboard: 1433
+uniteClans 10000 10001
+completeChallange 5402 60
+getScoreboard: 1144
+addPlayer 8501 44
+addPlayer 7044 8
+getBestPlayer 0
+addClan 1698
+completeChallange 8885 20
+addPlayer 2358 -7
+completeChallange 10001 9
+getScoreboard: 1536
+joinClan 2630 1652
+joinClan 8186 1455
+addClan 1954
+joinClan -1 0
+joinClan 7279 405
+getScoreboard: 1388
+addClan 864
+addClan 1466
+joinClan 8673 665
+joinClan 5542 1402
+completeChallange 8335 47
+addClan 0
+uniteClans 100 -12
+joinClan 6882 691
+addClan 367
+getBestPlayer 1798
+addPlayer 9965 57
+joinClan 5862 1953
+getScoreboard: 512
+addClan 1533
+addPlayer 4989 41
+addPlayer 4655 78
+addPlayer 3601 43
+addPlayer 3215 79
+addClan 1797
+getBestPlayer 1653
+getBestPlayer 283
+completeChallange 4642 15
+uniteClans 242 103
+completeChallange 10001 64
+completeChallange 10001 15
+joinClan 8717 297
+addClan 721
+addPlayer 4777 65
+uniteClans 10000 10001
+addPlayer 2635 -8
+joinClan 7044 395
+joinClan 3468 332
+addClan 743
+joinClan 5945 637
+getBestPlayer 0
+getScoreboard 0
+getBestPlayer 1989
+uniteClans 100 -12
+uniteClans 10000 10001
+addClan 212
+completeChallange 10001 32
+addClan 1979
+getBestPlayer 10001
+addPlayer 292 32
+getBestPlayer 0
+getScoreboard: 1761
+uniteClans 1895 942
+getBestPlayer 10001
+uniteClans 882 23
+completeChallange 9741 30
+uniteClans 10000 10001
+uniteClans 1000 1000
+addClan 187
+addPlayer 2341 45
+getScoreboard: 310
+uniteClans 143 1517
+getScoreboard: 504
+addClan 672
+joinClan 7983 418
+addClan 1688
+getBestPlayer 10001
+addClan 1134
+uniteClans 1000 1000
+addClan -7
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 100 -12
+getBestPlayer 0
+getBestPlayer 10001
+getBestPlayer 0
+uniteClans 10000 10001
+completeChallange 2341 77
+addPlayer 9553 42
+getScoreboard 0
+getBestPlayer 1045
+uniteClans 10000 10001
+getBestPlayer 10001
+completeChallange 2597 2
+addPlayer 6802 12
+addPlayer 8418 23
+getScoreboard: 1114
+addClan 1830
+getBestPlayer 699
+uniteClans 19 112
+uniteClans 10000 10001
+joinClan 3199 1368
+uniteClans 100 -12
+getScoreboard: 672
+getScoreboard: 222
+addPlayer 7251 70
+addPlayer 1664 77
+addClan 1952
+addPlayer 4063 23
+getScoreboard: 888
+completeChallange 1302 43
+joinClan 7110 212
+addPlayer 2237 1
+joinClan -1 0
+joinClan 9440 1200
+completeChallange 9734 28
+completeChallange 6979 62
+completeChallange 7275 38
+getScoreboard: 1364
+joinClan 3873 843
+addClan 1402
+addClan 577
+getBestPlayer 1952
+getBestPlayer 1989
+joinClan 2146 1549
+uniteClans 100 -12
+addClan 1997
+uniteClans 10000 10001
+completeChallange 9914 76
+joinClan 8505 843
+completeChallange 10001 10
+joinClan 969 850
+addClan 1483
+getScoreboard: 213
+getScoreboard: 496
+getBestPlayer 1183
+completeChallange 768 1
+getBestPlayer 0
+completeChallange 1233 40
+addPlayer 1865 5
+uniteClans 221 79
+getBestPlayer 10001
+completeChallange 1576 55
+getBestPlayer 10001
+getBestPlayer 10001
+uniteClans 10000 10001
+getBestPlayer 0
+completeChallange 3023 68
+addClan 596
+getScoreboard: 1591
+addPlayer 965 -2
+addClan 988
+getScoreboard: 1337
+completeChallange 5196 62
+uniteClans 739 1701
+getScoreboard 0
+getScoreboard: 739
+joinClan -1 0
+getBestPlayer 0
+getBestPlayer 824
+getScoreboard: 1010
+completeChallange 4080 79
+joinClan 5966 1952
+getBestPlayer 1679
+completeChallange 2326 35
+getBestPlayer 10001
+addPlayer 198 76
+addClan 1299
+uniteClans 721 832
+joinClan -1 0
+joinClan 1865 1591
+getScoreboard: 1289
+uniteClans 1956 324
+addPlayer 5484 41
+completeChallange 7275 76
+uniteClans 751 498
+getBestPlayer 0
+addPlayer 1684 3
+completeChallange 10001 32
+getBestPlayer 1368
+completeChallange 508 13
+completeChallange 3856 36
+addPlayer 1558 24
+joinClan 9949 1548
+getBestPlayer 667
+getBestPlayer 0
+addClan 781
+addPlayer 4209 47
+joinClan 3084 1299
+getBestPlayer 0
+addClan 1197
+getBestPlayer 184
+addPlayer 541 65
+joinClan -1 0
+joinClan 7481 946
+addClan 1598
+joinClan -1 0
+getBestPlayer 0
+completeChallange 8136 60
+uniteClans 103 1666
+addPlayer 518 44
+getBestPlayer 10001
+completeChallange 2237 14
+getScoreboard: 1064
+addClan 512
+addClan 692
+addPlayer 6819 18
+addClan 1405
+completeChallange 8098 80
+getBestPlayer 1457
+getBestPlayer 464
+getBestPlayer 10001
+uniteClans 10000 10001
+completeChallange 9997 9
+joinClan 5202 996
+addClan 1218
+completeChallange 1576 5
+uniteClans 100 -12
+uniteClans 10000 10001
+getBestPlayer 10001
+addClan 1239
+joinClan 7425 1449
+addPlayer 3515 74
+addClan 318
+getBestPlayer 10001
+completeChallange 6821 43
+getScoreboard: 1285
+addClan 1315
+uniteClans 1000 1000
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 0 1000
+addPlayer 4443 62
+addClan 665
+addPlayer 6193 23
+uniteClans 368 602
+uniteClans 1000 1000
+completeChallange 3102 64
+getBestPlayer 580
+getScoreboard: 1280
+uniteClans 10000 10001
+uniteClans 10000 10001
+addPlayer 7346 28
+uniteClans 1000 1000
+getScoreboard 0
+addClan 1731
+addClan 671
+completeChallange -1 -4
+getBestPlayer 10001
+getScoreboard: 43
+uniteClans 100 -12
+getBestPlayer 1266
+getBestPlayer 10001
+joinClan -1 0
+addClan 1713
+addClan 1253
+joinClan 6734 512
+addPlayer 6698 14
+getScoreboard 0
+getScoreboard: 386
+uniteClans 10000 10001
+addClan 709
+uniteClans 10000 10001
+joinClan -1 0
+addClan 1104
+addPlayer 6947 67
+addPlayer 9183 66
+getScoreboard: 1989
+joinClan 1095 1555
+getBestPlayer 10001
+addPlayer 5865 43
+joinClan 6802 692
+addPlayer 225 25
+addClan 625
+uniteClans 637 425
+getBestPlayer 10001
+getBestPlayer 0
+getScoreboard: 1010
+getBestPlayer 1134
+completeChallange 709 61
+addClan 1208
+getBestPlayer 10001
+uniteClans 0 1000
+getScoreboard: 103
+uniteClans 10000 10001
+completeChallange 556 1
+uniteClans 10000 10001
+getScoreboard 0
+uniteClans 743 1586
+completeChallange 10001 49
+addClan 698
+uniteClans 10000 10001
+uniteClans 464 529
+uniteClans 10000 10001
+addClan 310
+joinClan 2225 1688
+getScoreboard 0
+getScoreboard: 1150
+completeChallange 9888 44
+uniteClans 10000 10001
+uniteClans 10000 10001
+joinClan 2954 908
+getBestPlayer 676
+addClan 441
+completeChallange 3862 4
+addClan 1868
+getScoreboard: 413
+addPlayer 5702 38
+uniteClans 510 1653
+getScoreboard: 1388
+addPlayer 6205 28
+addClan 77
+completeChallange 1771 53
+getBestPlayer 1659
+completeChallange 10001 54
+getScoreboard: 454
+addClan 1154
+joinClan 7541 1499
+completeChallange 3452 71
+joinClan 8554 761
+joinClan 8981 1322
+addClan 862
+addClan 1659
+completeChallange 5153 64
+getBestPlayer 0
+addClan 723
+addClan 1923
+joinClan 6794 179
+getScoreboard 0
+joinClan -1 0
+getScoreboard: 1947
+getBestPlayer 10001
+uniteClans 100 -12
+getScoreboard: 1097
+addPlayer 2361 28
+joinClan 1684 212
+joinClan 4962 811
+completeChallange 2294 63
+completeChallange -1 -1
+getScoreboard: 806
+getBestPlayer 10001
+getScoreboard: 1136
+joinClan 6842 1954
+completeChallange 1625 68
+addPlayer 9981 14
+getScoreboard: 541
+joinClan 4419 145
+addPlayer 5868 58
+completeChallange 9183 27
+getScoreboard: 1825
+getBestPlayer 1236
+completeChallange 6259 22
+uniteClans 100 -12
+addClan 1832
+uniteClans 0 1000
+completeChallange 3311 39
+completeChallange 9594 61
+addPlayer 3828 39
+addPlayer 8216 73
+uniteClans 0 1000
+uniteClans 100 -12
+uniteClans 0 1000
+addClan 1447
+joinClan -1 0
+addPlayer 8071 22
+getScoreboard: 1304
+joinClan 2140 399
+getScoreboard 0
+uniteClans 100 -12
+addClan 1360
+uniteClans 100 -12
+uniteClans 10000 10001
+addClan 1703
+joinClan 8885 723
+getBestPlayer 10001
+addPlayer 637 73
+addClan 1551
+joinClan 4209 1395
+completeChallange 2237 66
+getBestPlayer 1268
+completeChallange 2390 57
+joinClan 2597 737
+addClan 439
+completeChallange 6154 14
+addPlayer 9823 57
+getBestPlayer 10001
+getScoreboard: 187
+addPlayer 4842 19
+addClan 992
+completeChallange 2861 73
+addClan 1706
+uniteClans 0 1000
+addPlayer 3947 77
+addClan 1368
+uniteClans 1368 1696
+addPlayer 2892 -6
+completeChallange 4131 47
+getBestPlayer 723
+addClan 1682
+uniteClans 344 1218
+addClan 1966
+addPlayer 717 26
+getBestPlayer 143
+getBestPlayer 10001
+joinClan 636 206
+uniteClans 0 1000
+addPlayer 2837 0
+uniteClans 10000 10001
+getBestPlayer 1957
+getScoreboard: 1698
+joinClan -1 0
+joinClan 7315 1746
+addClan 46
+addPlayer 4658 -6
+getBestPlayer 0
+joinClan 8885 1696
+getScoreboard: 297
+uniteClans 10000 10001
+uniteClans 1253 590
+completeChallange 8910 20
+joinClan -1 0
+uniteClans 1000 1000
+getScoreboard 0
+getScoreboard: 602
+getBestPlayer 0
+joinClan 9981 1322
+getBestPlayer 0
+addClan 546
+addPlayer 9021 44
+uniteClans 10000 10001
+getBestPlayer 671
+addClan 360
+joinClan 621 439
+uniteClans 10000 10001
+addPlayer 4017 7
+getBestPlayer 1830
+addPlayer 9300 63
+joinClan 8826 701
+joinClan -1 0
+completeChallange 9671 52
+addPlayer 797 14
+addPlayer 3030 13
+getBestPlayer 10001
+addClan 1894
+addClan 437
+joinClan 7315 376
+completeChallange 8849 51
+completeChallange 246 51
+addPlayer 1978 39
+getBestPlayer 0
+uniteClans 10000 10001
+getBestPlayer 1075
+completeChallange 4131 3
+getScoreboard: 739
+uniteClans 1000 1000
+getBestPlayer 602
+completeChallange 2140 73
+joinClan -1 0
+completeChallange 2326 40
+addPlayer 6103 34
+uniteClans 1000 1000
+addPlayer 5716 40
+getBestPlayer 10001
+addPlayer 6680 45
+addClan 1440
+addPlayer 4480 20
+getBestPlayer 1862
+getScoreboard: 1388
+joinClan 4161 23
+joinClan 3601 651
+joinClan -1 0
+getBestPlayer 1754
+uniteClans 10000 10001
+getScoreboard 0
+addPlayer 6083 35
+completeChallange 10001 5
+completeChallange 5862 37
+uniteClans 10000 10001
+addPlayer 7911 -5
+addPlayer 2592 68
+joinClan 198 541
+completeChallange 3027 37
+completeChallange 10001 10
+getBestPlayer 10001
+joinClan 3727 546
+addClan 302
+uniteClans 10000 10001
+getScoreboard: 753
+joinClan 4772 222
+completeChallange 10001 55
+joinClan 4955 418
+getBestPlayer 0
+completeChallange 10001 6
+uniteClans 100 -12
+completeChallange 10001 75
+getScoreboard 0
+joinClan 2294 418
+uniteClans 100 -12
+completeChallange 10001 15
+getBestPlayer 10001
+addClan 1319
+completeChallange 363 49
+getBestPlayer 0
+joinClan 3153 437
+addPlayer 4971 70
+completeChallange 10001 66
+joinClan -1 0
+getScoreboard: 1591
+uniteClans 100 -12
+addClan 146
+addClan 587
+getScoreboard: 318
+getBestPlayer 10001
+uniteClans 1183 261
+addPlayer 3400 66
+uniteClans 10000 10001
+getBestPlayer 685
+uniteClans 10000 10001
+uniteClans 100 -12
+addClan 767
+completeChallange 6620 70
+getScoreboard: 541
+completeChallange 1380 39
+addPlayer 5679 -2
+addPlayer 24 4
+getBestPlayer 10001
+uniteClans 10000 10001
+addClan 713
+joinClan 3169 992
+getScoreboard 0
+addClan 1363
+addPlayer 9747 15
+getScoreboard: 1909
+joinClan 48 1937
+addPlayer 3649 24
+getScoreboard: 280
+addPlayer 6979 55
+addPlayer 3968 79
+addPlayer 1980 11
+addPlayer 5500 -8
+joinClan 5661 310
+addPlayer 6755 -5
+completeChallange 9036 21
+joinClan 7043 1284
+getScoreboard 0
+getBestPlayer 667
+joinClan -1 0
+uniteClans 10000 10001
+joinClan 657 992
+joinClan 5130 597
+completeChallange -1 -3
+getScoreboard: 19
+getScoreboard: 1486
+getScoreboard 0
+joinClan 269 1967
+uniteClans 863 1868
+getScoreboard: 1591
+getScoreboard: 824
+joinClan 5078 988
+joinClan 8070 66
+addClan 697
+uniteClans 10000 10001
+addClan 649
+uniteClans 10000 10001
+joinClan 2225 1332
+getScoreboard: 1483
+addPlayer 1484 29
+getScoreboard: 1150
+addClan 655
+getBestPlayer 10001
+addClan 1903
+getScoreboard: 1345
+uniteClans 1000 1000
+joinClan 4209 1759
+joinClan 9949 1746
+getBestPlayer 1464
+completeChallange 7115 55
+uniteClans 10000 10001
+getBestPlayer 10001
+joinClan 3704 994
+addPlayer 3201 19
+addClan 385
+completeChallange 9113 70
+addClan 698
+addClan 1792
+addPlayer 4217 55
+joinClan -1 0
+joinClan 5313 753
+getBestPlayer 692
+getScoreboard: 903
+addPlayer 9044 22
+getScoreboard: 888
+completeChallange 3968 67
+getScoreboard: 1284
+completeChallange 246 6
+joinClan -1 0
+addClan 559
+getBestPlayer 0
+addPlayer 7896 77
+addClan 1063
+getScoreboard: 1285
+addClan 633
+getBestPlayer 190
+addClan 130
+addPlayer 3900 54
+joinClan -1 0
+getBestPlayer 0
+joinClan -1 0
+uniteClans 1000 1000
+getBestPlayer 1363
+uniteClans 10000 10001
+getScoreboard: 739
+getBestPlayer 1226
+getScoreboard: 387
+getScoreboard 0
+getBestPlayer 10001
+addClan 1545
+addClan 577
+getScoreboard: 493
+getBestPlayer 452
+getBestPlayer 10001
+addClan 2000
+joinClan -1 0
+completeChallange 9949 78
+getBestPlayer 1020
+joinClan 9021 844
+getBestPlayer 10001
+joinClan 7290 1154
+getBestPlayer 1505
+completeChallange 1006 77
+completeChallange 3400 42
+uniteClans 1000 1000
+joinClan 5971 212
+addClan 1049
+getBestPlayer 1551
+getBestPlayer 253
+uniteClans 1403 917
+addClan 434
+getBestPlayer 10001
+addClan 488
+joinClan 6819 692
+uniteClans 1000 1000
+uniteClans 10000 10001
+uniteClans 10000 10001
+joinClan 902 1457
+addPlayer 3589 77
+addPlayer 6325 28
+getBestPlayer 10001
+joinClan -1 0
+addClan 1271
+getScoreboard: 125
+addClan 416
+getScoreboard: 464
+joinClan -1 0
+joinClan -1 0
+addPlayer 2551 66
+getScoreboard: 848
+joinClan 556 1034
+completeChallange 10001 38
+addPlayer 255 40
+addPlayer 8336 56
+completeChallange 8792 45
+completeChallange 10001 49
+completeChallange 5868 4
+addPlayer 5501 11
+getBestPlayer 10001
+joinClan 9594 1620
+uniteClans 0 1000
+addPlayer 297 44
+addPlayer 3496 -1
+addClan 1209
+joinClan -1 0
+getBestPlayer 10001
+completeChallange 7822 69
+addClan 783
+joinClan 8159 1241
+completeChallange 10001 17
+getBestPlayer 10001
+addClan 213
+joinClan 3040 360
+getBestPlayer 10001
+joinClan 8178 996
+completeChallange 9069 28
+addPlayer 1634 43
+getBestPlayer 10001
+completeChallange -1 -8
+completeChallange 10001 70
+uniteClans 10000 10001
+getScoreboard 0
+uniteClans 10000 10001
+addClan 1001
+addPlayer 3592 41
+addPlayer 6120 28
+getBestPlayer 10001
+addClan 1281
+getBestPlayer 10001
+joinClan 2705 1044
+joinClan 8136 633
+uniteClans 0 1000
+completeChallange 3135 1
+joinClan 178 441
+uniteClans 10000 10001
+getScoreboard: 639
+uniteClans 10000 10001
+addPlayer 5617 64
+getScoreboard: 1521
+getScoreboard: 699
+addPlayer 5086 33
+joinClan 3169 996
+completeChallange 10001 69
+getScoreboard: 1615
+completeChallange -1 -8
+completeChallange 10001 13
+joinClan 4723 367
+addClan 1896
+getBestPlayer 0
+uniteClans 100 -12
+completeChallange 269 9
+addClan 1116
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 5347 45
+completeChallange 10001 58
+getScoreboard: 976
+uniteClans 10000 10001
+addClan 118
+getBestPlayer 10001
+getScoreboard: 596
+joinClan -1 0
+getScoreboard: 1433
+getScoreboard: 181
+uniteClans 360 806
+addPlayer 7361 24
+uniteClans 100 -12
+uniteClans 864 719
+completeChallange 8894 10
+addClan 266
+getScoreboard: 602
+getScoreboard: 614
+completeChallange 10001 71
+addClan 732
+addClan 1874
+addClan 1348
+getBestPlayer 10001
+addPlayer 9267 -2
+addClan 1738
+getBestPlayer 1299
+uniteClans 1266 697
+addPlayer 585 -3
+completeChallange 10001 59
+completeChallange 5868 3
+joinClan 8144 1968
+completeChallange 3653 59
+joinClan 3589 1696
+addPlayer 4375 73
+addPlayer 1173 45
+addClan 1779
+joinClan 6293 690
+uniteClans 10000 10001
+joinClan 972 1798
+completeChallange 208 18
+completeChallange 4562 25
+uniteClans 100 -12
+getScoreboard 0
+getScoreboard 0
+completeChallange 10001 28
+addPlayer 6294 16
+addClan 657
+getBestPlayer 496
+uniteClans 100 -12
+addClan 320
+completeChallange 4683 31
+addPlayer 7964 49
+joinClan 6120 888
+uniteClans 10000 10001
+joinClan 9394 19
+getBestPlayer 416
+completeChallange 3114 73
+uniteClans 10000 10001
+getScoreboard: 1231
+getBestPlayer 10001
+addPlayer 2885 60
+addPlayer 8399 33
+addPlayer 4573 36
+getScoreboard: 1896
+joinClan 3576 266
+getScoreboard: 577
+joinClan 1097 1280
+getBestPlayer 10001
+uniteClans 10000 10001
+getScoreboard: 1761
+getScoreboard: 1659
+addPlayer 6767 6
+getScoreboard 0
+uniteClans 10000 10001
+joinClan 8159 1545
+getBestPlayer 10001
+addClan 575
+joinClan -1 0
+uniteClans 1000 1000
+joinClan 9533 82
+completeChallange 10001 32
+getScoreboard: 1615
+getScoreboard 0
+addClan 1326
+getBestPlayer 1589
+addClan 1921
+uniteClans 100 -12
+addClan 807
+completeChallange -1 -5
+completeChallange 10001 58
+addPlayer 5951 71
+addPlayer 8373 30
+completeChallange 10001 52
+joinClan 606 1026
+completeChallange 3220 34
+getScoreboard 0
+getBestPlayer 10001
+getScoreboard: 1598
+getScoreboard 0
+addPlayer 9670 17
+getBestPlayer 10001
+getBestPlayer 10001
+completeChallange 1128 14
+addClan 383
+uniteClans 850 917
+uniteClans 1664 1321
+getBestPlayer 10001
+uniteClans 100 -12
+addPlayer 886 -5
+joinClan 208 125
+getBestPlayer 10001
+addPlayer 1823 51
+completeChallange 10001 30
+getBestPlayer 10001
+getScoreboard: 405
+addPlayer 8166 65
+addPlayer 4982 52
+getBestPlayer 10001
+getBestPlayer 0
+getBestPlayer 10001
+getScoreboard: 206
+joinClan 7822 888
+joinClan 8792 750
+addClan 1393
+getScoreboard 0
+completeChallange 5130 55
+getBestPlayer 1698
+getScoreboard 0
+addClan 81
+uniteClans 10000 10001
+joinClan 793 1049
+getScoreboard: 598
+joinClan 3040 969
+addPlayer 1989 76
+uniteClans 10000 10001
+getScoreboard: 336
+completeChallange -1 -3
+completeChallange 7043 52
+joinClan -1 0
+getScoreboard 0
+joinClan 3077 439
+getScoreboard 0
+uniteClans 1322 434
+uniteClans 10000 10001
+joinClan 3727 1268
+uniteClans 10000 10001
+addPlayer 7398 35
+completeChallange 7043 53
+uniteClans 10000 10001
+addPlayer 4376 -8
+addPlayer 9074 15
+getBestPlayer 1345
+uniteClans 1000 1000
+getBestPlayer 10001
+completeChallange 1684 74
+addPlayer 4531 34
+completeChallange 2831 46
+getBestPlayer 10001
+uniteClans 100 -12
+getBestPlayer 384
+addClan 398
+getBestPlayer 10001
+uniteClans 100 -12
+joinClan -1 0
+addPlayer 9430 3
+uniteClans 1765 1301
+getScoreboard: 657
+getScoreboard: 1967
+completeChallange 10001 76
+completeChallange 292 24
+addClan 851
+getScoreboard: 942
+joinClan 5744 976
+getBestPlayer 1882
+addClan 1572
+getBestPlayer 1209
+getBestPlayer 0
+addPlayer 37 24
+addClan 1359
+joinClan 3468 1989
+joinClan 2551 1874
+addPlayer 136 28
+getScoreboard: 407
+joinClan 5702 1262
+getBestPlayer 935
+addPlayer 8545 65
+completeChallange 2861 18
+uniteClans 1040 1485
+getScoreboard: 1717
+joinClan 621 721
+uniteClans 10000 10001
+uniteClans 1000 1000
+joinClan 9430 598
+addPlayer 4881 5
+addPlayer 1412 42
+joinClan -1 0
+addClan 1843
+getBestPlayer 10001
+addClan 532
+addClan 1401
+getScoreboard: 1359
+joinClan 797 1483
+uniteClans 665 1534
+completeChallange 3722 76
+uniteClans 186 1359
+joinClan -1 0
+getScoreboard: 1521
+uniteClans 100 -12
+uniteClans 1000 1000
+addClan 70
+uniteClans 1977 144
+getScoreboard 0
+completeChallange 10001 22
+getScoreboard 0
+getScoreboard: 1332
+addClan 1738
+getBestPlayer 10001
+getBestPlayer 10001
+addPlayer 2261 23
+completeChallange 9715 27
+addPlayer 3794 -4
+completeChallange 2075 72
+uniteClans 10000 10001
+joinClan -1 0
+addClan 422
+getBestPlayer 10001
+getScoreboard: 1673
+joinClan 9160 1581
+addClan 1203
+getBestPlayer 10001
+getBestPlayer 992
+joinClan 2341 1698
+completeChallange 10001 78
+joinClan 4976 405
+uniteClans 1000 1000
+getScoreboard: 691
+addPlayer 4921 68
+getScoreboard: 1954
+getScoreboard: 221
+addClan 1630
+uniteClans 398 807
+addPlayer 3336 8
+uniteClans 918 1615
+getScoreboard: 1289
+uniteClans 10000 10001
+addPlayer 8572 26
+getBestPlayer 767
+joinClan -1 0
+getBestPlayer 386
+completeChallange 10001 8
+joinClan 902 942
+addPlayer 3254 56
+addPlayer 5268 25
+uniteClans 108 1548
+addClan 26
+completeChallange 3023 46
+joinClan 1302 1456
+addPlayer 1889 76
+getScoreboard: 1210
+getBestPlayer 10001
+getBestPlayer 1628
+joinClan 7346 556
+completeChallange 10001 45
+joinClan -1 0
+completeChallange 3339 30
+getScoreboard: 418
+addClan 1597
+uniteClans 10000 10001
+addClan 1006
+getScoreboard: 737
+getScoreboard: 1578
+addPlayer 5951 58
+getBestPlayer 10001
+addClan 244
+getScoreboard 0
+addClan 1263
+completeChallange 2630 11
+getScoreboard: 676
+addClan 553
+uniteClans 100 -12
+completeChallange 5443 9
+addClan 1655
+uniteClans 1000 1000
+addPlayer 3806 47
+addPlayer 9840 47
+completeChallange 5282 35
+uniteClans 1620 777
+completeChallange 8734 53
+getScoreboard: 1567
+addClan 683
+addClan 280
+addClan 1503
+uniteClans 10000 10001
+getScoreboard: 553
+getBestPlayer 130
+getScoreboard 0
+getBestPlayer 0
+addClan 1270
+uniteClans 10000 10001
+completeChallange 2903 3
+addClan 461
+joinClan 3023 1289
+completeChallange 10001 70
+addClan 513
+joinClan 9499 1598
+getBestPlayer 1116
+uniteClans 0 1000
+addPlayer 86 45
+joinClan -1 0
+completeChallange 3728 16
+addPlayer 4013 66
+getScoreboard: 674
+addClan 378
+addPlayer 7879 20
+addPlayer 1428 36
+addPlayer 3306 74
+getBestPlayer 10001
+completeChallange 10001 35
+uniteClans 100 -12
+completeChallange 4068 33
+completeChallange 3727 43
+completeChallange 10001 75
+joinClan -1 0
+completeChallange 4955 69
+joinClan 3684 70
+joinClan 5148 1049
+getBestPlayer 0
+getBestPlayer 512
+addPlayer 8132 -4
+getBestPlayer 1349
+addClan 1727
+addClan 1029
+completeChallange 3400 78
+joinClan 7044 590
+completeChallange 10001 78
+addClan 847
+getScoreboard: 23
+completeChallange 6577 15
+addClan 1776
+uniteClans 1000 1000
+joinClan -1 0
+uniteClans 100 -12
+addClan 792
+joinClan 8728 598
+joinClan 292 1263
+getBestPlayer 10001
+completeChallange 3077 4
+joinClan 86 1332
+completeChallange 7315 54
+getBestPlayer 0
+addPlayer 5557 15
+uniteClans 257 455
+getScoreboard: 1574
+uniteClans 1074 862
+uniteClans 10000 10001
+addPlayer 8312 3
+completeChallange 6040 77
+addClan 1423
+addPlayer 222 -7
+joinClan 7275 1349
+getScoreboard: 1241
+joinClan -1 0
+uniteClans 10000 10001
+getScoreboard: 721
+uniteClans 0 1000
+addPlayer 2128 29
+getBestPlayer 1670
+getBestPlayer 10001
+addClan 950
+addPlayer 1728 78
+getScoreboard 0
+addPlayer 2270 54
+joinClan 4976 253
+completeChallange 8940 41
+completeChallange 10001 54
+addPlayer 1879 75
+getScoreboard: 1270
+addPlayer 5705 15
+addPlayer 2232 23
+getScoreboard 0
+getScoreboard: 1696
+joinClan 1243 1555
+completeChallange 9801 16
+addPlayer 7955 25
+uniteClans 10000 10001
+getBestPlayer 902
+completeChallange 9021 13
+joinClan 8755 844
+joinClan -1 0
+addPlayer 1453 23
+getScoreboard: 1440
+uniteClans 10000 10001
+completeChallange 9813 29
+addClan 1595
+uniteClans 583 1010
+addClan 1620
+addClan 1723
+completeChallange 10001 26
+completeChallange 4161 58
+uniteClans 461 1738
+getScoreboard 0
+addClan 256
+completeChallange 7955 55
+completeChallange 6767 80
+addClan 771
+getBestPlayer 0
+getScoreboard 0
+getScoreboard: 1490
+getScoreboard: 921
+addClan 841
+completeChallange 10001 56
+getScoreboard: 81
+completeChallange 6040 15
+addClan 898
+joinClan 8928 1947
+getBestPlayer 10001
+joinClan 2831 843
+completeChallange -1 -2
+uniteClans 10000 10001
+addPlayer 6134 -4
+addPlayer 7581 -6
+getBestPlayer 46
+getScoreboard: 1226
+addPlayer 4680 7
+joinClan 2630 1589
+addClan 713
+completeChallange 6734 62
+joinClan 5382 512
+getBestPlayer 10001
+completeChallange 10001 3
+getScoreboard: 1792
+completeChallange 10001 41
+joinClan -1 0
+completeChallange 10001 9
+uniteClans 1055 1586
+addClan 922
+joinClan 610 1040
+addClan 1932
+getBestPlayer 1832
+uniteClans 10000 10001
+addClan 901
+getScoreboard: 1393
+uniteClans 0 1000
+getScoreboard: 1752
+getScoreboard: 633
+joinClan 4958 1490
+getBestPlayer 0
+addPlayer 1012 31
+addPlayer 6591 65
+completeChallange -1 -5
+uniteClans 988 179
+addPlayer 1764 56
+addPlayer 8615 34
+completeChallange 3601 79
+joinClan 5681 1266
+addClan 383
+addClan 532
+getBestPlayer 1754
+uniteClans 10000 10001
+addClan 1659
+getScoreboard 0
+uniteClans 100 -12
+addClan 1374
+uniteClans 100 -12
+getBestPlayer 10001
+completeChallange 4982 40
+addClan 771
+getBestPlayer 0
+addPlayer 9937 12
+getBestPlayer 0
+uniteClans 1000 1000
+addPlayer 9313 34
+joinClan 4997 439
+getBestPlayer 55
+addPlayer 6709 54
+addClan 746
+joinClan -1 0
+completeChallange 10001 58
+getScoreboard 0
+joinClan 7425 553
+getScoreboard 0
+getBestPlayer 10001
+addClan 327
+addClan 1425
+getBestPlayer 10001
+getScoreboard: 1274
+joinClan -1 0
+addPlayer 1630 6
+getScoreboard: 1208
+getBestPlayer 266
+getScoreboard 0
+uniteClans 10000 10001
+getBestPlayer 10001
+getBestPlayer 0
+completeChallange 6577 53
+uniteClans 10000 10001
+addClan 762
+getBestPlayer 10001
+addClan 497
+addClan 411
+uniteClans 10000 10001
+addPlayer 2965 74
+getBestPlayer 0
+addClan 1258
+addPlayer 4606 30
+getScoreboard 0
+addClan 1433
+addClan 872
+addPlayer 845 68
+joinClan 7896 395
+joinClan 2630 376
+completeChallange 8792 74
+addClan 24
+addPlayer 3467 20
+addClan 1862
+uniteClans 143 553
+getScoreboard: 1447
+addClan 1425
+getScoreboard: 1723
+uniteClans 0 1000
+addClan 243
+uniteClans 10000 10001
+getBestPlayer 10001
+getBestPlayer 0
+getScoreboard 0
+completeChallange 2766 39
+getScoreboard: 725
+addPlayer 3784 18
+uniteClans 1652 1490
+getBestPlayer 10001
+addPlayer 1367 1
+addPlayer 8147 34
+completeChallange 10001 47
+addPlayer 974 23
+addPlayer 5502 30
+getScoreboard: 1761
+getScoreboard: 1713
+completeChallange 6979 80
+completeChallange 3201 55
+addClan 985
+uniteClans 848 1598
+completeChallange 5776 6
+getScoreboard: 1698
+joinClan 1771 1425
+joinClan 8755 1075
+completeChallange 10001 67
+addClan 1829
+uniteClans 10000 10001
+getBestPlayer 10001
+completeChallange -1 -1
+completeChallange 5153 39
+joinClan -1 0
+addClan 592
+getScoreboard 0
+joinClan 769 1848
+getScoreboard: 1363
+uniteClans 10000 10001
+getBestPlayer 597
+joinClan 3027 1363
+uniteClans 1503 211
+addClan 12
+getScoreboard: 1953
+getBestPlayer 1270
+completeChallange 1630 6
+getScoreboard: 577
+getScoreboard: 946
+getBestPlayer 513
+addPlayer 1104 53
+getBestPlayer 1239
+joinClan 4777 1438
+getScoreboard: 125
+joinClan -1 0
+getBestPlayer 10001
+uniteClans 1663 767
+getBestPlayer 10001
+addPlayer 5996 78
+completeChallange 4478 21
+addPlayer 2934 31
+uniteClans 100 -12
+addPlayer 4899 15
+joinClan 5696 213
+completeChallange 710 71
+completeChallange 926 42
+addPlayer 9579 34
+addPlayer 4214 26
+addClan 1571
+completeChallange 4409 44
+getScoreboard 0
+joinClan -1 0
+getBestPlayer 191
+completeChallange 1233 17
+uniteClans 10000 10001
+completeChallange 5313 13
+joinClan 4425 1281
+addPlayer 4638 -2
+addPlayer 8018 31
+completeChallange -1 -1
+joinClan 1989 1759
+uniteClans 1000 1000
+uniteClans 100 -12
+addClan 1214
+completeChallange 5202 45
+getBestPlayer 10001
+joinClan 2592 308
+completeChallange 9160 18
+uniteClans 671 1702
+completeChallange 10001 33
+completeChallange 4842 9
+joinClan -1 0
+joinClan 9823 280
+completeChallange 6354 33
+completeChallange -1 -7
+getBestPlayer 10001
+addClan 747
+getBestPlayer 10001
+addClan 236
+joinClan 2407 918
+getScoreboard: 614
+completeChallange -1 -8
+getScoreboard 0
+addClan 1940
+completeChallange 10001 62
+getScoreboard: 1630
+addClan 1207
+addClan 1039
+uniteClans 100 -12
+joinClan 3467 1208
+completeChallange 10001 12
+completeChallange 10001 46
+getBestPlayer 1404
+addClan 1411
+joinClan -1 0
+getScoreboard: 1363
+addPlayer 7735 6
+addClan 1587
+addClan 901
+completeChallange 10001 44
+addPlayer 1386 39
+getScoreboard: 1432
+getBestPlayer 1490
+getBestPlayer 1097
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 6574 80
+getBestPlayer 378
+joinClan 5296 8
+addPlayer 7783 -1
+getScoreboard: 637
+addPlayer 7447 19
+getScoreboard: 1208
+addPlayer 4082 32
+getScoreboard: 811
+addPlayer 9075 8
+uniteClans 0 1000
+uniteClans 1000 1000
+addClan 1816
+uniteClans 100 -12
+uniteClans 100 -12
+uniteClans 1000 1000
+completeChallange 6293 41
+addPlayer 450 0
+uniteClans 10000 10001
+joinClan 5502 528
+completeChallange 10001 23
+addPlayer 7723 62
+addClan 558
+addPlayer 233 8
+addClan 195
+addPlayer 4585 54
+addClan 1016
+completeChallange 10001 45
+completeChallange 10001 40
+addClan 505
+uniteClans 1113 1010
+addClan 844
+getScoreboard: 1630
+uniteClans 100 -12
+addClan 48
+getBestPlayer 10001
+joinClan 3336 493
+joinClan 9317 1544
+getBestPlayer 10001
+addPlayer 836 58
+uniteClans 0 1000
+joinClan 5153 512
+addClan 1115
+getBestPlayer 0
+joinClan 9823 596
+completeChallange 3254 37
+uniteClans 100 -12
+addClan 1140
+getScoreboard 0
+uniteClans 100 -12
+addPlayer 3926 68
+completeChallange 3467 64
+addClan 1456
+getBestPlayer 0
+uniteClans 100 -12
+uniteClans 0 1000
+joinClan -1 0
+addClan 1564
+addClan 1062
+getBestPlayer 10001
+getBestPlayer 318
+completeChallange 7398 19
+completeChallange 10001 33
+getBestPlayer 0
+addPlayer 8267 5
+completeChallange 3201 60
+addClan 158
+addClan 116
+completeChallange 2341 20
+addClan 626
+getBestPlayer 386
+uniteClans 100 -12
+addClan 944
+joinClan 5715 512
+uniteClans 1000 1000
+addPlayer 4287 19
+completeChallange -1 -3
+addPlayer 6929 18
+addClan 623
+uniteClans 637 1721
+addClan 806
+addPlayer 9596 68
+getBestPlayer 10001
+uniteClans 10000 10001
+addPlayer 4605 66
+joinClan 1173 1486
+addPlayer 5105 35
+addClan 1990
+joinClan 797 698
+addPlayer 3228 54
+addPlayer 1023 -2
+completeChallange 508 2
+completeChallange 10001 32
+uniteClans 1832 191
+joinClan -1 0
+getBestPlayer 10001
+getBestPlayer 10001
+addClan 1153
+addPlayer 6343 31
+getBestPlayer 0
+getBestPlayer 344
+uniteClans 100 -12
+getBestPlayer 10001
+addClan 1418
+getBestPlayer 1001
+addClan 1354
+joinClan 8928 1131
+addPlayer 8390 -4
+getBestPlayer 10001
+getScoreboard 0
+getScoreboard 0
+addPlayer 7473 12
+completeChallange 10001 60
+addPlayer 5378 28
+completeChallange 6819 67
+uniteClans 10000 10001
+addPlayer 9414 46
+completeChallange 9497 48
+uniteClans 10000 10001
+getScoreboard 0
+addPlayer 2113 22
+addClan 492
+getBestPlayer 1304
+getScoreboard: 318
+completeChallange 1615 71
+addPlayer 3636 65
+completeChallange 2934 31
+addClan 1357
+getScoreboard: 1212
+addPlayer 7316 9
+uniteClans 0 1000
+addClan 1699
+addPlayer 785 18
+completeChallange 10001 68
+addClan 879
+completeChallange 6284 12
+getBestPlayer 0
+uniteClans 1000 1000
+getScoreboard: 1266
+joinClan 3947 428
+getBestPlayer 10001
+addClan 552
+completeChallange 1630 59
+uniteClans 10000 10001
+addPlayer 972 23
+addClan 413
+uniteClans 0 1000
+getBestPlayer 1241
+getBestPlayer 10001
+addClan 1719
+getScoreboard: 1466
+addClan 582
+addPlayer 8181 24
+joinClan -1 0
+uniteClans 1236 592
+addPlayer 8423 10
+getScoreboard 0
+joinClan 1104 145
+addPlayer 8849 34
+uniteClans 946 925
+joinClan -1 0
+completeChallange 5368 25
+joinClan 3023 1326
+getScoreboard: 552
+joinClan 1104 1425
+addClan 321
+completeChallange 5715 19
+getScoreboard: 1843
+joinClan 4573 1709
+addPlayer 2971 48
+getBestPlayer 0
+addClan 456
+completeChallange 10001 74
+getBestPlayer 401
+joinClan 3727 1521
+completeChallange 10001 35
+completeChallange 2128 66
+joinClan 269 116
+uniteClans 1500 195
+uniteClans 100 -12
+completeChallange 4790 72
+joinClan -1 0
+addClan 1005
+getBestPlayer 10001
+joinClan 330 1862
+joinClan 3306 1682
+getScoreboard 0
+getScoreboard 0
+addPlayer 1843 1
+getBestPlayer 10001
+addPlayer 2313 5
+completeChallange 10001 74
+completeChallange 793 1
+getBestPlayer 10001
+getScoreboard: 256
+addClan 1042
+completeChallange 3684 74
+completeChallange -1 -8
+uniteClans 100 -12
+uniteClans 10000 10001
+getScoreboard: 157
+completeChallange 4562 18
+getBestPlayer 0
+addClan 1843
+addClan 1941
+getScoreboard: 1040
+addClan 669
+completeChallange 610 78
+uniteClans 0 1000
+joinClan 3153 1759
+joinClan 5484 723
+getScoreboard: 850
+getBestPlayer 10001
+uniteClans 725 416
+getBestPlayer 1670
+completeChallange 7398 80
+completeChallange 6117 7
+addClan 1771
+addClan 62
+getBestPlayer 10001
+addPlayer 7576 10
+uniteClans 10000 10001
+joinClan 2630 244
+joinClan 797 685
+joinClan 3856 1348
+completeChallange 2320 29
+uniteClans 100 -12
+joinClan 5347 649
+uniteClans 848 1262
+getScoreboard: 753
+addPlayer 2377 64
+addPlayer 9107 74
+completeChallange 2341 55
+joinClan -1 0
+joinClan 6447 23
+getBestPlayer 935
+completeChallange -1 -2
+getBestPlayer 1941
+joinClan -1 0
+addClan 1813
+getBestPlayer 0
+joinClan -1 0
+uniteClans 10000 10001
+uniteClans 100 -12
+completeChallange 5502 58
+getBestPlayer 1271
+getBestPlayer 10001
+joinClan 1684 559
+uniteClans 100 -12
+addClan 874
+addPlayer 3664 26
+joinClan 5192 145
+uniteClans 10000 10001
+uniteClans 746 1374
+getBestPlayer 676
+uniteClans 942 1144
+completeChallange 10001 64
+addClan 1560
+getBestPlayer 10001
+getScoreboard: 541
+addPlayer 5171 73
+addClan 1804
+uniteClans 100 -12
+addClan 520
+completeChallange 10001 28
+joinClan 1428 1044
+getBestPlayer 10001
+uniteClans 1000 1000
+addClan 1966
+getBestPlayer 10001
+getBestPlayer 1551
+getBestPlayer 590
+completeChallange 10001 29
+getBestPlayer 10001
+getScoreboard: -1
+getBestPlayer 0
+completeChallange 6354 79
+addClan 235
+uniteClans 0 1000
+getScoreboard 0
+addClan 672
+getScoreboard: 1848
+addClan 510
+getBestPlayer 908
+getBestPlayer 0
+uniteClans 0 1000
+addPlayer 7991 24
+addPlayer 5311 13
+getBestPlayer 1874
+getScoreboard: 1698
+completeChallange 10001 53
+completeChallange 1486 42
+completeChallange 9430 15
+uniteClans 0 1000
+getBestPlayer 847
+completeChallange -1 -6
+addClan 1390
+uniteClans 100 -12
+addPlayer 8430 39
+addClan 935
+completeChallange 5229 61
+joinClan 4017 1679
+joinClan 4573 1797
+completeChallange 5313 48
+joinClan -1 0
+addPlayer 9808 79
+joinClan 2326 1326
+uniteClans 10000 10001
+getScoreboard: 1042
+addPlayer 149 0
+addClan 895
+uniteClans 10000 10001
+addPlayer 7417 64
+addClan 826
+completeChallange 10001 27
+completeChallange 149 41
+getScoreboard 0
+getScoreboard: 505
+joinClan 2480 88
+addClan 393
+getScoreboard: 1207
+uniteClans 10000 10001
+joinClan 9497 1947
+completeChallange 4651 35
+uniteClans 0 1000
+joinClan 2237 1010
+addPlayer 278 11
+addClan 1802
+getBestPlayer 187
+addClan 1159
+getScoreboard: 1595
+joinClan 5108 1622
+completeChallange 7115 69
+addPlayer 1933 40
+addClan 502
+addPlayer 3167 34
+uniteClans 10000 10001
+addPlayer 1084 59
+getScoreboard: 566
+addPlayer 7391 29
+getScoreboard: 811
+getBestPlayer 1401
+addPlayer 2161 41
+joinClan -1 0
+addPlayer 7773 59
+addClan 247
+getScoreboard: 503
+uniteClans 1000 1000
+uniteClans 0 1000
+addClan 561
+getBestPlayer 10001
+joinClan -1 0
+joinClan 4976 1696
+getBestPlayer 669
+joinClan 9074 103
+addClan 1260
+joinClan 637 1271
+uniteClans 100 -12
+addPlayer 4011 23
+joinClan -1 0
+joinClan 7234 723
+uniteClans 1000 1000
+getScoreboard: 1271
+uniteClans 10000 10001
+getBestPlayer 872
+getBestPlayer 10001
+getScoreboard: 1045
+joinClan 6734 437
+getScoreboard: 725
+getBestPlayer 0
+addClan 382
+getScoreboard: 1363
+getScoreboard 0
+joinClan 9762 1719
+addPlayer 825 26
+completeChallange 10001 62
+uniteClans 10000 10001
+uniteClans 100 -12
+getScoreboard: 190
+addPlayer 931 50
+addPlayer 5928 1
+joinClan 2758 657
+addPlayer 7473 56
+addClan 1227
+joinClan 1843 1874
+getScoreboard: 1321
+getBestPlayer 10001
+getScoreboard 0
+addClan 833
+joinClan 8181 1364
+addPlayer 5545 54
+getScoreboard: 1200
+getBestPlayer 1075
+joinClan -1 0
+joinClan -1 0
+completeChallange 3722 41
+addPlayer 4001 55
+completeChallange -1 -1
+getScoreboard: 179
+addPlayer 8576 40
+joinClan 5296 723
+getBestPlayer 1062
+completeChallange 8501 30
+uniteClans 395 498
+completeChallange 3728 14
+addClan 895
+addPlayer 455 58
+addPlayer 8543 33
+uniteClans 10000 10001
+getBestPlayer 1967
+addPlayer 3597 29
+addPlayer 8913 12
+addClan 865
+getScoreboard 0
+addPlayer 3216 42
+uniteClans 1183 761
+joinClan 6446 81
+getBestPlayer 10001
+getBestPlayer 10001
+getScoreboard: 767
+joinClan 6979 158
+getScoreboard: 780
+getScoreboard 0
+getBestPlayer 0
+joinClan 710 422
+addPlayer 6290 57
+joinClan 657 502
+uniteClans 100 -12
+uniteClans 10000 10001
+joinClan 4478 1746
+completeChallange 10001 10
+uniteClans 575 1673
+getScoreboard: 321
+completeChallange 2294 13
+uniteClans 10000 10001
+uniteClans 100 -12
+getBestPlayer 10001
+addClan 926
+addClan 1301
+completeChallange 9087 13
+joinClan 837 848
+joinClan 3114 584
+addClan 1728
+addPlayer 4745 -7
+getBestPlayer 10001
+uniteClans 0 1000
+joinClan 4017 1804
+addPlayer 7983 61
+completeChallange 7251 44
+addClan 1974
+addPlayer 3637 76
+addPlayer 6743 61
+getBestPlayer 10001
+getScoreboard: 46
+completeChallange 10001 48
+uniteClans 0 1000
+joinClan 7251 1941
+getScoreboard: 985
+joinClan 9069 1299
+getBestPlayer 10001
+completeChallange -1 -8
+joinClan 9258 1405
+completeChallange -1 -6
+joinClan 7991 1727
+completeChallange 4830 56
+joinClan 1823 851
+addPlayer 5948 -1
+getScoreboard: 592
+getBestPlayer 10001
+completeChallange 3153 59
+joinClan 4339 118
+uniteClans 1659 1466
+getScoreboard: 701
+addPlayer 5897 21
+addClan 944
+addPlayer 6687 29
+uniteClans 100 -12
+completeChallange 10001 26
+getBestPlayer 10001
+getScoreboard: 826
+getBestPlayer 10001
+joinClan -1 0
+joinClan 3537 1830
+uniteClans 10000 10001
+getBestPlayer 10001
+addClan 752
+addClan 704
+joinClan 117 692
+uniteClans 0 1000
+completeChallange 6920 32
+completeChallange 9082 70
+getBestPlayer 10001
+addPlayer 1886 58
+addPlayer 7158 39
+completeChallange 10001 13
+uniteClans 10000 10001
+addPlayer 7754 3
+getScoreboard: 944
+getScoreboard: 1020
+addPlayer 6279 -1
+completeChallange 6499 41
+addClan 46
+joinClan 1471 844
+getScoreboard 0
+completeChallange 8267 68
+uniteClans 100 -12
+getBestPlayer 496
+joinClan 7773 1679
+joinClan 5412 1210
+joinClan -1 0
+uniteClans 10000 10001
+uniteClans 100 -12
+uniteClans 1000 1000
+getScoreboard: 1536
+addClan 1837
+completeChallange 10001 17
+addClan 1080
+addPlayer 7435 24
+addClan 393
+getScoreboard: 1116
+getBestPlayer 1321
+uniteClans 922 1349
+addClan 1299
+joinClan 14 976
+joinClan -1 0
+addClan 969
+uniteClans 100 -12
+getBestPlayer 456
+joinClan 246 82
+getScoreboard 0
+getBestPlayer 401
+addPlayer 8682 40
+addPlayer 6435 33
+addClan 458
+addPlayer 1634 2
+addPlayer 4867 67
+uniteClans 1418 824
+addPlayer 5525 3
+getBestPlayer 657
+uniteClans 0 1000
+uniteClans 100 -12
+addClan 1793
+completeChallange 5971 44
+completeChallange 10001 55
+joinClan -1 0
+getScoreboard: 874
+joinClan 3163 625
+joinClan -1 0
+getBestPlayer 10001
+joinClan 8098 1241
+uniteClans 100 -12
+uniteClans 100 -12
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 3591 60
+uniteClans 1000 1000
+addPlayer 7116 30
+addClan 1449
+getScoreboard: 23
+addClan 1557
+uniteClans 1000 1000
+getScoreboard: 12
+uniteClans 10000 10001
+getScoreboard: 1797
+getScoreboard: 62
+addPlayer 2891 40
+getScoreboard: 561
+addClan 1135
+addPlayer 4096 40
+addClan 975
+addClan 492
+getScoreboard: 2000
+getScoreboard: 1505
+addClan 459
+uniteClans 711 1395
+completeChallange -1 -4
+getScoreboard 0
+getBestPlayer 66
+getBestPlayer 0
+getScoreboard: 1135
+addClan 1871
+joinClan 6577 386
+completeChallange 2166 79
+completeChallange 6499 38
+getScoreboard: 1699
+addPlayer 5405 25
+addPlayer 5179 57
+joinClan 7481 456
+joinClan 4921 384
+completeChallange 10001 33
+getBestPlayer 577
+completeChallange 10001 26
+joinClan -1 0
+joinClan -1 0
+getScoreboard: 1360
+getScoreboard: 1337
+uniteClans 1000 1000
+uniteClans 10000 10001
+joinClan -1 0
+addClan 1867
+addClan 781
+uniteClans 100 -12
+completeChallange 5945 24
+completeChallange 10001 66
+uniteClans 10000 10001
+getScoreboard: 212
+joinClan 9107 1295
+completeChallange 5617 5
+getScoreboard: 1793
+joinClan 9087 26
+getBestPlayer 1953
+joinClan 6284 1062
+getBestPlayer 10001
+addClan 1378
+uniteClans 0 1000
+getScoreboard: 1723
+getBestPlayer 614
+addPlayer 8638 23
+getBestPlayer 10001
+uniteClans 1039 1404
+getBestPlayer 10001
+addClan 1179
+addPlayer 598 35
+completeChallange -1 -3
+getBestPlayer 1536
+uniteClans 10000 10001
+addPlayer 8637 44
+joinClan 2163 1268
+addPlayer 9789 75
+addPlayer 8992 -2
+completeChallange 10001 3
+addClan 227
+addClan 1916
+getScoreboard: 1564
+completeChallange -1 0
+uniteClans 0 1000
+addPlayer 1769 30
+addPlayer 3103 9
+uniteClans 0 1000
+addClan 86
+getScoreboard: 221
+joinClan 149 404
+getScoreboard: 1390
+joinClan 5415 1227
+getScoreboard: 1988
+joinClan -1 0
+getBestPlayer 10001
+getScoreboard: 266
+getBestPlayer 0
+joinClan 4478 503
+addPlayer 4626 1
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 1000 1000
+getBestPlayer 0
+uniteClans 0 1000
+addPlayer 6875 58
+addClan 538
+uniteClans 10000 10001
+addClan 1803
+joinClan 1380 925
+getBestPlayer 0
+joinClan 7115 464
+completeChallange 6562 66
+joinClan 5372 26
+joinClan 1865 1521
+addClan 12
+uniteClans 100 -12
+joinClan 9394 698
+joinClan -1 0
+addPlayer 5133 25
+joinClan 4217 699
+addClan 1923
+getBestPlayer 0
+completeChallange 10001 70
+getBestPlayer 0
+addClan 733
+getBestPlayer 10001
+getBestPlayer 10001
+uniteClans 100 -12
+joinClan 5865 598
+uniteClans 1913 1393
+uniteClans 1000 1000
+completeChallange 8071 63
+getScoreboard: 683
+addPlayer 116 -1
+getBestPlayer 512
+completeChallange 10001 53
+getScoreboard: 1274
+uniteClans 100 -12
+completeChallange 6294 32
+addClan 960
+addClan 189
+addPlayer 6302 14
+getBestPlayer 1449
+addPlayer 7892 1
+addClan 1474
+joinClan 3201 1034
+getBestPlayer 10001
+getScoreboard 0
+addClan 84
+getScoreboard 0
+addPlayer 4309 27
+addClan 513
+completeChallange -1 -7
+completeChallange 3030 32
+addClan 925
+uniteClans 100 -12
+uniteClans 10000 10001
+uniteClans 0 1000
+joinClan -1 0
+uniteClans 10000 10001
+uniteClans 1264 206
+joinClan 290 1977
+completeChallange 4680 15
+uniteClans 10000 10001
+completeChallange 10001 79
+addPlayer 9951 4
+uniteClans 100 -12
+getBestPlayer 10001
+joinClan 3084 1655
+addClan 803
+getBestPlayer 10001
+uniteClans 10000 10001
+uniteClans 100 -12
+completeChallange 2758 4
+getBestPlayer 10001
+joinClan 5196 256
+uniteClans 100 -12
+uniteClans 10000 10001
+getBestPlayer 672
+completeChallange 10001 33
+getScoreboard 0
+joinClan 6103 1567
+getBestPlayer 1401
+getScoreboard: 1884
+getBestPlayer 0
+getBestPlayer 10001
+addPlayer 4236 29
+uniteClans 1964 888
+completeChallange 6947 72
+uniteClans 10000 10001
+completeChallange 10001 67
+getScoreboard: 186
+getBestPlayer 10001
+addPlayer 1798 -5
+getBestPlayer 874
+uniteClans 1000 1000
+getScoreboard 0
+getScoreboard: 1405
+uniteClans 100 -12
+completeChallange 5282 11
+completeChallange 10001 74
+uniteClans 10000 10001
+uniteClans 1655 767
+joinClan 208 699
+uniteClans 10000 10001
+addClan 17
+addClan 413
+joinClan 8894 496
+uniteClans 10000 10001
+getScoreboard: 1682
+uniteClans 100 -12
+getBestPlayer 10001
+addClan 1687
+getScoreboard: 1628
+getBestPlayer 10001
+getScoreboard: 559
+addClan 1040
+getBestPlayer 10001
+addPlayer 2470 1
+uniteClans 10000 10001
+joinClan 6142 1606
+getScoreboard: 378
+completeChallange 10001 74
+joinClan -1 0
+addPlayer 1119 16
+addClan 563
+getBestPlayer 1954
+getScoreboard 0
+uniteClans 100 -12
+getScoreboard: 66
+getBestPlayer 1577
+getScoreboard: 908
+uniteClans 1000 1000
+addPlayer 8369 18
+joinClan -1 0
+completeChallange 2320 41
+joinClan 9078 1630
+getScoreboard: 1337
+addClan 778
+getScoreboard: 732
+uniteClans 10000 10001
+completeChallange 6499 69
+getScoreboard: 674
+addPlayer 4761 41
+joinClan 363 179
+getBestPlayer 1551
+addClan 252
+getScoreboard: 1364
+getBestPlayer 0
+joinClan 4867 360
+getBestPlayer 383
+getScoreboard: 213
+getScoreboard: 713
+getBestPlayer 0
+addClan 939
+addClan 1201
+uniteClans 10000 10001
+completeChallange 2242 72
+getBestPlayer 10001
+getScoreboard: 879
+getScoreboard 0
+joinClan 1576 1337
+joinClan 3306 464
+addPlayer 7841 36
+getScoreboard: 1423
+completeChallange -1 -1
+addClan 1912
+uniteClans 100 -12
+joinClan -1 0
+addClan 1738
+addPlayer 7706 -6
+completeChallange 8071 67
+joinClan -1 0
+completeChallange 10001 46
+addClan 1788
+getScoreboard: 1328
+addClan 1825
+joinClan 8501 1208
+joinClan 24 541
+getBestPlayer 10001
+addPlayer 8306 49
+addPlayer 599 53
+addClan 1074
+getScoreboard: 1731
+addPlayer 9774 23
+completeChallange 7473 22
+getScoreboard: 969
+getBestPlayer 753
+uniteClans 10000 10001
+getBestPlayer 10001
+joinClan 3275 1405
+addClan 1395
+uniteClans 10000 10001
+completeChallange 845 5
+joinClan 5776 82
+addClan 466
+joinClan 549 401
+joinClan 3591 1620
+getScoreboard: 1557
+addClan 1984
+addPlayer 2164 13
+completeChallange -1 0
+getScoreboard: 383
+joinClan -1 0
+addPlayer 4180 62
+uniteClans 10000 10001
+uniteClans 100 -12
+joinClan -1 0
+getScoreboard: 202
+getScoreboard: 651
+addPlayer 7934 77
+joinClan 2313 221
+addClan 389
+getScoreboard 0
+addPlayer 9047 -5
+getScoreboard: 1010
+getBestPlayer 10001
+addPlayer 6289 18
+joinClan 9364 602
+completeChallange 9974 3
+getScoreboard: 1264
+uniteClans 10000 10001
+addClan 1161
+addPlayer 7988 10
+getScoreboard: 926
+addClan 1477
+getBestPlayer 833
+completeChallange 8545 69
+completeChallange -1 -8
+addClan 1078
+completeChallange 3515 42
+addPlayer 2173 10
+uniteClans 0 1000
+completeChallange 10001 27
+getScoreboard: 1792
+addClan 92
+completeChallange 768 2
+uniteClans 100 -12
+addClan 706
+uniteClans 10000 10001
+addPlayer 7783 -4
+joinClan 5372 466
+addClan 1938
+uniteClans 0 1000
+completeChallange 2512 29
+getScoreboard 0
+addPlayer 5355 53
+getBestPlayer 82
+addPlayer 2007 21
+getScoreboard 0
+completeChallange 2353 9
+joinClan 9069 1266
+joinClan 3781 942
+getScoreboard: 92
+addPlayer 7166 24
+joinClan 7541 1555
+addClan 1435
+getBestPlayer 0
+getBestPlayer 10001
+joinClan 4867 1455
+addClan 1590
+joinClan -1 0
+uniteClans 10000 10001
+getBestPlayer 1114
+completeChallange 3591 75
+getBestPlayer 10001
+getBestPlayer 1464
+addPlayer 1359 0
+getScoreboard: 1474
+addClan 1922
+completeChallange 7754 6
+joinClan -1 0
+getScoreboard: 1922
+uniteClans 10000 10001
+addClan 169
+getScoreboard: 1045
+addPlayer 993 34
+uniteClans 10000 10001
+joinClan -1 0
+getScoreboard: 1477
+completeChallange 10001 77
+completeChallange 7879 15
+uniteClans 100 -12
+uniteClans 10000 10001
+getScoreboard: 747
+getBestPlayer 1589
+getBestPlayer 10001
+getScoreboard: 1179
+joinClan 9384 1940
+getScoreboard 0
+uniteClans 10000 10001
+addPlayer 1306 1
+addPlayer 276 36
+addPlayer 7039 33
+completeChallange 6193 2
+completeChallange 2592 48
+joinClan 3975 872
+joinClan 3589 502
+getBestPlayer 975
+uniteClans 1679 1909
+joinClan 4017 12
+addClan 1694
+getBestPlayer 10001
+getBestPlayer 10001
+getBestPlayer 761
+completeChallange 9078 61
+completeChallange 5368 49
+addPlayer 6670 11
+addClan 1237
+addPlayer 2770 50
+uniteClans 10000 10001
+joinClan 4309 1974
+getScoreboard: 1549
+completeChallange 3943 27
+addPlayer 9130 -5
+getScoreboard 0
+getScoreboard: 437
+getScoreboard: 1971
+uniteClans 10000 10001
+addClan 964
+addPlayer 524 1
+joinClan 3592 1345
+addClan 661
+joinClan 6259 456
+completeChallange 2232 7
+uniteClans 865 1423
+addPlayer 8913 21
+addClan 1772
+addClan 1345
+uniteClans 297 676
+uniteClans 0 1000
+getBestPlayer 1968
+joinClan -1 0
+addPlayer 171 42
+completeChallange -1 -6
+joinClan 9317 1326
+addPlayer 3435 4
+getScoreboard 0
+addClan 1874
+getBestPlayer 0
+addPlayer 74 71
+joinClan -1 0
+addClan 1115
+getBestPlayer 1804
+addPlayer 4938 29
+addPlayer 3329 43
+getScoreboard: 1456
+getScoreboard: 737
+joinClan -1 0
+joinClan 1769 308
+completeChallange 599 48
+addPlayer 4711 70
+getBestPlayer 10001
+addClan 1576
+getBestPlayer 10001
+uniteClans 100 -12
+joinClan 7473 898
+addClan 1399
+addClan 185
+addClan 1297
+addPlayer 2437 45
+addClan 488
+addClan 847
+getScoreboard: 181
+addPlayer 5708 80
+joinClan -1 0
+joinClan 8615 598
+addClan 441
+addPlayer 7744 -4
+getScoreboard 0
+getScoreboard: 401
+joinClan -1 0
+getBestPlayer 1564
+joinClan -1 0
+uniteClans 0 1000
+completeChallange 556 74
+addPlayer 8707 27
+addClan 1695
+joinClan 7158 1210
+getBestPlayer 10001
+joinClan 8825 1212
+addPlayer 243 18
+getBestPlayer 10001
+getBestPlayer 0
+addClan 368
+uniteClans 1150 803
+getBestPlayer 0
+joinClan 8981 1401
+addPlayer 1855 48
+getBestPlayer 360
+getScoreboard 0
+getBestPlayer 310
+completeChallange 8147 3
+addClan 709
+joinClan -1 0
+joinClan -1 0
+uniteClans 100 -12
+joinClan -1 0
+uniteClans 10000 10001
+addClan 940
+getScoreboard: 418
+joinClan -1 0
+joinClan 4309 344
+getScoreboard: 1456
+completeChallange 10001 9
+getScoreboard 0
+addClan 353
+uniteClans 1989 704
+getBestPlayer 1861
+uniteClans 100 -12
+addPlayer 7605 70
+completeChallange 3597 51
+completeChallange 9533 43
+addPlayer 9025 29
+addClan 199
+addClan 1566
+completeChallange 3135 69
+addPlayer 5027 13
+completeChallange -1 -1
+getBestPlayer 950
+getBestPlayer 10001
+getBestPlayer 1971
+getScoreboard 0
+uniteClans 10000 10001
+getBestPlayer 46
+completeChallange -1 -7
+addPlayer 6887 34
+getBestPlayer 10001
+uniteClans 145 257
+addClan 279
+getScoreboard 0
+addPlayer 1437 4
+uniteClans 100 -12
+addPlayer 7117 59
+completeChallange 10001 7
+completeChallange 3576 51
+completeChallange 1684 29
+getScoreboard: 1953
+addPlayer 1627 -2
+addClan 1764
+uniteClans 1000 1000
+getBestPlayer 0
+addPlayer 5059 56
+joinClan -1 0
+addClan 1621
+uniteClans 100 -12
+getScoreboard: 1266
+addClan 1487
+getScoreboard 0
+addPlayer 9605 10
+getBestPlayer 368
+joinClan 297 179
+addClan 37
+addPlayer 8397 58
+addClan 107
+addClan 33
+completeChallange 10001 12
+addClan 1198
+addPlayer 1318 12
+joinClan 9351 1867
+getBestPlayer 10001
+completeChallange 1823 78
+uniteClans 10000 10001
+joinClan 7735 1544
+uniteClans 100 -12
+addClan 90
+completeChallange 8673 42
+addPlayer 6977 7
+getScoreboard: 497
+uniteClans 10000 10001
+getScoreboard: 367
+uniteClans 879 1066
+addPlayer 6027 26
+addClan 29
+getBestPlayer 10001
+completeChallange 2326 64
+addPlayer 8101 70
+joinClan 9974 86
+joinClan 621 1136
+uniteClans 100 -12
+getScoreboard: 1971
+addClan 609
+joinClan -1 0
+uniteClans 1134 1606
+getBestPlayer 10001
+joinClan -1 0
+joinClan 4830 1223
+completeChallange 8178 69
+addClan 1943
+addPlayer 2911 24
+addClan 646
+joinClan 7117 1977
+uniteClans 10000 10001
+completeChallange 1119 13
+addPlayer 4599 69
+joinClan -1 0
+joinClan -1 0
+addPlayer 4916 21
+getScoreboard 0
+joinClan 292 1165
+getBestPlayer 10001
+joinClan 8901 750
+getBestPlayer 399
+addClan 1082
+addClan 1587
+addPlayer 598 36
+getScoreboard: 1759
+addClan 483
+uniteClans 348 496
+completeChallange 3215 42
+joinClan -1 0
+getScoreboard: 1297
+addClan 1283
+completeChallange 3926 63
+getBestPlayer 348
+getBestPlayer 532
+getBestPlayer 0
+completeChallange 5971 22
+joinClan 4958 1940
+joinClan 8166 1754
+addClan 113
+uniteClans 10000 10001
+uniteClans 1957 1297
+getScoreboard: 739
+getScoreboard 0
+addPlayer 8845 5
+addClan 525
+addPlayer 5964 74
+getBestPlayer 157
+getBestPlayer 184
+addPlayer 8242 50
+addPlayer 3704 69
+addPlayer 398 75
+getBestPlayer 0
+addClan 1639
+joinClan -1 0
+getScoreboard 0
+getScoreboard: 1432
+getBestPlayer 0
+addPlayer 8710 2
+completeChallange 10001 15
+addClan 356
+completeChallange 9394 62
+uniteClans 10000 10001
+joinClan 171 1382
+getBestPlayer 0
+getScoreboard: -2
+getBestPlayer 1231
+addClan 1088
+joinClan 2164 1555
+addClan 1450
+getBestPlayer 411
+uniteClans 10000 10001
+addClan 134
+getScoreboard: 1280
+addPlayer 6907 2
+addClan 576
+getScoreboard: 1153
+getBestPlayer 0
+getScoreboard: 283
+getBestPlayer 0
+getScoreboard: 1849
+completeChallange 10001 57
+uniteClans 10000 10001
+getScoreboard: 908
+getScoreboard: 566
+completeChallange 10001 35
+joinClan -1 0
+joinClan 2891 130
+getBestPlayer 24
+addClan 1649
+getScoreboard: 459
+completeChallange 10001 5
+getBestPlayer 458
+getScoreboard: 1360
+addClan 1008
+addClan 512
+joinClan 4723 235
+addClan 1288
+addClan 1087
+completeChallange -1 -2
+uniteClans 100 -12
+getScoreboard: 1074
+addPlayer 5909 31
+joinClan -1 0
+getScoreboard: 1075
+addClan 771
+addClan 534
+getBestPlayer 1862
+addClan 557
+addClan 618
+getBestPlayer 29
+uniteClans 10000 10001
+getBestPlayer 847
+getBestPlayer 1813
+getBestPlayer 10001
+uniteClans 1000 1000
+uniteClans 1466 1862
+getBestPlayer 10001
+uniteClans 100 -12
+addPlayer 5458 9
+joinClan 9069 367
+addClan 1479
+completeChallange 4480 1
+addClan 1313
+completeChallange -1 -6
+addClan 1381
+uniteClans 1364 1153
+getBestPlayer 10001
+uniteClans 739 441
+completeChallange 6117 45
+completeChallange 845 57
+completeChallange 4680 51
+completeChallange 7600 49
+getBestPlayer 0
+uniteClans 0 1000
+getScoreboard: 458
+uniteClans 10000 10001
+getScoreboard: 698
+joinClan 8928 1639
+joinClan 2773 661
+uniteClans 10000 10001
+uniteClans 1595 1765
+addPlayer 1653 68
+joinClan 4790 747
+addClan 617
+joinClan 5229 806
+getBestPlayer 1456
+getBestPlayer 10001
+addPlayer 8566 27
+addPlayer 6545 50
+joinClan 5862 1008
+completeChallange 10001 25
+getBestPlayer 0
+uniteClans 0 1000
+addClan 1808
+uniteClans 0 1000
+getBestPlayer 10001
+completeChallange 6468 1
+addPlayer 4198 4
+getBestPlayer 0
+addPlayer 1844 80
+addClan 842
+addClan 707
+joinClan 1119 387
+joinClan -1 0
+addPlayer 8350 52
+addPlayer 4273 33
+joinClan 2705 310
+getScoreboard: 908
+addClan 97
+completeChallange 5971 49
+addClan 1906
+completeChallange 10001 77
+addPlayer 425 68
+addClan 387
+joinClan 2320 157
+completeChallange 2161 30
+completeChallange 1843 13
+getScoreboard: 598
+addClan 85
+uniteClans 940 24
+getBestPlayer 158
+addClan 592
+completeChallange 2965 18
+uniteClans 1798 1746
+getScoreboard 0
+getBestPlayer 10001
+getScoreboard: 399
+joinClan 180 428
+getScoreboard 0
+joinClan 1625 1682
+getScoreboard: 385
+addClan 1803
+getBestPlayer 10001
+uniteClans 100 -12
+addClan 360
+joinClan 3153 964
+addPlayer 2528 69
+addClan 819
+addClan 282
+joinClan 8981 1952
+addPlayer 995 72
+joinClan 2390 1328
+getBestPlayer 1425
+completeChallange 1471 37
+addClan 1031
+addPlayer 5277 74
+uniteClans 1567 43
+uniteClans 969 464
+uniteClans 100 -12
+getBestPlayer 0
+getScoreboard: 1006
+completeChallange 10001 16
+getBestPlayer 10001
+getBestPlayer 10001
+getBestPlayer 0
+addPlayer 8190 16
+addPlayer 6410 20
+addClan 139
+addPlayer 3152 26
+getScoreboard 0
+joinClan 7605 1001
+getScoreboard 0
+uniteClans 10000 10001
+getBestPlayer 10001
+getBestPlayer 1393
+uniteClans 1390 512
+uniteClans 100 -12
+getScoreboard: 733
+getScoreboard 0
+completeChallange 6171 4
+getScoreboard: 1345
+addClan 320
+addPlayer 5110 55
+uniteClans 100 -12
+completeChallange 4606 68
+getScoreboard 0
+getScoreboard 0
+getScoreboard: 704
+addPlayer 5819 77
+addPlayer 5444 61
+getScoreboard: 1237
+uniteClans 10000 10001
+addPlayer 7337 45
+getBestPlayer 10001
+getScoreboard: 107
+completeChallange 3435 51
+getScoreboard: 1388
+completeChallange 10001 62
+joinClan 1679 541
+addClan 627
+addClan 729
+uniteClans 1000 1000
+joinClan 4606 302
+getScoreboard: 1337
+addPlayer 9931 10
+addClan 539
+uniteClans 10000 10001
+completeChallange 9021 79
+getBestPlayer 874
+getScoreboard: 901
+joinClan 9459 459
+getBestPlayer 0
+getBestPlayer 771
+addPlayer 2300 -4
+getScoreboard: 1903
+completeChallange 10001 38
+addClan 838
+addClan 741
+joinClan -1 0
+getBestPlayer 10001
+completeChallange 10001 14
+getBestPlayer 1572
+addPlayer 9164 78
+joinClan -1 0
+uniteClans 10000 10001
+joinClan -1 0
+addPlayer 3277 2
+getBestPlayer 0
+joinClan -1 0
+joinClan 9497 935
+getScoreboard 0
+addClan 179
+uniteClans 100 -12
+completeChallange 2861 58
+getBestPlayer 10001
+completeChallange 2597 28
+getScoreboard: 1779
+joinClan 5202 596
+addPlayer 4638 80
+uniteClans 10000 10001
+joinClan -1 0
+completeChallange 37 56
+getBestPlayer 10001
+uniteClans 1214 1953
+addClan 995
+joinClan 7213 1328
+getBestPlayer 10001
+joinClan 3636 960
+addClan 559
+uniteClans 19 297
+getBestPlayer 0
+uniteClans 10000 10001
+addClan 802
+getBestPlayer 1956
+joinClan -1 0
+addClan 663
+joinClan 556 1001
+joinClan 5474 476
+completeChallange 9113 47
+joinClan 1769 863
+getBestPlayer 10001
+addClan 317
+addClan 671
+addClan 1662
+addPlayer 9697 25
+addClan 352
+getBestPlayer 0
+addClan 741
+completeChallange 5458 3
+addClan 762
+addPlayer 6169 44
+addPlayer 9755 32
+completeChallange 10001 71
+completeChallange 10001 22
+getBestPlayer 0
+addClan 371
+getBestPlayer 10001
+addClan 948
+completeChallange 10001 34
+getBestPlayer 10001
+getScoreboard: 1754
+addClan 624
+addPlayer 9597 22
+getScoreboard: 1974
+completeChallange 3704 25
+completeChallange 1823 33
+addClan 221
+joinClan -1 0
+getScoreboard: 395
+completeChallange 837 58
+getScoreboard: 1354
+joinClan 8638 1348
+uniteClans 649 253
+getScoreboard 0
+getBestPlayer 1922
+joinClan 5311 48
+getScoreboard: 1581
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 1039 1947
+completeChallange 4480 32
+joinClan -1 0
+addClan 1220
+uniteClans 100 -12
+joinClan 9762 103
+getBestPlayer 10001
+joinClan 1097 302
+addClan 1565
+completeChallange 8018 14
+completeChallange 8981 69
+completeChallange 10001 11
+joinClan -1 0
+getBestPlayer 10001
+completeChallange 6743 20
+getScoreboard: 212
+getScoreboard: 575
+addClan 1080
+addPlayer 5440 49
+getBestPlayer 10001
+addClan 34
+getBestPlayer 0
+getScoreboard: 733
+joinClan 1006 1606
+getBestPlayer 10001
+getBestPlayer 0
+addClan 1688
+getScoreboard: 1295
+getScoreboard 0
+getBestPlayer 746
+addPlayer -6 31
+getScoreboard 0
+getBestPlayer 699
+addClan 1084
+addPlayer 2654 76
+getBestPlayer 10001
+getScoreboard: 1727
+uniteClans 0 1000
+getBestPlayer 10001
+addClan 257
+completeChallange 5744 4
+joinClan -1 0
+getScoreboard: 1628
+joinClan -1 0
+uniteClans 1000 1000
+addClan 199
+completeChallange 7425 36
+addClan 825
+completeChallange 7879 10
+uniteClans 10000 10001
+uniteClans 0 1000
+completeChallange -1 -6
+addPlayer 9789 54
+uniteClans 10000 10001
+joinClan 1318 627
+uniteClans 10000 10001
+addClan 317
+addPlayer 8173 59
+getScoreboard: 1754
+joinClan 8728 1088
+joinClan 2530 762
+uniteClans 452 1456
+addPlayer 988 5
+getScoreboard 0
+completeChallange 10001 23
+uniteClans 100 -12
+addPlayer 7316 46
+joinClan 4286 584
+getBestPlayer 84
+addPlayer 305 60
+uniteClans 100 -12
+addClan 1864
+completeChallange 7039 80
+getBestPlayer 10001
+addClan 625
+getScoreboard: 1545
+uniteClans 580 1581
+completeChallange 10001 42
+getBestPlayer 0
+getBestPlayer 0
+joinClan -1 0
+uniteClans 10000 10001
+joinClan 6687 609
+completeChallange 6205 16
+getScoreboard: 627
+addPlayer 5007 22
+getBestPlayer 1088
+addPlayer 9018 70
+addPlayer 1291 16
+getScoreboard: 505
+joinClan 9074 596
+addPlayer 567 21
+getScoreboard 0
+getBestPlayer 10001
+getScoreboard: 1779
+addClan 1205
+completeChallange 2954 20
+getScoreboard 0
+joinClan 926 1457
+addClan 645
+completeChallange 10001 31
+uniteClans 0 1000
+addClan 1856
+addPlayer 9584 3
+joinClan 5708 1332
+uniteClans 10000 10001
+completeChallange 5945 11
+completeChallange 2466 31
+addClan 422
+joinClan 6284 1345
+addPlayer 8476 29
+addClan 1586
+getBestPlayer 10001
+uniteClans 0 1000
+joinClan 6709 1474
+completeChallange 3329 53
+getBestPlayer 10001
+getScoreboard: 1977
+getScoreboard: 244
+joinClan 9504 347
+uniteClans 10000 10001
+completeChallange 1119 34
+addClan 831
+uniteClans 100 -12
+getScoreboard: 781
+getScoreboard: 704
+getBestPlayer 1797
+getScoreboard: 1447
+getScoreboard 0
+addPlayer 2709 -8
+joinClan 9430 1916
+joinClan 2163 1947
+addPlayer 686 18
+uniteClans 100 -12
+completeChallange 2831 74
+addPlayer 3286 77
+completeChallange 7417 48
+addPlayer 8637 18
+getScoreboard: 1955
+getBestPlayer 10001
+addPlayer 5552 -8
+addPlayer 398 22
+joinClan -1 0
+getScoreboard: 596
+joinClan 8910 737
+completeChallange -1 -8
+getBestPlayer 0
+uniteClans 100 -12
+getScoreboard: 577
+joinClan 8710 1771
+addPlayer 3409 64
+uniteClans 1020 1263
+completeChallange 10001 44
+getScoreboard: 55
+addClan 1348
+addClan 316
+addClan 1702
+addPlayer 895 39
+addClan 1750
+completeChallange -1 -3
+getScoreboard: 492
+joinClan 3684 1241
+addPlayer 4683 26
+getBestPlayer 252
+getScoreboard: 1586
+addPlayer 9280 41
+addPlayer 9987 -6
+addPlayer 7728 6
+completeChallange 7735 31
+getScoreboard: 976
+addPlayer 9776 21
+completeChallange 9223 9
+joinClan 9755 525
+joinClan -1 0
+addClan 402
+getBestPlayer 10001
+getScoreboard: 1332
+completeChallange -1 -8
+getBestPlayer 0
+completeChallange 8826 77
+addClan 561
+getBestPlayer 10001
+completeChallange 3286 73
+uniteClans 0 1000
+getBestPlayer 503
+completeChallange 9997 28
+addClan 1312
+getScoreboard: 1557
+joinClan 541 1402
+getBestPlayer 10001
+joinClan 2160 663
+getBestPlayer 10001
+addPlayer 3283 -6
+joinClan -1 0
+uniteClans 1000 1000
+getScoreboard: 513
+joinClan -1 0
+uniteClans 100 -12
+getBestPlayer 195
+uniteClans 100 -12
+addClan 1341
+uniteClans 1779 1688
+addPlayer 1732 54
+joinClan -1 0
+uniteClans 0 1000
+getScoreboard 0
+joinClan -1 0
+addPlayer 8663 55
+completeChallange 1359 4
+uniteClans 10000 10001
+joinClan -1 0
+uniteClans 1313 1565
+completeChallange 8336 51
+joinClan 5118 1201
+completeChallange 5705 80
+joinClan -1 0
+completeChallange 8335 54
+getScoreboard: 1295
+joinClan -1 0
+uniteClans 1000 1000
+joinClan 6450 266
+joinClan 246 1455
+addPlayer 7471 26
+completeChallange 6977 16
+addClan 560
+addClan 176
+getBestPlayer 1064
+addClan 1490
+getBestPlayer 819
+uniteClans 100 -12
+addClan 1615
+getScoreboard: 353
+joinClan 5702 1214
+addClan 1982
+addPlayer 7186 -6
+getBestPlayer 1949
+joinClan -1 0
+getBestPlayer 10001
+addPlayer 6271 73
+addPlayer 9454 50
+getBestPlayer 10001
+completeChallange 6819 63
+addPlayer 1673 49
+completeChallange 5642 19
+uniteClans 100 -12
+joinClan -1 0
+getBestPlayer 0
+addClan 1300
+completeChallange 662 20
+addPlayer 3089 3
+addClan 1858
+addClan 1990
+joinClan -1 0
+completeChallange 7983 60
+joinClan 6117 1938
+addClan 831
+getBestPlayer 10001
+joinClan 4772 598
+addPlayer 366 -8
+addClan 1922
+getScoreboard: 1829
+addClan 367
+getBestPlayer 66
+getBestPlayer 0
+getScoreboard: 244
+getScoreboard: 1104
+addPlayer 3757 67
+addClan 884
+completeChallange 1290 16
+uniteClans 771 195
+getBestPlayer 1200
+getScoreboard 0
+getBestPlayer 378
+getScoreboard 0
+getBestPlayer 10001
+getBestPlayer 252
+joinClan 1128 674
+getScoreboard: 157
+getScoreboard: 841
+joinClan 9813 1332
+joinClan 2530 510
+getBestPlayer 1283
+addClan 1656
+addClan 1388
+uniteClans 10000 10001
+joinClan 4305 902
+addClan 883
+getBestPlayer 10001
+uniteClans 1000 1000
+uniteClans 1567 413
+getScoreboard: 847
+getScoreboard 0
+uniteClans 10000 10001
+getBestPlayer 356
+uniteClans 1000 1000
+completeChallange -1 -5
+completeChallange 10001 39
+getBestPlayer 996
+completeChallange 1674 35
+getScoreboard: 184
+getScoreboard: 280
+completeChallange 10001 59
+addClan 348
+uniteClans 10000 10001
+completeChallange 9069 78
+joinClan -1 0
+getBestPlayer 0
+uniteClans 538 1916
+getBestPlayer 0
+completeChallange 1233 48
+completeChallange 2390 74
+addClan 1903
+getScoreboard 0
+addClan 1760
+addClan 1407
+completeChallange 10001 44
+joinClan 2270 92
+getBestPlayer 0
+joinClan 5500 1858
+addClan 966
+addPlayer 463 55
+addClan 241
+addPlayer 4739 5
+joinClan 3576 995
+addPlayer 1660 77
+getScoreboard: 1402
+joinClan -1 0
+getScoreboard 0
+getBestPlayer 0
+addClan 1741
+getBestPlayer 10001
+addClan 1026
+joinClan 8682 762
+getScoreboard: 1483
+uniteClans 10000 10001
+joinClan 518 1284
+uniteClans 100 -12
+addPlayer 3873 14
+joinClan 48 918
+getScoreboard: 347
+addPlayer 2352 7
+addPlayer 462 -2
+completeChallange 2390 67
+completeChallange 10001 21
+completeChallange 995 24
+getScoreboard: 639
+getBestPlayer 0
+completeChallange 8369 40
+getBestPlayer 1816
+uniteClans 0 1000
+uniteClans 10000 10001
+addClan 1593
+uniteClans 100 -12
+completeChallange 10001 58
+addClan 1852
+addPlayer 8061 43
+uniteClans 100 -12
+uniteClans 10000 10001
+addClan 1315
+getBestPlayer 0
+joinClan -1 0
+joinClan -1 0
+uniteClans 10000 10001
+addClan 681
+addPlayer 6920 45
+getBestPlayer 10001
+joinClan 9965 646
+uniteClans 10000 10001
+uniteClans 100 -12
+getScoreboard: 723
+uniteClans 0 1000
+getScoreboard 0
+uniteClans 10000 10001
+addPlayer 1344 44
+joinClan -1 0
+addPlayer 3949 8
+getScoreboard: 1544
+addPlayer 8859 8
+getBestPlayer 1776
+uniteClans 10000 10001
+getScoreboard: 1593
+uniteClans 1000 1000
+getBestPlayer 10001
+getBestPlayer 1797
+uniteClans 10000 10001
+joinClan 4082 746
+getBestPlayer 802
+uniteClans 10000 10001
+completeChallange 1958 28
+joinClan 9395 1703
+getBestPlayer 1505
+completeChallange 10001 2
+joinClan -1 0
+addClan 436
+getBestPlayer 1750
+uniteClans 10000 10001
+getScoreboard 0
+getScoreboard 0
+getBestPlayer 512
+addClan 60
+addClan 788
+completeChallange 10001 40
+getScoreboard: 1874
+getBestPlayer 0
+joinClan -1 0
+addPlayer 7742 32
+completeChallange 1035 13
+joinClan 479 1984
+uniteClans 1000 1000
+addClan 126
+getScoreboard: 747
+addPlayer 9848 36
+addClan 1783
+joinClan 7110 145
+getScoreboard: 510
+uniteClans 10000 10001
+completeChallange 6929 31
+getBestPlayer 10001
+addPlayer -5 13
+addClan 843
+completeChallange 455 26
+addClan 882
+addClan 1218
+addClan 1222
+joinClan 969 995
+getBestPlayer 199
+addClan 356
+completeChallange 5500 10
+addPlayer 5923 70
+uniteClans 10000 10001
+getBestPlayer 257
+completeChallange 2773 59
+addClan 711
+getScoreboard: 146
+uniteClans 10000 10001
+addClan 62
+completeChallange 7013 56
+getScoreboard: 657
+addPlayer 636 20
+addClan 1792
+addClan 912
+addPlayer 290 13
+uniteClans 0 1000
+completeChallange 2537 71
+uniteClans 10000 10001
+addClan 1148
+uniteClans 100 -12
+getScoreboard 0
+uniteClans 100 -12
+completeChallange 3160 68
+addClan 1516
+completeChallange 629 23
+uniteClans 100 -12
+completeChallange 2390 26
+completeChallange 5500 35
+getScoreboard: 1971
+uniteClans 10000 10001
+getBestPlayer 532
+addPlayer 7634 7
+getScoreboard 0
+uniteClans 1000 1000
+getBestPlayer 10001
+joinClan 3153 1593
+getScoreboard 0
+uniteClans 0 1000
+getBestPlayer 327
+addPlayer 243 52
+getBestPlayer 672
+joinClan 7742 1313
+getScoreboard: 107
+getBestPlayer 0
+addClan 1680
+addClan 440
+addClan 908
+addPlayer 5076 72
+addPlayer 9678 35
+addClan 1950
+uniteClans 1207 247
+joinClan 637 252
+uniteClans 100 -12
+getScoreboard: 1284
+addPlayer 3930 75
+uniteClans 100 -12
+addPlayer 2731 33
+completeChallange 5313 78
+completeChallange 5542 10
+addClan 831
+getBestPlayer 10001
+joinClan -1 0
+uniteClans 1464 179
+joinClan 8928 1322
+joinClan 6929 1699
+getBestPlayer 0
+getBestPlayer 10001
+addPlayer 9230 -7
+uniteClans 10000 10001
+addPlayer 6666 61
+getScoreboard 0
+addPlayer 6183 11
+addPlayer 6784 76
+joinClan -1 0
+getScoreboard: 1378
+joinClan -1 0
+getScoreboard 0
+completeChallange 7586 21
+uniteClans 100 -12
+uniteClans 0 1000
+getBestPlayer 1516
+addClan 1529
+joinClan -1 0
+addPlayer 4240 25
+addClan 1114
+addClan 1158
+completeChallange 4642 10
+addPlayer 9229 23
+addPlayer 4305 10
+addPlayer 9062 69
+uniteClans 1000 1000
+completeChallange 291 56
+uniteClans 10000 10001
+getScoreboard 0
+getBestPlayer 1432
+addPlayer 6844 52
+addClan 1356
+completeChallange 10001 46
+addPlayer 1870 54
+addClan 1180
+joinClan 9789 86
+completeChallange 717 29
+completeChallange 10001 30
+joinClan 1084 655
+completeChallange 10001 29
+uniteClans 0 1000
+completeChallange 291 24
+getScoreboard: 1984
+addClan 326
+uniteClans 10000 10001
+addPlayer 6248 61
+completeChallange 10001 79
+getBestPlayer 139
+completeChallange 10001 40
+getScoreboard 0
+addClan 64
+completeChallange 198 25
+getBestPlayer 10001
+completeChallange 10001 75
+joinClan -1 0
+getScoreboard 0
+joinClan 363 256
+getScoreboard 0
+joinClan 9229 452
+getScoreboard 0
+joinClan -1 0
+uniteClans 0 1000
+joinClan 8707 1479
+getScoreboard: 1977
+uniteClans 0 1000
+joinClan 9808 902
+uniteClans 378 719
+addPlayer 3889 66
+getScoreboard: 872
+completeChallange 10001 22
+joinClan -1 0
+addPlayer 7902 66
+completeChallange 1855 70
+addClan 1255
+getBestPlayer 1332
+addPlayer 9416 -3
+completeChallange 10001 54
+getScoreboard: 19
+completeChallange 10001 47
+getBestPlayer 0
+joinClan -1 0
+addPlayer 997 65
+getBestPlayer 0
+uniteClans 1000 1000
+getBestPlayer 10001
+addPlayer 6165 -8
+addPlayer 2161 29
+uniteClans 10000 10001
+getScoreboard: 235
+uniteClans 100 -12
+uniteClans 10000 10001
+uniteClans 100 -12
+completeChallange -1 -7
+completeChallange 7810 16
+getBestPlayer 1990
+uniteClans 1000 1000
+addPlayer 6610 51
+joinClan 7435 788
+getScoreboard 0
+addPlayer 9187 76
+getScoreboard: 1135
+addClan 270
+addPlayer 5334 50
+addPlayer 9393 -1
+addPlayer 3966 80
+addPlayer 5434 1
+addPlayer 1726 33
+uniteClans 10000 10001
+addClan 1709
+uniteClans 100 -12
+getScoreboard: 1399
+addClan 1852
+addClan 1323
+joinClan -1 0
+getScoreboard 0
+uniteClans 1000 1000
+getBestPlayer 0
+addPlayer 857 -8
+addPlayer 3502 17
+uniteClans 212 1702
+joinClan 2377 146
+uniteClans 1000 1000
+uniteClans 10000 10001
+joinClan -1 0
+getBestPlayer 10001
+addPlayer 6373 41
+joinClan 8928 691
+uniteClans 1000 1000
+completeChallange 9533 78
+addClan 980
+completeChallange 10001 67
+addPlayer 2055 -1
+joinClan 1684 1695
+completeChallange 10001 71
+getScoreboard: 1008
+addClan 489
+addPlayer 2998 24
+getScoreboard: 1979
+uniteClans 10000 10001
+getBestPlayer 1198
+joinClan -1 0
+getScoreboard: 37
+joinClan -1 0
+joinClan 1291 437
+addPlayer 5387 9
+uniteClans 10000 10001
+uniteClans 1000 1000
+completeChallange 662 47
+uniteClans 10000 10001
+uniteClans 10000 10001
+addClan 879
+completeChallange 2113 72
+addClan 287
+addClan 1660
+getScoreboard: 256
+uniteClans 1332 81
+getBestPlayer 10001
+completeChallange -1 -4
+uniteClans 1487 336
+getBestPlayer 280
+uniteClans 1000 1000
+addClan 1362
+getBestPlayer 0
+getScoreboard: 139
+addClan 734
+addPlayer 6518 21
+joinClan 9949 252
+getScoreboard: 1025
+joinClan 6302 1288
+uniteClans 139 1687
+completeChallange 5919 55
+addClan 1863
+joinClan 6920 344
+addPlayer 2592 39
+addPlayer 3188 32
+getBestPlayer 819
+completeChallange 8792 3
+getBestPlayer 436
+addClan 99
+completeChallange 1844 15
+addPlayer 3060 44
+getScoreboard: 1620
+addPlayer 6271 12
+getScoreboard: 1549
+getBestPlayer 1179
+completeChallange 8173 33
+addClan 886
+addPlayer 1295 37
+addPlayer 3558 11
+addClan 1069
+getScoreboard: 326
+addPlayer 2931 31
+addPlayer 654 66
+getScoreboard: 811
+joinClan 1173 992
+addPlayer 7552 24
+getBestPlayer 10001
+addClan 965
+addClan 1276
+completeChallange 6142 25
+completeChallange 5171 63
+addClan 1665
+addClan 111
+uniteClans 646 428
+addPlayer 3984 24
+uniteClans 10000 10001
+addPlayer 2275 8
+uniteClans 1000 1000
+getScoreboard: 62
+getScoreboard: 395
+joinClan 3722 492
+addClan 820
+getScoreboard: 279
+addPlayer 7619 61
+joinClan 9364 711
+completeChallange 10001 52
+completeChallange -1 -4
+uniteClans 10000 10001
+addPlayer 4897 13
+getBestPlayer 1727
+completeChallange 7768 77
+uniteClans 865 90
+completeChallange 10001 39
+addPlayer 7722 80
+getBestPlayer 1586
+addClan 551
+getScoreboard 0
+completeChallange 1380 35
+addPlayer 349 44
+addPlayer 5763 1
+addPlayer 194 11
+completeChallange 7576 61
+addPlayer 261 56
+completeChallange -1 -8
+completeChallange 4690 11
+getScoreboard: 1516
+addPlayer 6526 6
+getScoreboard: 551
+addPlayer 3513 29
+getBestPlayer 10001
+completeChallange 8079 51
+addPlayer 2859 73
+getScoreboard: 326
+joinClan 5282 992
+getBestPlayer 10001
+addPlayer 5666 33
+completeChallange -1 -8
+joinClan 7605 681
+getBestPlayer 1688
+getScoreboard: 99
+addPlayer 7468 64
+joinClan -1 0
+addPlayer 9294 68
+getBestPlayer 698
+completeChallange 2313 65
+addPlayer 2240 18
+addPlayer 5754 -6
+joinClan 845 1549
+addPlayer 7544 80
+addClan 100
+joinClan 9395 1205
+getBestPlayer 10001
+joinClan 5171 336
+getBestPlayer 1064
+getBestPlayer 371
+addPlayer 9282 31
+addPlayer 3719 0
+getScoreboard: 310
+getScoreboard: 1628
+joinClan -1 0
+getScoreboard: 113
+getBestPlayer 1299
+completeChallange 7013 65
+uniteClans 10000 10001
+completeChallange 10001 55
+getScoreboard: 767
+completeChallange 5040 42
+joinClan 4842 976
+addPlayer 907 37
+completeChallange 8136 11
+getScoreboard 0
+uniteClans 767 1571
+completeChallange 6709 67
+joinClan 4867 1104
+uniteClans 0 1000
+getBestPlayer 10001
+joinClan 3727 1016
+addClan 1816
+completeChallange 7435 57
+completeChallange 7991 74
+uniteClans 0 1000
+addClan 861
+addClan 1174
+uniteClans 1214 1200
+addClan 1219
+addPlayer 1525 38
+completeChallange 3188 39
+uniteClans 100 -12
+addClan 1916
+completeChallange 1295 36
+joinClan 261 1348
+addPlayer 6723 20
+getBestPlayer 1301
+getScoreboard 0
+getScoreboard: 844
+joinClan 1823 1135
+addClan 1685
+getScoreboard 0
+joinClan -1 0
+addClan 224
+joinClan 3975 838
+getBestPlayer 224
+getBestPlayer 10001
+getBestPlayer 825
+addClan 501
+getScoreboard: 1957
+getBestPlayer 792
+completeChallange 194 18
+getBestPlayer 992
+addClan 286
+completeChallange 3664 8
+joinClan 1380 266
+completeChallange -1 -4
+joinClan 7117 635
+addPlayer 9078 38
+getScoreboard: 1656
+getScoreboard: 270
+uniteClans 1968 1288
+getScoreboard: 185
+joinClan 3537 428
+addClan 1861
+addPlayer 4781 18
+addPlayer 9193 53
+getScoreboard: 1120
+addClan 1284
+getBestPlayer 1941
+getBestPlayer 0
+getBestPlayer 10001
+addPlayer 9773 47
+addPlayer 419 7
+completeChallange 4772 60
+getBestPlayer 10001
+getBestPlayer 996
+completeChallange 2849 33
+addClan 1962
+getBestPlayer 10001
+addPlayer 4987 31
+addPlayer 9555 67
+addClan 1311
+joinClan -1 0
+addPlayer 966 52
+joinClan 1684 1776
+getScoreboard: 1323
+uniteClans 100 -12
+addPlayer 6381 54
+getScoreboard: 707
+addPlayer 9775 14
+uniteClans 100 -12
+completeChallange 1525 14
+joinClan 7043 1328
+completeChallange 10001 40
+getBestPlayer 10001
+completeChallange 10001 50
+completeChallange 10001 70
+uniteClans 10000 10001
+getBestPlayer 10001
+completeChallange 6920 69
+addClan 1952
+getScoreboard: 826
+getBestPlayer 1916
+getBestPlayer 10001
+getScoreboard: 753
+addClan 1284
+completeChallange 8885 14
+uniteClans 10000 10001
+getScoreboard: 283
+uniteClans 1977 861
+uniteClans 10000 10001
+getBestPlayer 1364
+addPlayer 5896 13
+completeChallange -1 -2
+getBestPlayer 0
+getScoreboard: 1572
+addPlayer 6299 28
+addPlayer 2128 39
+completeChallange 636 80
+getBestPlayer 1313
+completeChallange 10001 77
+completeChallange 3077 27
+joinClan -1 0
+addPlayer 8030 54
+addClan 956
+joinClan 5661 1025
+completeChallange -1 -3
+uniteClans 10000 10001
+completeChallange 10001 57
+addClan 1951
+joinClan -1 0
+addPlayer 5003 72
+addClan 815
+uniteClans 10000 10001
+getScoreboard 0
+addClan 465
+getBestPlayer 10001
+getScoreboard 0
+getScoreboard: 252
+uniteClans 100 -12
+joinClan 8673 1268
+getBestPlayer 0
+getBestPlayer 0
+getBestPlayer 609
+addPlayer 3338 5
+uniteClans 100 -12
+getScoreboard: 985
+addPlayer 9131 57
+uniteClans 100 -12
+getBestPlayer 10001
+completeChallange -1 -1
+joinClan 4881 1120
+getScoreboard 0
+joinClan 9394 212
+completeChallange 10001 9
+getScoreboard: 1894
+uniteClans 100 1754
+uniteClans 100 -12
+getScoreboard: 1947
+getScoreboard 0
+joinClan 3930 89
+getBestPlayer 1405
+getBestPlayer 561
+addPlayer 7714 49
+getScoreboard: 747
+getScoreboard: 1764
+getScoreboard: 618
+joinClan 5040 862
+getScoreboard: 302
+joinClan -1 0
+uniteClans 100 -12
+joinClan 5557 501
+completeChallange 3040 52
+completeChallange 8826 40
+addPlayer 7685 60
+getBestPlayer 10001
+getBestPlayer 0
+getScoreboard: 1116
+addClan 150
+getBestPlayer 10001
+completeChallange 797 16
+getScoreboard: 1321
+joinClan -1 0
+uniteClans 1000 1000
+joinClan 8682 944
+addClan 636
+getScoreboard: 701
+completeChallange 10001 53
+completeChallange 6545 61
+getBestPlayer 10001
+joinClan 4711 12
+addPlayer 8439 3
+completeChallange 4443 34
+addClan 1731
+getBestPlayer 965
+getScoreboard 0
+completeChallange 10001 76
+addClan 1060
+addPlayer 9500 18
+addPlayer 21 10
+completeChallange 2927 71
+getScoreboard: 1759
+uniteClans 0 1000
+addPlayer 8550 -4
+getScoreboard: 888
+addPlayer 1534 37
+completeChallange -1 -4
+getScoreboard: 62
+getScoreboard 0
+addPlayer 2201 1
+getScoreboard: 1129
+getBestPlayer 10001
+addPlayer 6590 70
+uniteClans 100 -12
+getBestPlayer 623
+addPlayer 9459 52
+addClan 525
+addClan 319
+getBestPlayer 0
+getBestPlayer 10001
+getBestPlayer 672
+uniteClans 1000 1000
+uniteClans 1031 1988
+addPlayer 8534 8
+getBestPlayer 10001
+addPlayer 6615 41
+completeChallange 10001 31
+joinClan -1 0
+completeChallange 10001 15
+getScoreboard: 761
+joinClan 5537 386
+addClan 950
+getBestPlayer 1063
+completeChallange 4309 67
+uniteClans 10000 10001
+joinClan -1 0
+completeChallange 10001 63
+completeChallange 6802 39
+completeChallange -1 -4
+getBestPlayer 661
+addPlayer 1972 13
+getBestPlayer 10001
+uniteClans 10000 10001
+joinClan 2242 617
+completeChallange 10001 63
+addClan 29
+addClan 361
+joinClan 7346 437
+getScoreboard: 189
+addPlayer 8411 35
+getScoreboard: 46
+getScoreboard: 1741
+getBestPlayer 0
+getBestPlayer 0
+getScoreboard: 669
+completeChallange 354 63
+addClan 1370
+getScoreboard 0
+uniteClans 783 389
+uniteClans 100 -12
+getBestPlayer 0
+getScoreboard: 440
+uniteClans 100 -12
+addPlayer 6758 9
+getScoreboard 0
+completeChallange 10001 7
+addPlayer 1153 -6
+addClan 1822
+uniteClans 0 1000
+addPlayer 9973 23
+uniteClans 10000 10001
+addPlayer 6356 60
+joinClan -1 0
+getScoreboard: 505
+completeChallange 4642 29
+getScoreboard 0
+getBestPlayer 10001
+uniteClans 100 -12
+addPlayer 4562 41
+addPlayer 8077 28
+addClan 117
+uniteClans 100 -12
+addClan 1610
+addPlayer 4833 8
+getBestPlayer 0
+getScoreboard: 1326
+completeChallange 6294 26
+addClan 1066
+joinClan 8646 609
+addPlayer 3184 34
+addPlayer 8938 20
+addClan 37
+uniteClans 10000 10001
+completeChallange 8267 46
+addClan 934
+uniteClans 1326 1486
+addClan 1767
+getBestPlayer 10001
+joinClan 4809 1337
+completeChallange -1 0
+addClan 1044
+addClan 1602
+completeChallange -1 -8
+getScoreboard: 815
+getBestPlayer 1447
+getScoreboard 0
+uniteClans 10000 10001
+uniteClans 1000 1000
+addClan 1773
+getBestPlayer 0
+getBestPlayer 10001
+completeChallange -1 -6
+completeChallange 4286 37
+getScoreboard: 575
+joinClan 2242 1486
+joinClan 24 1044
+getScoreboard: 1295
+addClan 856
+completeChallange 10001 50
+addPlayer 5112 14
+uniteClans 649 1521
+joinClan 455 1670
+joinClan 74 824
+completeChallange 2407 73
+joinClan 9484 683
+joinClan 4096 1455
+addClan 1966
+getBestPlayer 0
+completeChallange 9062 57
+addClan 1011
+getBestPlayer 10001
+addClan 1280
+uniteClans 10000 10001
+addClan 1935
+getBestPlayer 0
+getBestPlayer 674
+getBestPlayer 85
+getScoreboard: 1679
+addClan 1132
+getBestPlayer 10001
+completeChallange 3023 39
+completeChallange -1 -8
+completeChallange 4655 71
+addClan 1091
+uniteClans 100 -12
+getScoreboard 0
+getBestPlayer 10001
+completeChallange 3103 12
+addPlayer 3222 35
+uniteClans 1597 1843
+getBestPlayer 0
+getBestPlayer 92
+getScoreboard: 1087
+addPlayer 6023 -5
+joinClan 6450 1381
+getScoreboard: 1165
+uniteClans 10000 10001
+getScoreboard: 898
+getBestPlayer 1577
+getBestPlayer 1706
+getScoreboard: 146
+completeChallange 5108 70
+uniteClans 532 1955
+joinClan -1 0
+getScoreboard: 90
+getScoreboard: 1078
+addClan 62
+completeChallange 2341 80
+uniteClans 10000 10001
+completeChallange 10001 58
+uniteClans 100 -12
+addClan 1190
+addPlayer 401 10
+completeChallange 4013 74
+completeChallange 1653 54
+uniteClans 10000 10001
+getScoreboard: 528
+joinClan 8554 386
+joinClan 3597 651
+getScoreboard 0
+uniteClans 510 558
+getBestPlayer 0
+uniteClans 100 -12
+joinClan 9773 1947
+addPlayer 7882 20
+completeChallange 8505 30
+joinClan 2592 1271
+completeChallange 5604 77
+getScoreboard 0
+addClan 178
+getBestPlayer 1158
+getBestPlayer 0
+getBestPlayer 886
+getScoreboard: 1010
+getScoreboard: 1148
+addClan 688
+getScoreboard 0
+getScoreboard: 1677
+getBestPlayer 10001
+addPlayer 8186 65
+getScoreboard: 1967
+addPlayer 6071 57
+getScoreboard: 1529
+getBestPlayer 597
+getScoreboard: 383
+getScoreboard: 539
+getScoreboard 0
+getScoreboard 0
+getBestPlayer 10001
+getScoreboard 0
+uniteClans 1000 1000
+getScoreboard: 592
+addClan 1571
+getBestPlayer 10001
+completeChallange 8312 43
+completeChallange 4659 61
+joinClan 5897 1792
+getBestPlayer 1478
+getScoreboard: 1764
+addPlayer 2737 9
+completeChallange 1412 17
+joinClan 1291 211
+getScoreboard: 1328
+completeChallange 10001 67
+addPlayer 3246 16
+addClan 1245
+addPlayer 3968 59
+getScoreboard: 130
+uniteClans 0 1000
+joinClan 9888 34
+getBestPlayer 10001
+addClan 1717
+getScoreboard: 1266
+addPlayer 7027 43
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 5416 18
+joinClan 7964 992
+getBestPlayer 10001
+getBestPlayer 10001
+joinClan -1 0
+getScoreboard: 811
+getScoreboard: 1698
+addPlayer 1130 63
+getScoreboard: 1754
+addClan 316
+addClan 1895
+joinClan -1 0
+uniteClans 100 -12
+getBestPlayer 235
+addClan 1163
+getScoreboard: 824
+addClan 1232
+addClan 417
+addPlayer 3157 -3
+addPlayer 9547 73
+getScoreboard 0
+uniteClans 382 661
+getBestPlayer 1274
+completeChallange 10001 34
+uniteClans 0 1000
+getScoreboard: 1606
+getScoreboard: 12
+getScoreboard: 552
+addPlayer 9221 77
+addClan 1195
+addClan 1672
+uniteClans 851 552
+joinClan 8910 1304
+addClan 1163
+uniteClans 645 734
+addPlayer 9720 33
+getBestPlayer 1950
+completeChallange 7425 29
+joinClan 5896 985
+uniteClans 10000 10001
+joinClan 9776 528
+joinClan 8098 1026
+addPlayer 6820 76
+joinClan 48 563
+addClan 344
+completeChallange 8646 26
+getBestPlayer 0
+addPlayer 7394 57
+completeChallange 1525 65
+addClan 605
+getScoreboard 0
+getScoreboard: 1440
+completeChallange 2407 32
+addClan 1216
+addPlayer 7521 46
+getScoreboard: 819
+addClan 8
+addClan 1323
+addClan 1812
+uniteClans 1135 1816
+getScoreboard: 332
+uniteClans 546 143
+addPlayer 7303 43
+getBestPlayer 10001
+joinClan 5443 85
+joinClan -1 0
+addClan 1467
+uniteClans 100 -12
+getScoreboard: 1776
+addPlayer 2657 56
+uniteClans 100 -12
+joinClan -1 0
+uniteClans 10000 10001
+addPlayer 5294 32
+getBestPlayer 10001
+joinClan -1 0
+addPlayer 312 9
+addPlayer 9734 43
+joinClan 5485 1610
+completeChallange 4478 11
+completeChallange -1 -5
+getBestPlayer 10001
+joinClan 4626 1830
+completeChallange 1764 32
+addClan 813
+addPlayer 5138 22
+uniteClans 10000 10001
+addPlayer 7832 6
+completeChallange 7055 74
+addPlayer 9074 22
+uniteClans 10000 10001
+joinClan 136 1949
+uniteClans 10000 10001
+uniteClans 0 1000
+addPlayer 8832 53
+completeChallange 3435 73
+completeChallange 1359 46
+joinClan 4585 418
+completeChallange 4809 72
+uniteClans 10000 10001
+getBestPlayer 157
+uniteClans 0 1000
+getBestPlayer 0
+uniteClans 10000 10001
+getScoreboard: 1589
+uniteClans 10000 10001
+completeChallange 1865 37
+getScoreboard 0
+completeChallange 9078 14
+addClan 5
+uniteClans 623 352
+joinClan 7337 732
+completeChallange -1 0
+uniteClans 0 1000
+addPlayer 5996 10
+addPlayer 9969 65
+getScoreboard: 64
+completeChallange 5416 29
+getBestPlayer 824
+completeChallange 291 32
+addPlayer 79 7
+joinClan 425 1593
+joinClan -1 0
+joinClan 21 199
+completeChallange 3030 62
+addClan 406
+addPlayer 5627 47
+addPlayer 5140 4
+completeChallange 3030 21
+addPlayer 7603 1
+joinClan 1534 1020
+addClan 370
+addPlayer 2125 31
+joinClan 1865 1341
+addClan 1525
+uniteClans 0 1000
+joinClan 1119 1788
+addPlayer 1732 17
+getBestPlayer 1239
+addClan 1941
+getScoreboard 0
+addPlayer 1009 75
+addPlayer 1084 9
+getScoreboard: 386
+completeChallange 10001 9
+addClan 1117
+joinClan 5458 1974
+uniteClans 10000 10001
+addPlayer 9879 6
+addPlayer 5045 54
+completeChallange 10001 45
+addClan 525
+getScoreboard: 439
+uniteClans 1752 1360
+addPlayer 420 52
+getBestPlayer 10001
+joinClan -1 0
+completeChallange 6821 30
+getBestPlayer 10001
+getScoreboard: 994
+addClan 1756
+addClan 1995
+joinClan -1 0
+addClan 1571
+completeChallange 7117 19
+uniteClans 100 -12
+addPlayer 9742 48
+addPlayer 8677 43
+getBestPlayer 1393
+uniteClans 1000 1000
+uniteClans 1000 1000
+Quit

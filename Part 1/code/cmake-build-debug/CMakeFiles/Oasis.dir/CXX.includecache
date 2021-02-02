@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.cpp
+cstdlib
+-
+assert.h
+-
+ClanTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.h
+PlayerTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+CoinTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.h
+Tree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/Tree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.cpp
+cstdlib
+-
+new
+-
+CoinTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.h
+PlayerTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.h
+PlayerTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/Oasis.cpp
+Oasis.h
+C:/HW Computer Science/Data Structures/Wet 1/code/Oasis.h
+Tree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/Tree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/Oasis.h
+PlayerTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+ClanTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.h
+CoinTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.cpp
+PlayerTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+ClanTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+Tree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/Tree.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/Tree.h
+exception
+-
+
+C:/HW Computer Science/Data Structures/Wet 1/code/library1.cpp
+new
+-
+library1.h
+C:/HW Computer Science/Data Structures/Wet 1/code/library1.h
+Oasis.h
+C:/HW Computer Science/Data Structures/Wet 1/code/Oasis.h
+CoinTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.h
+PlayerTree.h
+C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h
+exception
+C:/HW Computer Science/Data Structures/Wet 1/code/exception
+
+C:/HW Computer Science/Data Structures/Wet 1/code/library1.h
+
+C:/HW Computer Science/Data Structures/Wet 1/code/main1.cpp
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+library1.h
+C:/HW Computer Science/Data Structures/Wet 1/code/library1.h
+iostream
+-
+

@@ -1,0 +1,3794 @@
+init done.
+completeChallange: FAILURE
+addClan: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: FAILURE
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+Most successful player is: -1
+and there are no more players!
+Rank	||	Player
+1		||	4829
+2		||	4656
+and there are no more players!
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: FAILURE
+uniteClans: SUCCESS
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4003
+3		||	4656
+and there are no more players!
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: FAILURE
+joinClan: FAILURE
+Most successful player is: 4656
+completeChallange: SUCCESS
+uniteClans: FAILURE
+uniteClans: SUCCESS
+joinClan: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	4003
+and there are no more players!
+joinClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+joinClan: FAILURE
+addPlayer: SUCCESS
+uniteClans: FAILURE
+joinClan: SUCCESS
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	4003
+4		||	460
+and there are no more players!
+Most successful player is: 4656
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: 4656
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: FAILURE
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	4003
+4		||	460
+and there are no more players!
+Most successful player is: 4656
+Most successful player is: 3545
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+Most successful player is: 8434
+uniteClans: SUCCESS
+addPlayer: INVALID_INPUT
+completeChallange: FAILURE
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+and there are no more players!
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+uniteClans: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+and there are no more players!
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+Most successful player is: 4656
+addClan: SUCCESS
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	381
+4		||	2153
+5		||	4003
+6		||	2803
+7		||	6793
+8		||	8434
+9		||	460
+10		||	3748
+11		||	2487
+12		||	3105
+13		||	3545
+and there are no more players!
+completeChallange: SUCCESS
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: 4656
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	8434
+and there are no more players!
+Most successful player is: 4656
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+Most successful player is: 4656
+addPlayer: SUCCESS
+Most successful player is: 4656
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+uniteClans: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	381
+4		||	3748
+5		||	2153
+6		||	4003
+7		||	2803
+8		||	743
+9		||	6793
+10		||	8873
+11		||	3105
+12		||	8709
+13		||	8434
+14		||	460
+15		||	3203
+16		||	2487
+17		||	2669
+18		||	3545
+and there are no more players!
+uniteClans: INVALID_INPUT
+and there are no more players!
+and there are no more players!
+joinClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+completeChallange: INVALID_INPUT
+uniteClans: FAILURE
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+completeChallange: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+and there are no more players!
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	381
+5		||	3748
+6		||	2669
+7		||	2153
+8		||	3162
+9		||	4003
+10		||	2803
+11		||	743
+12		||	6793
+13		||	8873
+14		||	3105
+15		||	8709
+16		||	1918
+17		||	4738
+18		||	8434
+19		||	460
+20		||	3203
+21		||	2487
+22		||	3545
+and there are no more players!
+completeChallange: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+Most successful player is: -1
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	3105
+5		||	381
+6		||	3748
+7		||	4738
+8		||	2669
+9		||	2153
+10		||	3162
+11		||	4003
+12		||	3545
+13		||	4341
+14		||	2803
+15		||	743
+16		||	6793
+17		||	8873
+18		||	8709
+19		||	1918
+20		||	8434
+21		||	460
+22		||	3203
+23		||	2487
+and there are no more players!
+completeChallange: FAILURE
+completeChallange: FAILURE
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: 8434
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+and there are no more players!
+completeChallange: SUCCESS
+and there are no more players!
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+Most successful player is: 6793
+getBestPlayer: FAILURE
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	743
+and there are no more players!
+Most successful player is: 4656
+addClan: SUCCESS
+joinClan: FAILURE
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+joinClan: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	8709
+4		||	2907
+5		||	3105
+6		||	381
+7		||	3748
+8		||	7241
+9		||	4738
+10		||	2669
+11		||	2153
+12		||	3162
+13		||	4003
+14		||	3545
+15		||	4341
+16		||	2803
+17		||	743
+18		||	6793
+19		||	8873
+20		||	1918
+21		||	8434
+22		||	460
+23		||	3203
+24		||	5464
+25		||	2487
+26		||	1010
+27		||	1859
+and there are no more players!
+addClan: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+Most successful player is: 4656
+Rank	||	Player
+1		||	6793
+and there are no more players!
+addPlayer: SUCCESS
+Most successful player is: -1
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+Most successful player is: 4656
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+Most successful player is: 4656
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+Most successful player is: -1
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: FAILURE
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+Most successful player is: -1
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	3105
+and there are no more players!
+joinClan: SUCCESS
+addClan: SUCCESS
+completeChallange: FAILURE
+completeChallange: INVALID_INPUT
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+uniteClans: FAILURE
+Most successful player is: -1
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+joinClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+and there are no more players!
+uniteClans: FAILURE
+Rank	||	Player
+1		||	7241
+and there are no more players!
+Most successful player is: 4656
+addClan: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+completeChallange: FAILURE
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+and there are no more players!
+Most successful player is: 4656
+getScoreboard: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+Rank	||	Player
+1		||	8434
+and there are no more players!
+and there are no more players!
+and there are no more players!
+completeChallange: FAILURE
+Most successful player is: 743
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: INVALID_INPUT
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+uniteClans: FAILURE
+and there are no more players!
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+and there are no more players!
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	381
+2		||	7948
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+Rank	||	Player
+1		||	381
+2		||	7948
+and there are no more players!
+uniteClans: FAILURE
+uniteClans: FAILURE
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+completeChallange: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+joinClan: SUCCESS
+addClan: FAILURE
+Rank	||	Player
+1		||	3210
+2		||	8873
+3		||	460
+and there are no more players!
+and there are no more players!
+uniteClans: INVALID_INPUT
+Most successful player is: -1
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addPlayer: INVALID_INPUT
+joinClan: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+Most successful player is: 2950
+completeChallange: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: FAILURE
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+Rank	||	Player
+1		||	7241
+and there are no more players!
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	2950
+and there are no more players!
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+and there are no more players!
+addClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+joinClan: FAILURE
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+joinClan: SUCCESS
+uniteClans: FAILURE
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	8709
+5		||	4341
+6		||	3105
+7		||	4003
+8		||	3162
+9		||	4276
+10		||	381
+11		||	3748
+12		||	7241
+13		||	4738
+14		||	2669
+15		||	2950
+16		||	3991
+17		||	8628
+18		||	2153
+19		||	6617
+20		||	6790
+21		||	3221
+22		||	5162
+23		||	3210
+24		||	3545
+25		||	5794
+26		||	2803
+27		||	6764
+28		||	63
+29		||	743
+30		||	6416
+31		||	6793
+32		||	460
+33		||	4244
+34		||	8873
+35		||	5159
+36		||	1773
+37		||	1918
+38		||	1051
+39		||	3203
+40		||	3337
+41		||	2487
+42		||	5464
+43		||	4
+44		||	5955
+45		||	7684
+46		||	3242
+47		||	522
+48		||	6720
+49		||	8434
+50		||	1238
+51		||	7948
+52		||	9837
+53		||	948
+54		||	4945
+55		||	9773
+56		||	1010
+57		||	1859
+58		||	2277
+59		||	9873
+and there are no more players!
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+addClan: SUCCESS
+Most successful player is: -1
+uniteClans: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: FAILURE
+joinClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+Most successful player is: -1
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+joinClan: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	743
+2		||	1104
+and there are no more players!
+addClan: SUCCESS
+Most successful player is: 3105
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: FAILURE
+and there are no more players!
+Rank	||	Player
+1		||	2950
+and there are no more players!
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+and there are no more players!
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+addClan: SUCCESS
+Most successful player is: -1
+uniteClans: INVALID_INPUT
+and there are no more players!
+joinClan: INVALID_INPUT
+joinClan: FAILURE
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+uniteClans: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	9873
+and there are no more players!
+completeChallange: FAILURE
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+addClan: FAILURE
+and there are no more players!
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+joinClan: SUCCESS
+addClan: SUCCESS
+uniteClans: FAILURE
+getBestPlayer: FAILURE
+addClan: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+joinClan: FAILURE
+Most successful player is: -1
+uniteClans: FAILURE
+getScoreboard: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+joinClan: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+getBestPlayer: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: 743
+Rank	||	Player
+1		||	4341
+and there are no more players!
+Rank	||	Player
+1		||	4738
+and there are no more players!
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+Rank	||	Player
+1		||	3210
+2		||	460
+3		||	8873
+and there are no more players!
+Most successful player is: 4656
+joinClan: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+and there are no more players!
+joinClan: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	6793
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: INVALID_INPUT
+Rank	||	Player
+1		||	7241
+and there are no more players!
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+and there are no more players!
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	8434
+and there are no more players!
+addPlayer: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+Most successful player is: -1
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+completeChallange: INVALID_INPUT
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: FAILURE
+addClan: SUCCESS
+uniteClans: SUCCESS
+joinClan: INVALID_INPUT
+Most successful player is: -1
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	8709
+5		||	4341
+6		||	4738
+7		||	381
+8		||	3105
+9		||	63
+10		||	4003
+11		||	3162
+12		||	2153
+13		||	4276
+14		||	1918
+15		||	4
+16		||	3242
+17		||	3748
+18		||	7241
+19		||	8628
+20		||	2669
+21		||	2950
+22		||	3991
+23		||	8554
+24		||	9342
+25		||	6617
+26		||	6790
+27		||	8920
+28		||	8973
+29		||	3221
+30		||	1330
+31		||	5162
+32		||	2287
+33		||	3210
+34		||	1238
+35		||	3545
+36		||	5794
+37		||	2803
+38		||	6764
+39		||	743
+40		||	1104
+41		||	4945
+42		||	6416
+43		||	6793
+44		||	460
+45		||	4244
+46		||	8873
+47		||	5159
+48		||	9923
+49		||	1773
+50		||	8108
+51		||	1051
+52		||	3203
+53		||	3871
+54		||	1221
+55		||	3812
+56		||	3337
+57		||	5343
+58		||	2487
+59		||	5464
+60		||	5955
+61		||	7684
+62		||	522
+63		||	6720
+64		||	935
+65		||	8063
+66		||	4350
+67		||	4836
+68		||	8434
+69		||	7948
+70		||	3574
+71		||	9837
+72		||	948
+73		||	1204
+74		||	9773
+75		||	1010
+76		||	4485
+77		||	1859
+78		||	3890
+79		||	3926
+80		||	2277
+81		||	9873
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+and there are no more players!
+uniteClans: SUCCESS
+joinClan: FAILURE
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: FAILURE
+addClan: SUCCESS
+Rank	||	Player
+1		||	8554
+and there are no more players!
+completeChallange: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	8709
+5		||	4341
+6		||	4738
+7		||	381
+8		||	3105
+9		||	63
+10		||	4003
+11		||	3162
+12		||	2153
+13		||	4276
+14		||	1918
+15		||	4
+16		||	3242
+17		||	3748
+18		||	7241
+19		||	8628
+20		||	2669
+21		||	2950
+22		||	3991
+23		||	8554
+24		||	9342
+25		||	6617
+26		||	6790
+27		||	8920
+28		||	8973
+29		||	3221
+30		||	1330
+31		||	5162
+32		||	2287
+33		||	3210
+34		||	1238
+35		||	3545
+36		||	5794
+37		||	2803
+38		||	6764
+39		||	743
+40		||	1104
+41		||	2604
+42		||	4945
+43		||	6416
+44		||	6793
+45		||	460
+46		||	4244
+47		||	8873
+48		||	5159
+49		||	9923
+50		||	1773
+51		||	8108
+52		||	1051
+53		||	3203
+54		||	3871
+55		||	1221
+56		||	3812
+57		||	3337
+58		||	5343
+59		||	2487
+60		||	5464
+61		||	5955
+62		||	7684
+63		||	522
+64		||	6720
+65		||	935
+66		||	8063
+67		||	4350
+68		||	4836
+69		||	8434
+70		||	7948
+71		||	3574
+72		||	9837
+73		||	948
+74		||	9771
+75		||	1204
+76		||	9773
+77		||	1010
+78		||	4485
+79		||	1859
+80		||	3890
+81		||	3926
+82		||	3254
+83		||	2277
+84		||	9873
+and there are no more players!
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+joinClan: INVALID_INPUT
+joinClan: FAILURE
+Rank	||	Player
+1		||	1051
+and there are no more players!
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+Most successful player is: 4656
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: FAILURE
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+uniteClans: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+completeChallange: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+and there are no more players!
+Rank	||	Player
+1		||	3105
+2		||	4003
+3		||	2669
+4		||	4244
+and there are no more players!
+joinClan: FAILURE
+addPlayer: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+joinClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+Most successful player is: -1
+uniteClans: FAILURE
+completeChallange: FAILURE
+uniteClans: SUCCESS
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+and there are no more players!
+Most successful player is: -1
+addPlayer: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	7241
+and there are no more players!
+joinClan: FAILURE
+addClan: SUCCESS
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+and there are no more players!
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+completeChallange: SUCCESS
+joinClan: SUCCESS
+Rank	||	Player
+1		||	2950
+and there are no more players!
+uniteClans: FAILURE
+and there are no more players!
+Most successful player is: 4656
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	8434
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+Rank	||	Player
+1		||	5159
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+joinClan: SUCCESS
+joinClan: FAILURE
+joinClan: FAILURE
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+getBestPlayer: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+addClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+getBestPlayer: FAILURE
+joinClan: FAILURE
+uniteClans: INVALID_INPUT
+Most successful player is: -1
+getScoreboard: INVALID_INPUT
+joinClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+completeChallange: INVALID_INPUT
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addPlayer: INVALID_INPUT
+joinClan: FAILURE
+uniteClans: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: FAILURE
+Most successful player is: -1
+addClan: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+Rank	||	Player
+1		||	4738
+and there are no more players!
+addClan: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: INVALID_INPUT
+completeChallange: SUCCESS
+Most successful player is: -1
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: 1918
+and there are no more players!
+completeChallange: INVALID_INPUT
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+addClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: 4656
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+addClan: FAILURE
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+and there are no more players!
+and there are no more players!
+completeChallange: SUCCESS
+joinClan: FAILURE
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: INVALID_INPUT
+and there are no more players!
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+completeChallange: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+Rank	||	Player
+1		||	9773
+and there are no more players!
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+getBestPlayer: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+completeChallange: FAILURE
+Rank	||	Player
+1		||	7241
+and there are no more players!
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	6790
+5		||	4945
+6		||	3970
+and there are no more players!
+addPlayer: SUCCESS
+completeChallange: FAILURE
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: FAILURE
+joinClan: FAILURE
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+uniteClans: FAILURE
+uniteClans: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+completeChallange: FAILURE
+and there are no more players!
+joinClan: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+uniteClans: FAILURE
+Rank	||	Player
+1		||	3210
+2		||	460
+3		||	8873
+4		||	6720
+and there are no more players!
+addPlayer: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: FAILURE
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+Rank	||	Player
+1		||	5159
+and there are no more players!
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+completeChallange: INVALID_INPUT
+addPlayer: INVALID_INPUT
+joinClan: FAILURE
+and there are no more players!
+uniteClans: FAILURE
+Rank	||	Player
+1		||	3210
+2		||	460
+3		||	8873
+4		||	6720
+and there are no more players!
+Most successful player is: -1
+addPlayer: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+uniteClans: FAILURE
+Rank	||	Player
+1		||	1051
+and there are no more players!
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+and there are no more players!
+addPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+Most successful player is: -1
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	63
+4		||	3105
+5		||	2907
+6		||	8709
+7		||	3748
+8		||	3162
+9		||	4341
+10		||	4276
+11		||	4407
+12		||	7639
+13		||	4
+14		||	4738
+15		||	4350
+16		||	8858
+17		||	381
+18		||	1330
+19		||	4003
+20		||	5794
+21		||	2287
+22		||	2153
+23		||	3991
+24		||	1918
+25		||	3242
+26		||	7241
+27		||	1010
+28		||	5159
+29		||	9773
+30		||	1238
+31		||	8971
+32		||	8628
+33		||	2669
+34		||	1104
+35		||	8973
+36		||	2950
+37		||	8554
+38		||	9342
+39		||	6617
+40		||	4750
+41		||	6790
+42		||	8920
+43		||	3221
+44		||	3545
+45		||	5162
+46		||	9873
+47		||	3210
+48		||	6540
+49		||	7684
+50		||	2803
+51		||	6764
+52		||	743
+53		||	297
+54		||	1514
+55		||	2487
+56		||	5343
+57		||	7343
+58		||	8063
+59		||	2604
+60		||	4811
+61		||	4945
+62		||	6416
+63		||	6793
+64		||	460
+65		||	4244
+66		||	8873
+67		||	8493
+68		||	9923
+69		||	4192
+70		||	1051
+71		||	1773
+72		||	4836
+73		||	8108
+74		||	3203
+75		||	3871
+76		||	1221
+77		||	9304
+78		||	3812
+79		||	3337
+80		||	9544
+81		||	3051
+82		||	5464
+83		||	7053
+84		||	2077
+85		||	3890
+86		||	6691
+87		||	5955
+88		||	522
+89		||	6720
+90		||	935
+91		||	3970
+92		||	8020
+93		||	6719
+94		||	8434
+95		||	7760
+96		||	7948
+97		||	2613
+98		||	2577
+99		||	284
+100		||	3574
+101		||	9837
+102		||	948
+103		||	3646
+104		||	9771
+105		||	6478
+106		||	8275
+107		||	3254
+108		||	1204
+109		||	3484
+110		||	4485
+111		||	1859
+112		||	3926
+113		||	7661
+114		||	5436
+115		||	8561
+116		||	2277
+and there are no more players!
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: FAILURE
+joinClan: SUCCESS
+completeChallange: FAILURE
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+Most successful player is: 8554
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	3210
+2		||	460
+3		||	8873
+4		||	6720
+and there are no more players!
+completeChallange: FAILURE
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+Most successful player is: 6793
+addClan: SUCCESS
+completeChallange: FAILURE
+completeChallange: FAILURE
+addPlayer: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: SUCCESS
+joinClan: FAILURE
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+addClan: FAILURE
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	2287
+and there are no more players!
+getBestPlayer: FAILURE
+getBestPlayer: INVALID_INPUT
+joinClan: INVALID_INPUT
+and there are no more players!
+uniteClans: INVALID_INPUT
+Most successful player is: 7241
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+joinClan: INVALID_INPUT
+Most successful player is: 4656
+joinClan: FAILURE
+and there are no more players!
+completeChallange: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+joinClan: FAILURE
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	7684
+and there are no more players!
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+completeChallange: FAILURE
+getScoreboard: INVALID_INPUT
+and there are no more players!
+joinClan: FAILURE
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: -1
+completeChallange: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+joinClan: SUCCESS
+addPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+Most successful player is: -1
+joinClan: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	6790
+5		||	4945
+6		||	3970
+and there are no more players!
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+Most successful player is: 8434
+completeChallange: FAILURE
+Most successful player is: 1104
+Rank	||	Player
+1		||	8434
+and there are no more players!
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+completeChallange: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	2604
+and there are no more players!
+Most successful player is: -1
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+Most successful player is: -1
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: -1
+and there are no more players!
+uniteClans: SUCCESS
+Rank	||	Player
+1		||	7241
+2		||	5162
+and there are no more players!
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: -1
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+addClan: FAILURE
+uniteClans: INVALID_INPUT
+and there are no more players!
+joinClan: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	5449
+and there are no more players!
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	6790
+5		||	4945
+6		||	3970
+and there are no more players!
+getBestPlayer: FAILURE
+getBestPlayer: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+and there are no more players!
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+uniteClans: SUCCESS
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: INVALID_INPUT
+uniteClans: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+Most successful player is: -1
+getScoreboard: INVALID_INPUT
+joinClan: INVALID_INPUT
+and there are no more players!
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+Most successful player is: -1
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+Most successful player is: -1
+joinClan: SUCCESS
+completeChallange: FAILURE
+and there are no more players!
+Most successful player is: -1
+addClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+and there are no more players!
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: 3203
+addPlayer: SUCCESS
+Most successful player is: 8971
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+joinClan: FAILURE
+addClan: SUCCESS
+joinClan: SUCCESS
+addPlayer: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+joinClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: FAILURE
+Most successful player is: -1
+getScoreboard: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+joinClan: INVALID_INPUT
+completeChallange: INVALID_INPUT
+uniteClans: INVALID_INPUT
+uniteClans: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+Most successful player is: -1
+addClan: SUCCESS
+joinClan: FAILURE
+addClan: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+uniteClans: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: FAILURE
+Most successful player is: -1
+addClan: SUCCESS
+completeChallange: FAILURE
+Most successful player is: 8328
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+Most successful player is: 297
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+and there are no more players!
+Most successful player is: -1
+addPlayer: SUCCESS
+addClan: INVALID_INPUT
+Rank	||	Player
+1		||	7241
+and there are no more players!
+getScoreboard: INVALID_INPUT
+Most successful player is: -1
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+getBestPlayer: FAILURE
+and there are no more players!
+uniteClans: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+and there are no more players!
+getBestPlayer: FAILURE
+Most successful player is: 8493
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	9342
+and there are no more players!
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+joinClan: FAILURE
+Most successful player is: 3105
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+completeChallange: SUCCESS
+joinClan: FAILURE
+uniteClans: INVALID_INPUT
+and there are no more players!
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: FAILURE
+and there are no more players!
+and there are no more players!
+Most successful player is: 63
+completeChallange: FAILURE
+Rank	||	Player
+1		||	297
+and there are no more players!
+joinClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+and there are no more players!
+joinClan: SUCCESS
+Rank	||	Player
+1		||	5794
+2		||	1238
+3		||	3545
+and there are no more players!
+uniteClans: FAILURE
+getBestPlayer: INVALID_INPUT
+joinClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: INVALID_INPUT
+joinClan: INVALID_INPUT
+completeChallange: FAILURE
+joinClan: SUCCESS
+joinClan: FAILURE
+joinClan: FAILURE
+and there are no more players!
+uniteClans: FAILURE
+addPlayer: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+Most successful player is: -1
+uniteClans: INVALID_INPUT
+uniteClans: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	1051
+2		||	3926
+and there are no more players!
+and there are no more players!
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+addClan: SUCCESS
+completeChallange: SUCCESS
+getScoreboard: INVALID_INPUT
+and there are no more players!
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: SUCCESS
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: FAILURE
+Most successful player is: -1
+and there are no more players!
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+getScoreboard: INVALID_INPUT
+Most successful player is: -1
+Rank	||	Player
+1		||	2577
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	7639
+and there are no more players!
+joinClan: FAILURE
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+Most successful player is: 7241
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	3203
+2		||	522
+and there are no more players!
+Most successful player is: -1
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+Most successful player is: -1
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: FAILURE
+joinClan: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: FAILURE
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+completeChallange: FAILURE
+uniteClans: FAILURE
+completeChallange: INVALID_INPUT
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+Rank	||	Player
+1		||	9342
+and there are no more players!
+addPlayer: SUCCESS
+joinClan: SUCCESS
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: FAILURE
+Most successful player is: 1859
+completeChallange: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+addPlayer: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+Rank	||	Player
+1		||	6793
+and there are no more players!
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	3162
+and there are no more players!
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+uniteClans: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+addClan: FAILURE
+completeChallange: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: INVALID_INPUT
+completeChallange: SUCCESS
+Most successful player is: 1918
+completeChallange: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+addClan: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+and there are no more players!
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+Rank	||	Player
+1		||	4341
+and there are no more players!
+Rank	||	Player
+1		||	6793
+and there are no more players!
+completeChallange: FAILURE
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+and there are no more players!
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+and there are no more players!
+addClan: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+Most successful player is: 1703
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+uniteClans: SUCCESS
+uniteClans: FAILURE
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+completeChallange: FAILURE
+joinClan: FAILURE
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	1859
+and there are no more players!
+addClan: FAILURE
+addPlayer: SUCCESS
+uniteClans: FAILURE
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+uniteClans: FAILURE
+completeChallange: SUCCESS
+Most successful player is: -1
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+Most successful player is: 277
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+completeChallange: FAILURE
+and there are no more players!
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+Most successful player is: 3162
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+uniteClans: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+Most successful player is: -1
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: FAILURE
+completeChallange: INVALID_INPUT
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: -1
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+Most successful player is: -1
+addClan: SUCCESS
+completeChallange: FAILURE
+addPlayer: SUCCESS
+and there are no more players!
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: FAILURE
+addClan: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+completeChallange: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	5162
+and there are no more players!
+Rank	||	Player
+1		||	7684
+2		||	8669
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+addClan: SUCCESS
+uniteClans: FAILURE
+joinClan: FAILURE
+and there are no more players!
+joinClan: INVALID_INPUT
+addPlayer: INVALID_INPUT
+and there are no more players!
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+and there are no more players!
+and there are no more players!
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: FAILURE
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: FAILURE
+completeChallange: FAILURE
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+completeChallange: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+Most successful player is: -1
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	2577
+and there are no more players!
+joinClan: FAILURE
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	2153
+2		||	3221
+and there are no more players!
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+joinClan: INVALID_INPUT
+and there are no more players!
+uniteClans: INVALID_INPUT
+joinClan: INVALID_INPUT
+uniteClans: FAILURE
+Most successful player is: 8328
+joinClan: SUCCESS
+uniteClans: FAILURE
+and there are no more players!
+completeChallange: INVALID_INPUT
+addPlayer: INVALID_INPUT
+getBestPlayer: FAILURE
+Most successful player is: -1
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+uniteClans: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: SUCCESS
+uniteClans: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+uniteClans: FAILURE
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+and there are no more players!
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+Most successful player is: 1104
+and there are no more players!
+joinClan: SUCCESS
+Rank	||	Player
+1		||	5794
+2		||	1238
+3		||	3545
+and there are no more players!
+uniteClans: FAILURE
+and there are no more players!
+completeChallange: FAILURE
+completeChallange: FAILURE
+and there are no more players!
+getScoreboard: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	1051
+2		||	4176
+3		||	3926
+and there are no more players!
+Most successful player is: -1
+Most successful player is: -1
+addClan: SUCCESS
+joinClan: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: SUCCESS
+Rank	||	Player
+1		||	2287
+and there are no more players!
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+and there are no more players!
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+uniteClans: SUCCESS
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	63
+2		||	7917
+and there are no more players!
+uniteClans: FAILURE
+joinClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+addClan: FAILURE
+Rank	||	Player
+1		||	1773
+and there are no more players!
+addClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+getScoreboard: INVALID_INPUT
+joinClan: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+addPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+joinClan: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+addClan: FAILURE
+and there are no more players!
+joinClan: FAILURE
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+Rank	||	Player
+1		||	7053
+2		||	1187
+and there are no more players!
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+uniteClans: SUCCESS
+and there are no more players!
+Rank	||	Player
+1		||	4598
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+Most successful player is: -1
+Most successful player is: -1
+completeChallange: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+Most successful player is: 5162
+getBestPlayer: INVALID_INPUT
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	2153
+2		||	3221
+3		||	3254
+and there are no more players!
+addPlayer: FAILURE
+Rank	||	Player
+1		||	3484
+and there are no more players!
+completeChallange: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+joinClan: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+joinClan: SUCCESS
+uniteClans: FAILURE
+addPlayer: SUCCESS
+Most successful player is: 3100
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: FAILURE
+uniteClans: FAILURE
+addClan: SUCCESS
+uniteClans: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: 9446
+joinClan: SUCCESS
+and there are no more players!
+Rank	||	Player
+1		||	7639
+and there are no more players!
+Most successful player is: -1
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+and there are no more players!
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+Rank	||	Player
+1		||	2277
+and there are no more players!
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+and there are no more players!
+joinClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+and there are no more players!
+completeChallange: FAILURE
+Most successful player is: 63
+getBestPlayer: FAILURE
+Most successful player is: -1
+addClan: SUCCESS
+addClan: FAILURE
+Rank	||	Player
+1		||	4407
+and there are no more players!
+and there are no more players!
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+Rank	||	Player
+1		||	7639
+and there are no more players!
+Most successful player is: -1
+Most successful player is: -1
+addPlayer: SUCCESS
+joinClan: FAILURE
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	8846
+2		||	2487
+and there are no more players!
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+Rank	||	Player
+1		||	2577
+and there are no more players!
+uniteClans: SUCCESS
+Most successful player is: -1
+uniteClans: FAILURE
+joinClan: FAILURE
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+Most successful player is: -1
+and there are no more players!
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+getScoreboard: INVALID_INPUT
+and there are no more players!
+joinClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	63
+2		||	7917
+and there are no more players!
+Most successful player is: 743
+uniteClans: INVALID_INPUT
+joinClan: FAILURE
+joinClan: INVALID_INPUT
+uniteClans: FAILURE
+joinClan: FAILURE
+Most successful player is: 277
+addClan: SUCCESS
+completeChallange: FAILURE
+uniteClans: FAILURE
+uniteClans: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+addClan: FAILURE
+addPlayer: SUCCESS
+and there are no more players!
+Most successful player is: -1
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: FAILURE
+addPlayer: INVALID_INPUT
+joinClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+completeChallange: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+uniteClans: SUCCESS
+Rank	||	Player
+1		||	7053
+2		||	1187
+and there are no more players!
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+and there are no more players!
+joinClan: FAILURE
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+joinClan: FAILURE
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: 1157
+joinClan: INVALID_INPUT
+and there are no more players!
+uniteClans: FAILURE
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+and there are no more players!
+addClan: SUCCESS
+and there are no more players!
+completeChallange: FAILURE
+joinClan: FAILURE
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	2287
+and there are no more players!
+joinClan: SUCCESS
+completeChallange: SUCCESS
+Most successful player is: -1
+joinClan: SUCCESS
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: -1
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+and there are no more players!
+joinClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+completeChallange: SUCCESS
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+Rank	||	Player
+1		||	381
+and there are no more players!
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: INVALID_INPUT
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+joinClan: FAILURE
+joinClan: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+Rank	||	Player
+1		||	1010
+and there are no more players!
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+uniteClans: FAILURE
+addPlayer: SUCCESS
+completeChallange: INVALID_INPUT
+Most successful player is: 6987
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: INVALID_INPUT
+uniteClans: FAILURE
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	8108
+and there are no more players!
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+and there are no more players!
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: FAILURE
+Rank	||	Player
+1		||	8159
+2		||	4204
+and there are no more players!
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	4829
+2		||	4656
+3		||	2907
+4		||	6790
+5		||	4945
+6		||	3970
+7		||	7661
+and there are no more players!
+addPlayer: FAILURE
+completeChallange: FAILURE
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+Most successful player is: -1
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	9304
+and there are no more players!
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: FAILURE
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+joinClan: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+Rank	||	Player
+1		||	3100
+and there are no more players!
+addPlayer: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: FAILURE
+addPlayer: SUCCESS
+joinClan: FAILURE
+joinClan: FAILURE
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+Most successful player is: 1365
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+and there are no more players!
+Most successful player is: -1
+and there are no more players!
+completeChallange: FAILURE
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+and there are no more players!
+and there are no more players!
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+completeChallange: FAILURE
+joinClan: FAILURE
+completeChallange: SUCCESS
+joinClan: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+Rank	||	Player
+1		||	7241
+and there are no more players!
+uniteClans: FAILURE
+addClan: FAILURE
+and there are no more players!
+addClan: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+getBestPlayer: FAILURE
+getBestPlayer: INVALID_INPUT
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+addPlayer: INVALID_INPUT
+and there are no more players!
+joinClan: INVALID_INPUT
+addPlayer: INVALID_INPUT
+addClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: INVALID_INPUT
+and there are no more players!
+and there are no more players!
+joinClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	4407
+and there are no more players!
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+and there are no more players!
+completeChallange: INVALID_INPUT
+uniteClans: FAILURE
+getBestPlayer: INVALID_INPUT
+uniteClans: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+joinClan: SUCCESS
+completeChallange: SUCCESS
+Most successful player is: 2287
+and there are no more players!
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+and there are no more players!
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: INVALID_INPUT
+Most successful player is: -1
+Rank	||	Player
+1		||	2613
+and there are no more players!
+addPlayer: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+uniteClans: SUCCESS
+completeChallange: FAILURE
+getBestPlayer: FAILURE
+uniteClans: SUCCESS
+uniteClans: SUCCESS
+joinClan: FAILURE
+completeChallange: INVALID_INPUT
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+Rank	||	Player
+1		||	5674
+and there are no more players!
+joinClan: INVALID_INPUT
+completeChallange: INVALID_INPUT
+joinClan: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: SUCCESS
+uniteClans: FAILURE
+uniteClans: FAILURE
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+uniteClans: FAILURE
+getBestPlayer: FAILURE
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+Most successful player is: -1
+addPlayer: SUCCESS
+joinClan: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+completeChallange: FAILURE
+joinClan: FAILURE
+getBestPlayer: FAILURE
+addClan: FAILURE
+Rank	||	Player
+1		||	8328
+and there are no more players!
+getScoreboard: INVALID_INPUT
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: FAILURE
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+completeChallange: INVALID_INPUT
+joinClan: FAILURE
+addClan: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+addClan: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: INVALID_INPUT
+and there are no more players!
+joinClan: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+joinClan: INVALID_INPUT
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+getScoreboard: INVALID_INPUT
+joinClan: FAILURE
+completeChallange: FAILURE
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+Rank	||	Player
+1		||	2577
+and there are no more players!
+and there are no more players!
+completeChallange: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: FAILURE
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+addClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: FAILURE
+getBestPlayer: FAILURE
+completeChallange: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addClan: FAILURE
+addClan: SUCCESS
+and there are no more players!
+joinClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	8493
+and there are no more players!
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+joinClan: INVALID_INPUT
+joinClan: FAILURE
+joinClan: FAILURE
+joinClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+Most successful player is: -1
+getBestPlayer: INVALID_INPUT
+addPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	7684
+2		||	8669
+and there are no more players!
+addPlayer: SUCCESS
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+and there are no more players!
+uniteClans: SUCCESS
+addClan: FAILURE
+addClan: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: FAILURE
+completeChallange: FAILURE
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+and there are no more players!
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+Most successful player is: -1
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+uniteClans: FAILURE
+Most successful player is: -1
+uniteClans: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+completeChallange: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+joinClan: SUCCESS
+uniteClans: FAILURE
+uniteClans: FAILURE
+and there are no more players!
+addClan: SUCCESS
+uniteClans: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+Most successful player is: 1773
+Rank	||	Player
+1		||	972
+and there are no more players!
+joinClan: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+addPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	1507
+and there are no more players!
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addClan: FAILURE
+completeChallange: SUCCESS
+and there are no more players!
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+Most successful player is: -1
+addClan: SUCCESS
+uniteClans: FAILURE
+getScoreboard: INVALID_INPUT
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: FAILURE
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	1703
+and there are no more players!
+joinClan: FAILURE
+joinClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: FAILURE
+addClan: SUCCESS
+completeChallange: INVALID_INPUT
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+and there are no more players!
+joinClan: INVALID_INPUT
+joinClan: SUCCESS
+addPlayer: INVALID_INPUT
+joinClan: SUCCESS
+Most successful player is: 1773
+joinClan: FAILURE
+addClan: SUCCESS
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+joinClan: FAILURE
+addPlayer: SUCCESS
+uniteClans: FAILURE
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	9150
+and there are no more players!
+addPlayer: SUCCESS
+addClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+and there are no more players!
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: INVALID_INPUT
+completeChallange: FAILURE
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+uniteClans: FAILURE
+addClan: SUCCESS
+uniteClans: SUCCESS
+joinClan: SUCCESS
+Most successful player is: 5343
+joinClan: FAILURE
+getBestPlayer: INVALID_INPUT
+joinClan: SUCCESS
+Rank	||	Player
+1		||	1157
+and there are no more players!
+uniteClans: SUCCESS
+joinClan: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+and there are no more players!
+Rank	||	Player
+1		||	2153
+2		||	3221
+3		||	3254
+and there are no more players!
+joinClan: SUCCESS
+addPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+joinClan: FAILURE
+addPlayer: FAILURE
+Rank	||	Player
+1		||	5343
+and there are no more players!
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+joinClan: FAILURE
+addClan: SUCCESS
+Most successful player is: 2153
+completeChallange: SUCCESS
+completeChallange: FAILURE
+completeChallange: SUCCESS
+and there are no more players!
+uniteClans: SUCCESS
+completeChallange: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+completeChallange: FAILURE
+addClan: FAILURE
+getBestPlayer: FAILURE
+Most successful player is: 9873
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: SUCCESS
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+joinClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+addPlayer: SUCCESS
+joinClan: SUCCESS
+Most successful player is: -1
+getScoreboard: INVALID_INPUT
+joinClan: FAILURE
+and there are no more players!
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	5674
+and there are no more players!
+joinClan: SUCCESS
+Most successful player is: -1
+uniteClans: INVALID_INPUT
+joinClan: SUCCESS
+addClan: SUCCESS
+Most successful player is: -1
+addClan: SUCCESS
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	1507
+and there are no more players!
+addPlayer: SUCCESS
+joinClan: FAILURE
+completeChallange: FAILURE
+joinClan: INVALID_INPUT
+and there are no more players!
+Rank	||	Player
+1		||	1507
+and there are no more players!
+addPlayer: SUCCESS
+Most successful player is: 4407
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+Rank	||	Player
+1		||	8250
+and there are no more players!
+addPlayer: SUCCESS
+addPlayer: INVALID_INPUT
+Most successful player is: 3242
+uniteClans: SUCCESS
+completeChallange: FAILURE
+joinClan: SUCCESS
+joinClan: FAILURE
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	5343
+and there are no more players!
+and there are no more players!
+addPlayer: FAILURE
+addPlayer: SUCCESS
+addClan: FAILURE
+joinClan: INVALID_INPUT
+Most successful player is: 1507
+completeChallange: SUCCESS
+joinClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+joinClan: SUCCESS
+addClan: FAILURE
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: INVALID_INPUT
+completeChallange: FAILURE
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+Rank	||	Player
+1		||	4598
+and there are no more players!
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addClan: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: INVALID_INPUT
+uniteClans: INVALID_INPUT
+joinClan: INVALID_INPUT
+addPlayer: INVALID_INPUT
+and there are no more players!
+and there are no more players!
+joinClan: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: INVALID_INPUT
+addClan: SUCCESS
+addPlayer: INVALID_INPUT
+getBestPlayer: FAILURE
+joinClan: SUCCESS
+addPlayer: SUCCESS
+joinClan: SUCCESS
+addClan: SUCCESS
+addClan: SUCCESS
+Rank	||	Player
+1		||	1081
+and there are no more players!
+joinClan: FAILURE
+completeChallange: INVALID_INPUT
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+uniteClans: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+joinClan: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+getBestPlayer: FAILURE
+getScoreboard: INVALID_INPUT
+addPlayer: SUCCESS
+completeChallange: SUCCESS
+getScoreboard: INVALID_INPUT
+and there are no more players!
+getBestPlayer: FAILURE
+getBestPlayer: INVALID_INPUT
+addClan: SUCCESS
+joinClan: FAILURE
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: INVALID_INPUT
+Rank	||	Player
+1		||	8858
+2		||	9771
+and there are no more players!
+completeChallange: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+completeChallange: FAILURE
+Rank	||	Player
+1		||	2577
+and there are no more players!
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+getScoreboard: INVALID_INPUT
+Most successful player is: 32
+Rank	||	Player
+1		||	1330
+2		||	8409
+and there are no more players!
+Rank	||	Player
+1		||	1170
+and there are no more players!
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+and there are no more players!
+uniteClans: SUCCESS
+addPlayer: SUCCESS
+completeChallange: FAILURE
+Most successful player is: -1
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+completeChallange: SUCCESS
+addPlayer: SUCCESS
+and there are no more players!
+uniteClans: FAILURE
+addClan: FAILURE
+addClan: FAILURE
+addClan: SUCCESS
+getScoreboard: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: FAILURE
+uniteClans: FAILURE
+joinClan: INVALID_INPUT
+getBestPlayer: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: INVALID_INPUT
+addPlayer: SUCCESS
+uniteClans: FAILURE
+getBestPlayer: INVALID_INPUT
+joinClan: FAILURE
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+addClan: SUCCESS
+getBestPlayer: INVALID_INPUT
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	202
+and there are no more players!
+joinClan: FAILURE
+uniteClans: FAILURE
+joinClan: FAILURE
+getBestPlayer: INVALID_INPUT
+Rank	||	Player
+1		||	2997
+and there are no more players!
+completeChallange: SUCCESS
+getBestPlayer: INVALID_INPUT
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+uniteClans: SUCCESS
+Rank	||	Player
+1		||	8447
+and there are no more players!
+addPlayer: FAILURE
+addPlayer: SUCCESS
+Rank	||	Player
+1		||	3162
+and there are no more players!
+joinClan: FAILURE
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+joinClan: INVALID_INPUT
+addClan: FAILURE
+completeChallange: SUCCESS
+uniteClans: FAILURE
+completeChallange: SUCCESS
+joinClan: SUCCESS
+and there are no more players!
+completeChallange: SUCCESS
+Most successful player is: 7639
+addClan: SUCCESS
+getBestPlayer: FAILURE
+completeChallange: SUCCESS
+completeChallange: SUCCESS
+uniteClans: INVALID_INPUT
+getBestPlayer: FAILURE
+completeChallange: FAILURE
+completeChallange: SUCCESS
+and there are no more players!
+getBestPlayer: FAILURE
+Most successful player is: -1
+joinClan: FAILURE
+getScoreboard: INVALID_INPUT
+joinClan: FAILURE
+addClan: SUCCESS
+completeChallange: SUCCESS
+addClan: SUCCESS
+joinClan: SUCCESS
+addPlayer: SUCCESS
+addPlayer: SUCCESS
+joinClan: INVALID_INPUT
+uniteClans: FAILURE
+completeChallange: SUCCESS
+addClan: SUCCESS
+addClan: FAILURE
+joinClan: SUCCESS
+addPlayer: SUCCESS
+getBestPlayer: FAILURE
+addPlayer: SUCCESS
+addClan: SUCCESS
+uniteClans: INVALID_INPUT
+Most successful player is: -1
+joinClan: SUCCESS
+Quit done.

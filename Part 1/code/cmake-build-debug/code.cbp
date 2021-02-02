@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Oasis">
+				<Option output="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Oasis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Oasis"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Oasis/fast">
+				<Option output="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Oasis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Oasis/fast"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/HW Computer Science/Data Structures/Wet 1/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.cpp">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/ClanTree.h">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.cpp">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/CoinTree.h">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/Oasis.cpp">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/Oasis.h">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.cpp">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/PlayerTree.h">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/Tree.h">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/library1.cpp">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/library1.h">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/main1.cpp">
+			<Option target="Oasis"/>
+		</Unit>
+		<Unit filename="C:/HW Computer Science/Data Structures/Wet 1/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
