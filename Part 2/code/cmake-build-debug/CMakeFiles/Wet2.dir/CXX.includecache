@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Clan.cpp
+Clan.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Clan.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Clan.h
+Player.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Player.h
+Tree.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Tree.h
+Pair.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Pair.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/DynamicArray.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/HashTable.h
+exception
+-
+List.h
+C:/HW Computer Science/Data Structures/Wet 2/code/List.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Heap.h
+DynamicArray.h
+C:/HW Computer Science/Data Structures/Wet 2/code/DynamicArray.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/List.h
+exception
+-
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Oasis2.cpp
+Oasis2.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Oasis2.h
+Heap.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Heap.h
+Clan.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Clan.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Oasis2.h
+new
+-
+Player.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Player.h
+Clan.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Clan.h
+HashTable.h
+C:/HW Computer Science/Data Structures/Wet 2/code/HashTable.h
+Heap.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Heap.h
+library2.h
+C:/HW Computer Science/Data Structures/Wet 2/code/library2.h
+exception
+C:/HW Computer Science/Data Structures/Wet 2/code/exception
+Tree.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Tree.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Pair.cpp
+Pair.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Pair.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Pair.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Player.cpp
+Player.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Player.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Player.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/Tree.h
+exception
+-
+assert.h
+-
+
+C:/HW Computer Science/Data Structures/Wet 2/code/library2.cpp
+new
+-
+library2.h
+C:/HW Computer Science/Data Structures/Wet 2/code/library2.h
+Oasis2.h
+C:/HW Computer Science/Data Structures/Wet 2/code/Oasis2.h
+exception
+C:/HW Computer Science/Data Structures/Wet 2/code/exception
+
+C:/HW Computer Science/Data Structures/Wet 2/code/library2.h
+
+C:/HW Computer Science/Data Structures/Wet 2/code/main.cpp
+iostream
+-
+library2.h
+C:/HW Computer Science/Data Structures/Wet 2/code/library2.h
+cassert
+-
+ctime
+-
+thread
+-
+
